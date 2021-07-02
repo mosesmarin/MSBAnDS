@@ -6,4 +6,7 @@
 [Link to okstate course catalog](http://catalog.okstate.edu/graduate-college/masters-degrees/business-analytics-data-science-ms/)
 
 
-### Tentative Plan of Study
+## Tentative Plan of Study
+
+MSIS 5503 Statistics for Data Science
+BAN 5733 Descriptive Business Analytics
