@@ -9,4 +9,5 @@
 ## Tentative Plan of Study
 
 MSIS 5503 Statistics for Data Science
+
 BAN 5733 Descriptive Business Analytics
