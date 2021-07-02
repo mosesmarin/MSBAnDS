@@ -1,5 +1,4 @@
-# MSBAnDS
-## Business Analytics and Data Science, MS
+# MSBAnDS ## Business Analytics and Data Science, MS
 
 
 [Full list of courses](https://github.com/mosesmarin/MSBAnDS/blob/main/courses.pdf)
