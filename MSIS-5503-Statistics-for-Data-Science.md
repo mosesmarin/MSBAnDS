@@ -9,5 +9,5 @@
 
 [standardnormaltable](https://github.com/mosesmarin/MSBAnDS/blob/main/files/standardnormaltable.pdf)
 
-
+[t-table.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/files/t-table.pdf)
 
