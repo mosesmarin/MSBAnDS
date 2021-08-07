@@ -20,5 +20,6 @@
 
 [Lecture1A-Understanding Data and Probability](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Lecture1A-Understanding%20Data%20and%20Probability.pdf)
 
+[Lecture1B-Events and Probability](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Lecture1B-Events%20and%20Probability.pdf)
 
 
