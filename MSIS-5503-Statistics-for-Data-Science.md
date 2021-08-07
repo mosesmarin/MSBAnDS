@@ -3,6 +3,5 @@
 
 ### Course Material
 
-
-[MSIS5503-2021FallSyllabus.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/files/MSIS5503-2021FallSyllabus-converted.pdf
+[MSIS5503-2021FallSyllabus](https://github.com/mosesmarin/MSBAnDS/blob/main/files/MSIS5503-2021FallSyllabus-converted.pdf)
 
