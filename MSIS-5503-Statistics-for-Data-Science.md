@@ -2,3 +2,7 @@
 ### MSIS 5503 Statistics for Data Science
 
 ### Course Material
+
+
+[MSIS5503-2021FallSyllabus.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/files/MSIS5503-2021FallSyllabus-converted.pdf
+
