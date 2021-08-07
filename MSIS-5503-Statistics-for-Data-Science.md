@@ -13,5 +13,8 @@
 
 [Durbin_Watson_tables](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Durbin_Watson_tables.pdf)
 
+[Chi-square Table](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Chi-square%20Table.pdf)
+
+
 
 
