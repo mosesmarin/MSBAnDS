@@ -23,3 +23,16 @@
 [Lecture1B-Events and Probability](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Lecture1B-Events%20and%20Probability.pdf)
 
 
+[Welcome to the Course (Video - 26 minutes)](https://youtu.be/Qnu-QjcfIN4)
+
+[Lecture1A (Video - 36 mins)](https://youtu.be/X-JKU3Herfk)
+
+[Lecture1B-Part 1 (Video - 56 mins)](https://youtu.be/GxM4ONmKd3c)
+
+[Lecture1B-Part 2 (Video - 52 mins)](https://youtu.be/HkSoWEoNkzc)
+
+[Lecture1B-Part 3 (Video - 31 mins) - Solved problems](https://youtu.be/NrJ9-qN31hQ)
+
+
+
+
