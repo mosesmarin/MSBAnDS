@@ -11,3 +11,7 @@
 
 [t-table.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/files/t-table.pdf)
 
+[Durbin_Watson_tables](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Durbin_Watson_tables.pdf)
+
+
+
