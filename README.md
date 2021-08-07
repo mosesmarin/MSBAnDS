@@ -8,7 +8,7 @@
 
 ## Tentative Plan of Study
 
-### [MSIS 5503 Statistics for Data Science] (https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503-Statistics-for-Data-Science.md)
+### [MSIS 5503 Statistics for Data Science](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503-Statistics-for-Data-Science.md)
 
 Prerequisites: Graduate standing.
 
