@@ -35,4 +35,12 @@
 
 
 
+### Week 2
+
+
+[Lecture1C-Random Variables and Probability Distributions](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture1C-Random%20Variables%20and%20Probability%20Distributions.pdf)
+
+[Lecture2A-Univariate Discrete Distributions](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture2A-Univariate%20Discrete%20Distributions.pdf)
+
+
 
