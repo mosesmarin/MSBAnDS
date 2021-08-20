@@ -103,9 +103,9 @@ A quick look at sample, population, sampling methods and confidence intervals:
 
 Week 1 Lab Video
 
-Monday Meeting Recording:
+[Monday Meeting Recording](https://youtu.be/BiZqQyoYu1c)
 
-Wednesday Meeting Recording:
+[Wednesday Meeting Recording](https://youtu.be/GVp54Np1HmQ)
 
 
 ### Week 2
