@@ -108,3 +108,44 @@ Monday Meeting Recording:
 Wednesday Meeting Recording:
 
 
+### Week 2
+
+Objectives
+
+By the end of this module, you should be able to...
+
+Describe discrete and continuous random variables
+
+Conduct a normal probability calculation
+
+Describe how you summarize variables based on type
+
+Write a null and alternative hypothesis 
+
+Describe the types of error in hypothesis testing
+
+
+
+### Lecture Video (147 mins total)
+
+[W2 1 Discrete Random Variables (17 mins)](https://youtu.be/VkPL23dk6ZU)
+
+[W2 2 Continuous Random Variables (16 mins)](https://youtu.be/l1LWZ8BxgLo)
+
+[W2 3 Normal Probability Calculation (13 mins)](https://youtu.be/M7eMEZC-Tg8)
+
+[W2 4 Summarize Quantitative Variables (13 mins)](https://youtu.be/uFxe07LSi9M)
+
+[W2 5 Demo - Summarizing Variables (36 mins)](https://youtu.be/WuLjjYSzvSk)
+
+[W2 6 Basics of Inference base on Sampling (21 mins)](https://youtu.be/ATAdRgItR4E)
+
+[W2 7 Basics of Hypothesis Testing (15 mins)](https://youtu.be/mUv3o9LDMDk)
+
+[W2 8 Types of Error in Hypothesis Testing (17 mins)](https://youtu.be/Tpbf-4FKFw0)
+
+[W2 9 JMP Pro Demo - Testing of Mean, SD, Proportion (21 mins)](https://youtu.be/mHgmjU9CRfw)
+
+
+
+
