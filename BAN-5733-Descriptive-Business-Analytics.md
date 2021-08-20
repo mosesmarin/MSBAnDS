@@ -78,7 +78,7 @@ Structured versus Unstructured:
 
 A quick look at sample, population, sampling methods and confidence intervals:
 
-[Link 1 - Sampling (statistics)](https://en.wikipedia.org/wiki/Sampling_(statistics\))
+[Link 1 - Sampling (statistics)](https://en.wikipedia.org/wiki/Sampling_(statistics))
 
 [Link 2 - A Basic Explanation of Confidence Intervals](https://www.census.gov/programs-surveys/saipe/guidance/confidence-intervals.html)
 
