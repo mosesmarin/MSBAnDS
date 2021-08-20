@@ -42,5 +42,12 @@
 
 [Lecture2A-Univariate Discrete Distributions](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture2A-Univariate%20Discrete%20Distributions.pdf)
 
+[Lecture1C-Part1 (Video - 55 mins)](https://youtu.be/s9hr6_kYOds)
+
+[Lecture1C-Part2 (Video - 19mins) - Solved Problems](https://youtu.be/oxaysaG7td4)
+
+[Lecture2A-Part1-Binomial (Video - 60 mins)](https://youtu.be/VL8CWVg6mwU)
+
+[Lecture2A-Part2-Binomial Continued (Video - 30 mins)](https://youtu.be/YgrDVAgvPzw)
 
 
