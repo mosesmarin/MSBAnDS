@@ -93,3 +93,18 @@ A quick look at sample, population, sampling methods and confidence intervals:
 [Link 2 - Expected value](https://en.wikipedia.org/wiki/Expected_value)
 
 
+### Lab Materials
+
+[BAN 5733 Week 1 Lab.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/BAN%205733%20Week%201%20Lab.pdf)
+
+[Week 1 Demonstration of JMP Pro 16](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Week%201%20Demonstration%20of%20JMP%20Pro%2016.pdf)
+
+[Week 1 Practice of JMP Pro 16](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Week%201%20Practice%20of%20JMP%20Pro%2016.pdf)
+
+Week 1 Lab Video
+
+Monday Meeting Recording:
+
+Wednesday Meeting Recording:
+
+
