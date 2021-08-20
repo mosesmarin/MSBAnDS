@@ -80,16 +80,16 @@ A quick look at sample, population, sampling methods and confidence intervals:
 
 [Link 1 - Sampling (statistics)](https://en.wikipedia.org/wiki/Sampling_(statistics\))
 
-[Link 2 - A Basic Explanation of Confidence Intervals] (https://www.census.gov/programs-surveys/saipe/guidance/confidence-intervals.html)
+[Link 2 - A Basic Explanation of Confidence Intervals](https://www.census.gov/programs-surveys/saipe/guidance/confidence-intervals.html)
 
 [Modern versus traditional view of statistics](https://medium.com/@Metiora/traditional-vs-modern-data-science-6f8b2fc0df27)
 
-[A quick overview of events and probabilities] (http://en.wikipedia.org/wiki/Probability#Mathematical_treatment)
+[A quick overview of events and probabilities](http://en.wikipedia.org/wiki/Probability#Mathematical_treatment)
 
 "Discrete random variables, probability mass function, expected value and variance:
 
-[Link 1 - Probability mass function] (https://en.wikipedia.org/wiki/Probability_mass_function)
+[Link 1 - Probability mass function](https://en.wikipedia.org/wiki/Probability_mass_function)
 
-[Link 2 - Expected value] (https://en.wikipedia.org/wiki/Expected_value)
+[Link 2 - Expected value](https://en.wikipedia.org/wiki/Expected_value)
 
 
