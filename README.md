@@ -25,7 +25,7 @@ Schedule types: Lecture
 Department/School: Mgmt Sci & Info Sys
 
 
-### BAN 5733 Descriptive Business Analytics
+### [BAN 5733 Descriptive Business Analytics](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733-Descriptive-Business-Analytics.md)
 
 Prerequisites: Consent of director of MS in Business Analytics or by instructor.
 
