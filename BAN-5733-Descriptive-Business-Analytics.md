@@ -46,5 +46,20 @@ Summarize variables for business decisions.
 
 ### Slides & Handouts	
 
+[Bowers_Camm_Chakraborty_Draft_interfaces.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Bowers_Camm_Chakraborty_Draft_interfaces.pdf)
+
+[Customer_survey.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Customer_survey.sas7bdat)
+
+[Customer_survey_inExcel.xlsx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Customer_survey_inExcel.xlsx)
+
+[Slides Week 1 Events_Probability_Variables_Summarizing Videos 8-10.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Slides%20Week%201%20Events_Probability_Variables_Summarizing%20Videos%208-10.pdf)
+
+[Slides Week 1 Intros_Data_Sampling_WhyStats Videos 1-7.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Slides%20Week%201%20Intros_Data_Sampling_WhyStats%20Videos%201-7.pdf)
+
+[State of business analytics_SAS.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/State%20of%20business%20analytics_SAS.pdf)
+
+[Supplemental Readings for Session 1 Topics Fall 2019.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Supplemental%20Readings%20for%20Session%201%20Topics%20Fall%202019.pdf)
+
+[bigdata_analytics_SAS.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/bigdata_analytics_SAS.pdf)
 
 
