@@ -62,4 +62,34 @@ Summarize variables for business decisions.
 
 [bigdata_analytics_SAS.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/bigdata_analytics_SAS.pdf)
 
+### Additional Materials & Readings
+
+[Sources and Types of Data: Internal versus External (Links to an external site.)](http://www.yourarticlelibrary.com/marketing/sources-of-marketing-research-a-internal-b-external-sources-of-marketing-research/25860/)
+
+Structured versus Unstructured:
+
+[Link 1 - What is structured data?](http://www.webopedia.com/TERM/S/structured_data.html)
+
+[Link 2 - Unstructured data](https://en.wikipedia.org/wiki/Unstructured_data)
+
+[Types of Variables: Dependent versus Independent, Categorical versus Continuous, Nominal, Binary, Ordinal, Interval and Continuous](https://statistics.laerd.com/statistical-guides/types-of-variable.php)
+
+[Reliability and Validity of a measure](http://www.socialresearchmethods.net/kb/relandval.php)
+
+A quick look at sample, population, sampling methods and confidence intervals:
+
+[Link 1 - Sampling (statistics)](https://en.wikipedia.org/wiki/Sampling_(statistics\))
+
+[Link 2 - A Basic Explanation of Confidence Intervals] (https://www.census.gov/programs-surveys/saipe/guidance/confidence-intervals.html)
+
+[Modern versus traditional view of statistics](https://medium.com/@Metiora/traditional-vs-modern-data-science-6f8b2fc0df27)
+
+[A quick overview of events and probabilities] (http://en.wikipedia.org/wiki/Probability#Mathematical_treatment)
+
+"Discrete random variables, probability mass function, expected value and variance:
+
+[Link 1 - Probability mass function] (https://en.wikipedia.org/wiki/Probability_mass_function)
+
+[Link 2 - Expected value] (https://en.wikipedia.org/wiki/Expected_value)
+
 
