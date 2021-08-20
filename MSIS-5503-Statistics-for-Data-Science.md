@@ -51,3 +51,21 @@
 [Lecture2A-Part2-Binomial Continued (Video - 30 mins)](https://youtu.be/YgrDVAgvPzw)
 
 
+### R files
+
+
+[ClassData.csv (Data File)](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/ClassData.csv)
+
+[ReadClassData.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/ReadClassData.R)
+
+[Binomial.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Binomial.R)
+
+[Multinomial.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Multinomial.R)
+
+[HyperGeom.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/HyperGeom.R)
+
+[NegBinomial-Geometric.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/NegBinomial-Geometric.R)
+
+[Poisson.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Poisson.R)
+
+
