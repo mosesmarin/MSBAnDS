@@ -15,6 +15,9 @@
 
 [Chi-square Table](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Chi-square%20Table.pdf)
 
+[standardnormaltable.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/standardnormaltable-1.pdf)
+
+[MSIS5503-Exam1 Handout](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/MSIS5503-Handout-New.pdf)
 
 ### Week 1
 
