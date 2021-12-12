@@ -19,6 +19,14 @@
 
 [MSIS5503-Exam1 Handout](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/MSIS5503-Handout-New.pdf)
 
+
+### Exam2 Materials
+
+[Fall2021-Exam2-Coverage](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Fall2021-Exam2-Coverage.pdf)
+
+[Fall 2021-Exam2-Handout-New.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Fall%202021-Exam2-Handout-New.pdf)
+
+
 ### Week 1
 
 [Lecture1A-Understanding Data and Probability](https://github.com/mosesmarin/MSBAnDS/blob/main/files/Lecture1A-Understanding%20Data%20and%20Probability.pdf)
