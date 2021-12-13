@@ -133,15 +133,15 @@
 
 [Lecture3B-Inferential Statistics - Confidence Intervals.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture3B-Inferential%20Statistics%20-%20Confidence%20Intervals%20(1).pdf)
 
-[Video - Lecture 3B-1 - Inferential Statistics - Sampling Distribution of X-bar(48 minutes)]()
+[Video - Lecture 3B-1 - Inferential Statistics - Sampling Distribution of X-bar(48 minutes)](https://youtu.be/XQBF3hAcoSs)
 
-[Video - Lecture 3B-2 - Problems - Sampling Distribution of X-bar(25 minutes)]()
+[Video - Lecture 3B-2 - Problems - Sampling Distribution of X-bar(25 minutes)](https://youtu.be/1P0bKQqc5Us)
 
-[Video - Lecture 3B-3 - Effect of Sample Size and Standard Error(11 minutes)]()
+[Video - Lecture 3B-3 - Effect of Sample Size and Standard Error(11 minutes)](https://youtu.be/lBk2ZvR3BRc)
 
-[Video - Lecture 3B-4 - Confidence Intervals (55 minutes)]()
+[Video - Lecture 3B-4 - Confidence Intervals (55 minutes)](https://youtu.be/Hoq_2ErNtIw)
 
-[Video - Lecture 3B-5 - Problems - Confidence Intervals (23 minutes)]()
+[Video - Lecture 3B-5 - Problems - Confidence Intervals (23 minutes)](https://youtu.be/rUOAizMKQPk)
 
 
 
@@ -162,7 +162,7 @@
 
 [Lecture3D-Inferential Statistics - Two samples.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture3D-Inferential%20Statistics%20-%20Two%20samples%20(1).pdf)
 
-[Video - Lecture 3D-Two sample Hypothesis Tests (44 minutes)]()
+[Video - Lecture 3D-Two sample Hypothesis Tests (44 minutes)](https://youtu.be/ftRerkNt4MU)
 
 
 ### Week 9
@@ -240,13 +240,13 @@ none
 
 [Lecture4E-Autocorrelation and Time Series Regression.pptx]()
 
-[Video - Lecture 4D-1-Multiple Regression - Interaction Categorical (22 minutes)]()
+[Video - Lecture 4D-1-Multiple Regression - Interaction Categorical (22 minutes)](https://youtu.be/CZ2HXYtVjjI)
 
-[Video - Lecture 4D-2-Multiple Regression - Interaction - Continuous (29 minutes)]()
+[Video - Lecture 4D-2-Multiple Regression - Interaction - Continuous (29 minutes)](https://youtu.be/x6-ZeSleS2o)
 
-[Video - Lecture 4E-1-Multiple Regression -Time Series & Autocorrelation (23 minutes)]()
+[Video - Lecture 4E-1-Multiple Regression -Time Series & Autocorrelation (23 minutes)](https://youtu.be/xqYbTzQN830)
 
-[Video - Lecture 4E-2-Multiple Regression -Durbin-Watson Test (42 minutes)]()
+[Video - Lecture 4E-2-Multiple Regression -Durbin-Watson Test (42 minutes)](https://youtu.be/BVlz_dLddOg)
 
 [Interact.R]()
 
