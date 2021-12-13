@@ -93,26 +93,26 @@
 
 [Lecture2A-Univariate Discrete Distributions.pptx (Continued from Week2)](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture2A-Univariate%20Discrete%20Distributions-1%20(1).pdf)
 
-[Lecture 2A - Part3 -Multinomial Distribution (Video - 24 minutes)]()
+[Lecture 2A - Part3 -Multinomial Distribution (Video - 24 minutes)](https://youtu.be/p9IPNx28Kik)
 
-[Lecture 2A - Part4 -Hypergeometric Distribution (Video - 27 minutes)]()
+[Lecture 2A - Part4 -Hypergeometric Distribution (Video - 27 minutes)](https://youtu.be/l9sWqsPgx1s)
 
-[Lecture 2A - Part5 -Negative Binomial & Geometric Distribution (Video - 27 minutes)]()
+[Lecture 2A - Part5 -Negative Binomial & Geometric Distribution (Video - 27 minutes)](https://youtu.be/MOC0FPURaJs)
 
-[Lecture 2A - Part6 - Poisson Distribution (Video - 28 minutes)]()
+[Lecture 2A - Part6 - Poisson Distribution (Video - 28 minutes)](https://youtu.be/llJEf4XNrK4)
 
 
 ### Week 4
 
 [Lecture2B-Univariate Continuous Distributions.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture2B-Univariate%20Continuous%20Distributions.pdf)
 
-[Lecture 2B - Part 1 - Introduction to Continuous Distributions (Video 19 minutes)]()
+[Lecture 2B - Part 1 - Introduction to Continuous Distributions (Video 19 minutes)](https://youtu.be/jxt4UcnRr14)
 
-[Lecture 2B - Part 2 - The Uniform Distribution (Video 36 minutes)]()
+[Lecture 2B - Part 2 - The Uniform Distribution (Video 36 minutes)](https://youtu.be/2W4y932g8ow)
 
-[Lecture 2B - Part 3 - The Exponential Distribution (Video 42 minutes)]()
+[Lecture 2B - Part 3 - The Exponential Distribution (Video 42 minutes)](https://youtu.be/8S7Vc6nK3D4)
 
-[Lecture 2B - Part 3 - The Normal Distribution (Video 49 minutes)]()
+[Lecture 2B - Part 4 - The Normal Distribution (Video 49 minutes)](https://youtu.be/8n_Uez8MD48)
 
 
 
@@ -120,11 +120,11 @@
 
 [Lecture3A-Descriptive and Inferential statistics.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture3A-Descriptive%20and%20Inferential%20statistics%20(1).pdf)
 
-[Lecture 3A - Part 1 - Descriptive Statistics - Numerical Data (Video 59 minutes)]()
+[Lecture 3A - Part 1 - Descriptive Statistics - Numerical Data (Video 59 minutes)](https://youtu.be/JCRIEP1COmk)
 
-[Lecture 3A - Part 2 - Descriptive Statistics - Grouped Data (Video 46 minutes)]()
+[Lecture 3A - Part 2 - Descriptive Statistics - Grouped Data (Video 46 minutes)](https://youtu.be/5gMYXN4zqnk)
 
-[Lecture 3A - Part 3 - Inferential Statistics - Introductioni (Video 56 minutes)]()
+[Lecture 3A - Part 3 - Inferential Statistics - Introductioni (Video 56 minutes)](https://youtu.be/tQn4sTulRMY)
 
 
 
@@ -149,13 +149,13 @@
 
 [Lecture3C-Inferential Statistics - Hypothesis Testing.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture3C-Inferential%20Statistics%20-%20Hypothesis%20%20Testing%20(2).pdf)
 
-[Video - Lecture 3C-1-Hypothesis Testing Theory (34 minutes)]()
+[Video - Lecture 3C-1-Hypothesis Testing Theory (34 minutes)](https://youtu.be/fY_hBvjBH30)
 
-[Video - Lecture 3C-2-Hypothesis Testing Problems (52 minutes)]()
+[Video - Lecture 3C-2-Hypothesis Testing Problems (52 minutes)](https://youtu.be/8KE-QH8J4eg)
 
-[Video - Lecture 3C-3-Power of Hypothesis Test (30 minutes)]()
+[Video - Lecture 3C-3-Power of Hypothesis Test (30 minutes)](https://youtu.be/cGPWUuxbSIs)
 
-[Video - Lecture 3C-4-Bootstrapping (20 minutes)]()
+[Video - Lecture 3C-4-Bootstrapping (20 minutes)](https://youtu.be/6SFuXMZLSx0)
 
 
 ### Week 8
@@ -173,17 +173,17 @@ none
 
 [Lecture4A-Correlation and Regression.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture4A-Correlation%20and%20Regression%20(2).pdf)
 
-[Video - Lecture 4A-1-Correlation and Regression (34 minutes)]()
+[Video - Lecture 4A-1-Correlation and Regression (34 minutes)](https://youtu.be/aXirZGL0qLM)
 
-[Video - Lecture 4A-2-Correlation and Simple Regression (35 minutes)]()
+[Video - Lecture 4A-2-Correlation and Simple Regression (35 minutes)](https://youtu.be/7lj0Q5O-YTA)
 
-[Video - Lecture 4A-3-Least Squares Estimation (22 minutes)]()
+[Video - Lecture 4A-3-Least Squares Estimation (22 minutes)](https://youtu.be/ObusGIFEpQc)
 
-[Video - Lecture 4A-4-R-Square and Model Fit (37 minutes)]()
+[Video - Lecture 4A-4-R-Square and Model Fit (37 minutes)](https://youtu.be/OqNrZlj4P6w)
 
-[Video - Lecture 4A-5-Full Simple Regression Example (17 minutes)]()
+[Video - Lecture 4A-5-Full Simple Regression Example (17 minutes)](https://youtu.be/yGFPVVCimRw)
 
-[Video - Lecture 4A-6-Simple Regression with Categorical Predictor (15 minutes)]()
+[Video - Lecture 4A-6-Simple Regression with Categorical Predictor (15 minutes)](https://youtu.be/EJAZuODTprI)
 
 [CovarCorr.R]()
 
@@ -200,13 +200,13 @@ none
 
 [Lecture4B-Multiple Regression.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture4B-Multiple%20Regression%20(3).pdf)
 
-[Video - Lecture 4B-1-Multiple Regression (54 minutes)]()
+[Video - Lecture 4B-1-Multiple Regression (54 minutes)](https://youtu.be/RwvSlbxXlsA)
 
-[Video - Lecture 4B-2-Multiple Regression - Predictor Selection (24 minutes)]()
+[Video - Lecture 4B-2-Multiple Regression - Predictor Selection (24 minutes)](https://youtu.be/QqpI_DlQzhc)
 
-[Video - Lecture 4B-3-Multiple Regression - Categorical Predictors (13 minutes)]()
+[Video - Lecture 4B-3-Multiple Regression - Categorical Predictors (13 minutes)](https://youtu.be/qgmW06pDy0Q)
 
-[Video - Lecture 4B-4-Multiple Regression - Categorical and Continuous Predictors (27 minutes)]()
+[Video - Lecture 4B-4-Multiple Regression - Categorical and Continuous Predictors (27 minutes)](https://youtu.be/IsrtHy6uh6M)
 
 [MR100.csv]()
 
@@ -218,17 +218,17 @@ none
 
 [Lecture4C-Testing Multiple Regression Assumptions.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture4C-Testing%20Multiple%20Regression%20Assumptions%20(4).pdf)
 
-[Video - Lecture 4C-1-Multiple Regression - Linearity (26 minutes)]()
+[Video - Lecture 4C-1-Multiple Regression - Linearity (26 minutes)](https://youtu.be/SUaJ2dYgd4s)
 
-[Video - Lecture 4C-2-Multiple Regression - Normality of Errors (17 minutes)]()
+[Video - Lecture 4C-2-Multiple Regression - Normality of Errors (17 minutes)](https://youtu.be/R_QlcanukNY)
 
-[Video - Lecture 4C-3-Multiple Regression - Homoscedasticity of Errors (9 minutes)]()
+[Video - Lecture 4C-3-Multiple Regression - Homoscedasticity of Errors (9 minutes)](https://youtu.be/vAU9iPiKzvA)
 
-[Video - Lecture 4C-4-Multiple Regression - Multicollinearity (21 minutes)]()
+[Video - Lecture 4C-4-Multiple Regression - Multicollinearity (21 minutes)](https://youtu.be/yXagjzPMdEg)
 
-[Video - Lecture 4C-5-Multiple Regression - Ouliers (33 minutes)]()
+[Video - Lecture 4C-5-Multiple Regression - Ouliers (33 minutes)](https://youtu.be/QlVWVbxxCh4)
 
-[Video - Lecture 4C-6-Multiple Regression -Missing Data (26 minutes)]()
+[Video - Lecture 4C-6-Multiple Regression -Missing Data (26 minutes)](https://youtu.be/FqWXQc1t8Kk)
 
 [AssumpReg.R]()
 
@@ -267,13 +267,13 @@ none
 
 [Lecture5 - The Chi-Square Distribution & Logistic Regression.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Lecture5%20-%20The%20Chi-Square%20Distribution%20%26%20Logistic%20Regression%20(1).pdf)
 
-[Video - Lecture 5A-1-Chi-Square Tests - Independence (40 minutes)]()
+[Video - Lecture 5A-1-Chi-Square Tests - Independence (40 minutes)](https://youtu.be/eP6hsNJGa_Q)
 
-[Video - Lecture 5A-2-Chi-Square Tests - Goodness of Fit & Homogeneity (23 minutes)]()
+[Video - Lecture 5A-2-Chi-Square Tests - Goodness of Fit & Homogeneity (23 minutes)](https://youtu.be/1wee7d1stuA)
 
-[Video - Lecture 5B - Binomial Logistic Regression (50 minutes)]()
+[Video - Lecture 5B - Binomial Logistic Regression (50 minutes)](https://youtu.be/UU0ER-MKTRU)
 
-[Video - Lecture 5C - Multinomial Logistic Regression (37 minutes)]()
+[Video - Lecture 5C - Multinomial Logistic Regression (37 minutes)](https://youtu.be/pA7GVF6PUJI)
 
 [Chi-Sq.R]()
 
