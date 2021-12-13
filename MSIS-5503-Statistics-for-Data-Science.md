@@ -26,6 +26,33 @@
 
 [Fall 2021-Exam2-Handout-New.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Fall%202021-Exam2-Handout-New.pdf)
 
+### Solutions to Assignments
+
+[FA21-Assignment1_Solution]()
+
+[FA21-Assignment2_Solution]()
+
+[FA21-Assignment3_Solution]()
+
+[FA21-Assignment4_solution]()
+
+[FA21-Assignment5_Solution]()
+
+[FA21-Assignment6_Solution]()
+
+[FA21-Assignment7_Solution]()
+
+[FA21-Assignment8_Solution]()
+
+[FA21-Assignment9_Solution]()
+
+[FA21-Assignment10_Solution]()
+
+[FA21-Assignment11_Solution]()
+
+[FA21-Assignment12-Solution]()
+
+[FA21-Assignment13_Solution]()
 
 ### Week 1
 
