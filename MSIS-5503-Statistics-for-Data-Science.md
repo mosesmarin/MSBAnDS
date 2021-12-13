@@ -185,13 +185,13 @@ none
 
 [Video - Lecture 4A-6-Simple Regression with Categorical Predictor (15 minutes)](https://youtu.be/EJAZuODTprI)
 
-[CovarCorr.R]()
+[CovarCorr.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/CovarCorr%20(1).R)
 
-[SimpleReg.R]()
+[SimpleReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/SimpleReg%20(1).R)
 
-[AgeDistance.R]()
+[AgeDistance.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/AgeDistance%20(1).R)
 
-[Driver-Age.csv]()
+[Driver-Age.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Driver-Age.csv)
 
 
 
@@ -208,9 +208,9 @@ none
 
 [Video - Lecture 4B-4-Multiple Regression - Categorical and Continuous Predictors (27 minutes)](https://youtu.be/IsrtHy6uh6M)
 
-[MR100.csv]()
+[MR100.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/MR100%20(1).csv)
 
-[MultipReg.R]()
+[MultipReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/MultipReg%20(1).R)
 
 
 
@@ -230,7 +230,7 @@ none
 
 [Video - Lecture 4C-6-Multiple Regression -Missing Data (26 minutes)](https://youtu.be/FqWXQc1t8Kk)
 
-[AssumpReg.R]()
+[AssumpReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/AssumpReg%20(1).R)
 
 
 
@@ -248,17 +248,17 @@ none
 
 [Video - Lecture 4E-2-Multiple Regression -Durbin-Watson Test (42 minutes)](https://youtu.be/BVlz_dLddOg)
 
-[Interact.R]()
+[Interact.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Interact%20(1).R)
 
-[Birth-weight.csv]()
+[Birth-weight.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Birth-weight.csv)
 
-[icecream.csv]()
+[icecream.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/icecream.csv)
 
-[AutoCorr.R]()
+[AutoCorr.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/AutoCorr.R)
 
-[Microsoft.csv]()
+[Microsoft.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Microsoft.csv)
 
-[Durbin_Watson_tables.pdf]()
+[Durbin_Watson_tables.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Durbin_Watson_tables.pdf)
 
 
 
@@ -275,15 +275,15 @@ none
 
 [Video - Lecture 5C - Multinomial Logistic Regression (37 minutes)](https://youtu.be/pA7GVF6PUJI)
 
-[Chi-Sq.R]()
+[Chi-Sq.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Chi-Sq.R)
 
-[Chi-square Table.pdf]()
+[Chi-square Table.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Chi-square%20Table.pdf)
 
-[LogisticReg.R]()
+[LogisticReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/LogisticReg%20(1).R)
 
-[Admit-Reg.csv]()
+[Admit-Reg.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Admit-Reg.csv)
 
-[hsbdemo.csv]()
+[hsbdemo.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/hsbdemo%20(1).csv)
 
 
 
