@@ -296,6 +296,8 @@ none
 
 [ClassData.csv (Data File)](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/ClassData.csv)
 
+MR100.csv (Data File For Multiple Regression)
+
 [ReadClassData.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/ReadClassData.R)
 
 [Binomial.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Binomial.R)
@@ -307,5 +309,40 @@ none
 [NegBinomial-Geometric.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/NegBinomial-Geometric.R)
 
 [Poisson.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Poisson.R)
+
+[Uniform.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Uniform.R)
+
+[Exponential.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Exponential.R)
+
+[Normal.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Normal.R)
+
+[DescriptiveStat.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/DescriptiveStat.R)
+
+[GroupData.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/GroupData.R)
+
+[mean_bootstrap.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/mean_bootstrap.R)
+
+[SamplingDist.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/SamplingDist.R)
+
+[Two_sample.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Two_sample%20(2).R)
+
+[AgeDistance.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/AgeDistance%20(2).R)
+
+[CovarCorr.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/CovarCorr%20(1).R)
+
+[Driver-Age.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Driver-Age%20(1).csv)
+
+[SimpleReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/SimpleReg%20(1).R)
+
+[MultipReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/MultipReg%20(1).R)
+
+[AssumpReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/AssumpReg%20(1).R)
+
+[Interact.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Interact%20(1).R)
+
+[Chi-Sq.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/Chi-Sq%20(1).R)
+
+[LogisticReg.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/LogisticReg%20(1).R)
+
 
 
