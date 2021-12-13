@@ -28,31 +28,31 @@
 
 ### Solutions to Assignments
 
-[FA21-Assignment1_Solution]()
+[FA21-Assignment1_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment1_Solution.pdf)
 
-[FA21-Assignment2_Solution]()
+[FA21-Assignment2_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment2_Solution%20(1).pdf)
 
-[FA21-Assignment3_Solution]()
+[FA21-Assignment3_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment3_Solution%20(1).pdf)
 
-[FA21-Assignment4_solution]()
+[FA21-Assignment4_solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment4_solution.pdf)
 
-[FA21-Assignment5_Solution]()
+[FA21-Assignment5_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment5_Solution.pdf)
 
-[FA21-Assignment6_Solution]()
+[FA21-Assignment6_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment6_Solution.pdf)
 
-[FA21-Assignment7_Solution]()
+[FA21-Assignment7_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment7_Solution.pdf)
 
-[FA21-Assignment8_Solution]()
+[FA21-Assignment8_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment8_Solution%20(1).pdf)
 
-[FA21-Assignment9_Solution]()
+[FA21-Assignment9_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment9_Solution%20(1).pdf)
 
-[FA21-Assignment10_Solution]()
+[FA21-Assignment10_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment10_Solution%20(1).pdf)
 
-[FA21-Assignment11_Solution]()
+[FA21-Assignment11_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment11_Solution%20(1).pdf)
 
-[FA21-Assignment12-Solution]()
+[FA21-Assignment12-Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment12-Solution.pdf)
 
-[FA21-Assignment13_Solution]()
+[FA21-Assignment13_Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/FA21-Assignment13_Solution.pdf)
 
 ### Week 1
 
