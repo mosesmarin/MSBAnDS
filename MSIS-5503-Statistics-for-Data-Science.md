@@ -89,6 +89,133 @@
 [Lecture2A-Part2-Binomial Continued (Video - 30 mins)](https://youtu.be/YgrDVAgvPzw)
 
 
+### Week 3
+[Lecture2A-Univariate Discrete Distributions.pptx (Continued from Week2)]()
+[Lecture 2A - Part3 -Multinomial Distribution (Video - 24 minutes)]()
+[Lecture 2A - Part4 -Hypergeometric Distribution (Video - 27 minutes)]()
+[Lecture 2A - Part5 -Negative Binomial & Geometric Distribution (Video - 27 minutes)]()
+[Lecture 2A - Part6 - Poisson Distribution (Video - 28 minutes)]()
+
+
+### Week 4
+[Lecture2B-Univariate Continuous Distributions.pptx]()
+[Lecture 2B - Part 1 - Introduction to Continuous Distributions (Video 19 minutes)]()
+[Lecture 2B - Part 2 - The Uniform Distribution (Video 36 minutes)]()
+[Lecture 2B - Part 3 - The Exponential Distribution (Video 42 minutes)]()
+[Lecture 2B - Part 3 - The Normal Distribution (Video 49 minutes)]()
+
+
+
+### Week 5
+[Lecture3A-Descriptive and Inferential statistics.pptx]()
+[Lecture 3A - Part 1 - Descriptive Statistics - Numerical Data (Video 59 minutes)]()
+[Lecture 3A - Part 2 - Descriptive Statistics - Grouped Data (Video 46 minutes)]()
+[Lecture 3A - Part 3 - Inferential Statistics - Introductioni (Video 56 minutes)]()
+
+
+
+
+### Week 6
+[Lecture3B-Inferential Statistics - Confidence Intervals.pptx]()
+[Video - Lecture 3B-1 - Inferential Statistics - Sampling Distribution of X-bar(48 minutes)]()
+[Video - Lecture 3B-2 - Problems - Sampling Distribution of X-bar(25 minutes)]()
+[Video - Lecture 3B-3 - Effect of Sample Size and Standard Error(11 minutes)]()
+[Video - Lecture 3B-4 - Confidence Intervals (55 minutes)]()
+[Video - Lecture 3B-5 - Problems - Confidence Intervals (23 minutes)]()
+
+
+
+### Week 7
+[Lecture3C-Inferential Statistics - Hypothesis Testing.pptx]()
+[Video - Lecture 3C-1-Hypothesis Testing Theory (34 minutes)]()
+[Video - Lecture 3C-2-Hypothesis Testing Problems (52 minutes)]()
+[Video - Lecture 3C-3-Power of Hypothesis Test (30 minutes)]()
+[Video - Lecture 3C-4-Bootstrapping (20 minutes)]()
+
+
+### Week 8
+[Lecture3D-Inferential Statistics - Two samples.pptx]()
+[Video - Lecture 3D-Two sample Hypothesis Tests (44 minutes)]()
+
+
+### Week 9
+none
+
+
+### Week 10
+[Lecture4A-Correlation and Regression.pptx]()
+[Video - Lecture 4A-1-Correlation and Regression (34 minutes)]()
+[Video - Lecture 4A-2-Correlation and Simple Regression (35 minutes)]()
+[Video - Lecture 4A-3-Least Squares Estimation (22 minutes)]()
+[Video - Lecture 4A-4-R-Square and Model Fit (37 minutes)]()
+[Video - Lecture 4A-5-Full Simple Regression Example (17 minutes)]()
+[Video - Lecture 4A-6-Simple Regression with Categorical Predictor (15 minutes)]()
+[CovarCorr.R]()
+[SimpleReg.R]()
+[AgeDistance.R]()
+[Driver-Age.csv]()
+
+
+
+
+### Week 11
+[Lecture4B-Multiple Regression.pptx]()
+[Video - Lecture 4B-1-Multiple Regression (54 minutes)]()
+[Video - Lecture 4B-2-Multiple Regression - Predictor Selection (24 minutes)]()
+[Video - Lecture 4B-3-Multiple Regression - Categorical Predictors (13 minutes)]()
+[Video - Lecture 4B-4-Multiple Regression - Categorical and Continuous Predictors (27 minutes)]()
+[MR100.csv]()
+[MultipReg.R]()
+
+
+
+### Week 12
+[Lecture4C-Testing Multiple Regression Assumptions.pptx]()
+[Video - Lecture 4C-1-Multiple Regression - Linearity (26 minutes)]()
+[Video - Lecture 4C-2-Multiple Regression - Normality of Errors (17 minutes)]()
+[Video - Lecture 4C-3-Multiple Regression - Homoscedasticity of Errors (9 minutes)]()
+[Video - Lecture 4C-4-Multiple Regression - Multicollinearity (21 minutes)]()
+[Video - Lecture 4C-5-Multiple Regression - Ouliers (33 minutes)]()
+[Video - Lecture 4C-6-Multiple Regression -Missing Data (26 minutes)]()
+[AssumpReg.R]()
+
+
+
+### Week 13
+[Lecture4D-Multiple Regression with Interaction.pptx]()
+[Lecture4E-Autocorrelation and Time Series Regression.pptx]()
+[Video - Lecture 4D-1-Multiple Regression - Interaction Categorical (22 minutes)]()
+[Video - Lecture 4D-2-Multiple Regression - Interaction - Continuous (29 minutes)]()
+[Video - Lecture 4E-1-Multiple Regression -Time Series & Autocorrelation (23 minutes)]()
+[Video - Lecture 4E-2-Multiple Regression -Durbin-Watson Test (42 minutes)]()
+[Interact.R]()
+[Birth-weight.csv]()
+[icecream.csv]()
+[AutoCorr.R]()
+[Microsoft.csv]()
+[Durbin_Watson_tables.pdf]()
+
+
+
+
+### Week 14
+[Lecture5 - The Chi-Square Distribution & Logistic Regression.pptx]()
+[Video - Lecture 5A-1-Chi-Square Tests - Independence (40 minutes)]()
+[Video - Lecture 5A-2-Chi-Square Tests - Goodness of Fit & Homogeneity (23 minutes)]()
+[Video - Lecture 5B - Binomial Logistic Regression (50 minutes)]()
+[Video - Lecture 5C - Multinomial Logistic Regression (37 minutes)]()
+[Chi-Sq.R]()
+[Chi-square Table.pdf]()
+[LogisticReg.R]()
+[Admit-Reg.csv]()
+[hsbdemo.csv]()
+
+
+
+
+
+
+
 ### R files
 
 
