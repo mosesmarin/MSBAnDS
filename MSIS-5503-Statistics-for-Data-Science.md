@@ -296,7 +296,7 @@ none
 
 [ClassData.csv (Data File)](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/ClassData.csv)
 
-MR100.csv (Data File For Multiple Regression)
+[MR100.csv (Data File For Multiple Regression)](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/MR100%20(1).csv)
 
 [ReadClassData.R](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503/ReadClassData.R)
 
