@@ -185,4 +185,81 @@ Describe the types of error in hypothesis testing
 
 
 
+###  Week 3 (Aug 30 - Sept 5)
+
+
+###  Week 4 (Sep 6 - Sep 12)
+
+
+###  Week 5 (Sep 13 - Sep 19)
+
+
+###  Week 6 (Sep 20 - Sep 26)
+
+
+###  Week 7 (Sep 27- Oct 3)
+
+###  Week 8 (Oct 4 - Oct 10)
+
+###  Week 9(Oct 12 - Oct 18)
+
+
+###  Week 10 (Oct 19 - Oct 25)
+
+
+
+###  Week 11 (Oct 26 - Nov 1)
+
+
+###  Week 12 (Nov 2 - Nov 8)
+
+
+
+###  Week 13 (Nov 9 - Nov 15)
+
+
+###  Week 14 - Text Analytics
+
+Objectives
+By the end of this module, you should be able to...
+Understand text analytics at a high level
+Perform text parsing
+
+[W14.1 Overview of Text Analytics (22 mins)](https://youtu.be/mfQosVbaSng)
+
+[W14.2 Basics of Text Parsing Demo (24 mins)](https://youtu.be/KeYqo-X4Xp8)
+
+[W14.3 More Text Analytics Demo (26 mins)](https://youtu.be/TyyeueVawFU)
+
+[W14.4 Case Studies and Next Steps (18 mins)](https://youtu.be/SjX3ssXjy58)
+
+[BAN5733_Text Analytics_Fall21_StudentSlides.pdf]()
+
+[app_review_data.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/app_review_data.jmp)
+
+[randomseedreset3.jmpaddin](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/randomseedreset3-1.jmpaddin)
+
+[A Guide to Integrating Text Analytics into Tableau](https://towardsdatascience.com/a-guide-to-integrating-text-analytics-into-tableau-94d1a1331117)
+
+[A Starter Kit for Text Analysis in Tableau](https://www.flerlagetwins.com/2019/09/text-analysis.html)
+
+
+###  Week 16 - No new material - Exam Review
+
+[BAN 5733 Final Exam Review Sheet Fall 2021.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/BAN%205733%20Final%20Exam%20Review%20Sheet%20Fall%202021%20(1).pdf)
+
+[Week 16 Lab Slides BAN 5733_2021.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Week%2016%20Lab%20Slides%20BAN%205733_2021.pdf)
+
+[Week 16 Lab Video Monday Part 1](https://youtu.be/nt_yxjSqqQA) 
+
+[Week 16 Lab Video Monday Part 2](https://youtu.be/v6SCcEtixYY)
+
+
+
+
+
+
+
+
+
 
