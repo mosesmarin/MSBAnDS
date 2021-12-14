@@ -6,10 +6,36 @@
 
 ### Datacamp
 
-Datacamp Link for Online Students
+[Datacamp Link for Online Students](https://www.datacamp.com/groups/shared_links/cf1a74812d27935edeb3d16439fbd9162bc54198535d0e7f4c2813e6e2acbbf5)
 
 If you don't have a datacamp account, use this link and create one.  You must use your okstate.edu email address. 
 Datacamp for Online Students (Links to an external site.) If you do have an account using your OSU email, then clicking the link will add you to the group.  If you have an account using another email address, you will need to create a new one with OSU email. 
+
+
+
+### Exercise Solutions
+
+[BAN 5733 Ex 1 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%201%20Fall%202021%20Solution.pdf)
+
+[BAN 5733 Ex 2 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%202%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 3 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%203%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 4 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%204%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 5 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%205%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 6 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%206%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 7 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%207%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 8 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%208%20Fall%202021%20Solution.pdf)
+
+[B5733 Exercise 9 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/B5733%20Exercise%209%20Fall%202021%20Solution.pdf)
+
+[BAN 5733 Exercise 10 Fall21 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/BAN%205733%20Exercise%2010%20Fall21%20Solution.pdf)
+
+[BAN 5733 Exercise 11 Fall 2021 Solution.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/BAN%205733%20Exercise%2011%20Fall%202021%20Solution%20(1).pdf)
 
 
 
