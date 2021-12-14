@@ -4,6 +4,17 @@
 ### Course Material
 
 
+### Datacamp
+
+Datacamp Link for Online Students
+
+If you don't have a datacamp account, use this link and create one.  You must use your okstate.edu email address. 
+Datacamp for Online Students (Links to an external site.) If you do have an account using your OSU email, then clicking the link will add you to the group.  If you have an account using another email address, you will need to create a new one with OSU email. 
+
+
+
+
+
 ### Week 1
 
 Objectives
