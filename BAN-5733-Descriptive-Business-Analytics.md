@@ -213,16 +213,47 @@ Describe the types of error in hypothesis testing
 
 ###  Week 12 (Nov 2 - Nov 8)
 
+Objectives
+By the end of this module, you should be able to... 1. Basics of ANN. 2. Selecting useful inputs in ANN 3. Optimizing complexity in ANN 4. Applications of ANN.
+
+[W12 1 Basics of ANN, Selecting useful inputs in ANN, Optimizing complexity in ANN, Applications of ANN (20 mins)](https://youtu.be/cohmub65iuw)
+
+[W12 2 Demo 1- Neural Net modeling using JMP Pro (17 mins)](https://youtu.be/n5-96hmKZTw)
+
+[W12 3 Demo 2 - LR and Neural Net using JMP Pro (24 mins)](https://youtu.be/wfyITvdhIus)
+
+[Visualize a Decision Tree in 4 Ways with Scikit-Learn and Python Links to an external site.](https://mljar.com/blog/visualize-decision-tree/)
+
+[BAN5733_Lecture and Demo_ANN_students.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W12-BAN5733_Lecture%20and%20Demo_ANN_students%20(1).pdf)
+
+[randomseedreset3.jmpaddin](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W12-randomseedreset3%20(1).jmpaddin)
+
+[pva97nk_imputed.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W12-pva97nk_imputed.jmp)
+
+[Fitness.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W12-Fitness.jmp)
 
 
-###  Week 13 (Nov 9 - Nov 15)
 
-W13-1 Overview of Segmentation (26mins)	
+###  Week 13 (Nov 9 - Nov 15
 
-W13-2 RFM Analysis, components, & computation, Issues in RFM analysis (22 mins)	
+Objectives
+By the end of this module, you should be able to... 1. Perform segmentation using RFM and describe the segments using variables 2. Perform RFM segmentation using SAS.
 
-W13-3 RFM analysis by using SAS (22 mins)	
+[W13-1 Overview of Segmentation (26mins)](https://youtu.be/KiFmvyAJUlg)
 
+[W13-2 RFM Analysis, components, & computation, Issues in RFM analysis (22 mins)](https://youtu.be/BiovFd3Eqho)
+
+[W13-3 RFM analysis by using SAS (22 mins)](https://youtu.be/umbL42yq8ik)
+
+[Segmentation and RFM slides for students.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w14-Segmentation%20and%20RFM%20slides%20for%20students%20(2).pdf)
+
+[Catalog_RFM.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w14-Catalog_RFM.sas7bdat)
+
+[RFM Analysis Revised.sas](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w14-RFM%20Analysis%20Revised.sas)
+
+[Making_a_database_pay_off_RFM.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w14-Making_a_database_pay_off_RFM%20(2).pdf)
+
+[Simple Neural Networks in Python](https://towardsdatascience.com/inroduction-to-neural-networks-in-python-7e0b422e6c24)
 
 
 ###  Week 14 - Text Analytics
