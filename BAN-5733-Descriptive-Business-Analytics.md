@@ -187,6 +187,25 @@ Describe the types of error in hypothesis testing
 
 ###  Week 3 (Aug 30 - Sept 5)
 
+[W3 1 Overview of different statistical tests (8.5 min)](https://youtu.be/qBQ30s7mypk)
+
+[W3 2 Two-sample t-test lecture (9 min)](https://youtu.be/Q6GtChleYCI)
+
+[W3 3 Two-sample t-test JMP demo (12 min)](https://youtu.be/d7rbue5Y60Y)
+
+[W3 4 Paired t-test lecture(6 min)](https://youtu.be/alSF0UY7BSE)
+
+[W3 5 Paired t-test JMP demo (6 min)](https://youtu.be/TIjCsxjoOyQ)
+
+[W3 6 Cross-Tab Lecture (15 min)](https://youtu.be/YDYl15AFyKY)
+
+[W3 7 Cross Tab JMP Demo (14 min)](https://youtu.be/2ivQC7wJk_k)
+
+[W3 8 Correlation Lecture (17 min)](https://youtu.be/lg9_aeHiqzo)
+
+[W3 9 Correlation JMP Demo (11 min)](https://youtu.be/Ii_rqPxglwo)
+
+
 
 [W2L-3 JMP Demo - Summarizing Data Using Tabulate (2 mins)](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w3-02-summarizing-data-using-tabulate.pdf)
 
