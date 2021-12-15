@@ -206,9 +206,42 @@ Describe the types of error in hypothesis testing
 
 ###  Week 10 (Oct 19 - Oct 25)
 
+Objectives
+By the end of this module, you should be able to...Discuss about ANOVA - mechanics & interpretation. Test for interactions among variables. Comment on the performance of an ANOVA.
+
+[W10-1 Experimental Design (25 Min)](https://youtu.be/q-csm4Ashc0)
+
+[W10-2 Basics of Single Factor ANOVA (18 mins)](https://youtu.be/MxGvLrwu8kE)
+
+[W10-3 Single Factor ANOVA Demo (13 mins)](https://youtu.be/WQcKjEzPrRg)
+
+[W10-4 Factorial Design and ANOVA (15 mins)](https://youtu.be/ydvmXcnVCfU)
+
+[W10-5 Analyzing Data from Factorial Designs (35 mins)](https://youtu.be/YicFsNe6KPA)
+
+[ANOVA Lecture Slides](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W10-Session6_Experiment%20and%20ANOVA_%20Studenst%20Slides%20(1).pdf)
+
+[Balance Transfer.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W10-Balance%20Transfer.jmp)
+
+[Package4.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W10-Package4.jmp)
+
 
 
 ###  Week 11 (Oct 26 - Nov 1)
+
+Objectives
+By the end of this module, you should be able to... 1. Describe the basics of predictive modeling. 2. Complete a data partition. 3. Know how to deal with unexpected or missing data in predictive modeling. 4. Perform a basic decision tree model.
+
+[W11-1 Overview of Predictive Modeling (12 mins)](https://youtu.be/Gyu4a2uLh64)
+
+[W11-2 Basics of Predictive Modeling (25 mins)](https://youtu.be/fE82er9AfUg)
+
+[W11-3 Basics of Decision Trees (12 mins)](https://youtu.be/aJ2BaAZ7Yf4)
+
+[W11-4 Decision Tree Demo (22 mins)](https://youtu.be/ufpsMTrniu8)
+
+[Week 11 Slides and datasets.zip](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Week%2011%20Lecture%20Slides%20and%20Data%20Sets.zip)
+
 
 
 ###  Week 12 (Nov 2 - Nov 8)
