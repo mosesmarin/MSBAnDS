@@ -199,6 +199,22 @@ Describe the types of error in hypothesis testing
 
 ###  Week 7 (Sep 27- Oct 3)
 
+Objectives
+By the end of this module, you should be able to... 1. Use SAS for visual analytics project.
+
+[W7-2 Visual Analytics in the Real World (4 mins)](https://youtu.be/MZxF7Jxg0BU)
+
+[W7-3 Visual Analytics in the Real World Part 2 (2 mins)](https://youtu.be/Ju33YCPve-E)
+
+[A summary document for all statistical tests.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/A%20summary%20document%20for%20all%20statistical%20tests-1-1.pdf)
+
+[W7 Getting Started with SAS(R) Visual Analytics Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W7%20Getting%20Started%20with%20SAS(R)%20Visual%20Analytics%20Slides.pdf)
+
+[W7 Preparing Data Using SAS(R) Data Studio Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W7%20Preparing%20Data%20Using%20SAS(R)%20Data%20Studio%20Slides.pdf)
+
+[W7 Analyzing Data Using SAS(R) Visual Analytics Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W7%20Analyzing%20Data%20Using%20SAS(R)%20Visual%20Analytics%20Slides.pdf)
+
+[W7 Designing Reports with SAS(R) Visual Analytics Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W7%20Designing%20Reports%20with%20SAS(R)%20Visual%20Analytics%20Slides.pdf)
 
 
 ###  Week 8 (Oct 4 - Oct 10)
