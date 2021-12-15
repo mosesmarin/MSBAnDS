@@ -217,6 +217,13 @@ Describe the types of error in hypothesis testing
 
 ###  Week 13 (Nov 9 - Nov 15)
 
+W13-1 Overview of Segmentation (26mins)	
+
+W13-2 RFM Analysis, components, & computation, Issues in RFM analysis (22 mins)	
+
+W13-3 RFM analysis by using SAS (22 mins)	
+
+
 
 ###  Week 14 - Text Analytics
 
@@ -242,6 +249,9 @@ Perform text parsing
 [A Guide to Integrating Text Analytics into Tableau](https://towardsdatascience.com/a-guide-to-integrating-text-analytics-into-tableau-94d1a1331117)
 
 [A Starter Kit for Text Analysis in Tableau](https://www.flerlagetwins.com/2019/09/text-analysis.html)
+
+[RFM Analysis in Python](https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python)
+
 
 
 ###  Week 16 - No new material - Exam Review
