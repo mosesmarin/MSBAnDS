@@ -190,9 +190,60 @@ Describe the types of error in hypothesis testing
 
 ###  Week 4 (Sep 6 - Sep 12)
 
+Objectives
+By the end of this module, you should be able to... Discuss about linear regression - mechanics & interpretation. Discuss multiple linear regression - basics. Perform variable selection for regression model. Perform regression model for categorical variable.
+
+[W4_1 SimpleRegression_QuickOverview (17 min)](https://youtu.be/_D4R6Bwkbik)
+
+[W4 2 Simple Regression Mechanics and Interpretation (20 min)](https://youtu.be/QPeWEAtlELw)
+
+[W4 3 JMP Demo Basic Simple Regression(10 Min)](https://youtu.be/qWmsUGEfiPM)
+
+[W4 4 Simple Regression Prediction and Diagnostics (9 min)](https://youtu.be/38-gqtU0qRo)
+
+[W4 5 Regression Prediction and diagnostics in JMP(22 min)](https://youtu.be/Xc-ZBMQmB1I)
+
+[W4 6 MR Basics Lecture(14 min)](https://youtu.be/I5DnlkzokwU)
+
+[W4 7 JMP Demo MR basics (22 min)](https://youtu.be/LWrTYf0cB_k)
+
+[W4 8 Advanced_MR_CategoricalX_JMP(13 Min)](https://youtu.be/rqpoLpivjvU)
+
+[W4 9 MR Variable Selection with JMP (12 min)](https://youtu.be/vkIGCdlzfSU)
+
+[W4 10 MR Variable Selection with JMP (20 min)](https://youtu.be/Ing37tpvnKI)
+
+[W4 11 MR Testing Assumptions (21 mins)](https://youtu.be/dT6S5XgWUno)
+
+[W4 12  MR Testing Assumptions JMP Demo (32 mins)](https://youtu.be/wUO26MsmmAw)
+
+[Simple Regression lecture and demo with JMP](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-B5733%20W5%20Simple%20lecture%20demo%20with%20JMP%20Parts%201-5.pdf)
+
+[Multiple Regression lecture and demo with JMP](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-B5733%20W5%20Multiple%20Regression%20lecture%20and%20demo%20with%20JMP%20(1).pdf)
+
+[More on MR Lecture and Demo](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-B5733%20W5%20More%20on%20MR%20lecture%20and%20demo%20with%20JMP%20(1).pdf)
+
+[Ecommerce.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-Ecommerce%20(1).jmp)
+
+[Ecommerce_with_unknownY.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-Ecommerce_with_unknownY.jmp)
+
+[Cars 1993.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-Cars%201993.jmp)
+
+[Credit_Balance_Data.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w4-Credit_Balance_Data.sas7bdat)
+
 
 ###  Week 5 (Sep 13 - Sep 19)
 
+Objectives
+By the end of this module, you should be able to... Learn about basics of data visualization, rules and common mistakes to avoid. How to connect and import data in Tableau & Power BI. Data preparation & interpretation in Tableau & Excel. Write a null and alternative hypothesis. Create dashboards.
+
+[1 Visualization Basics.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W5-1%20Visualization%20Basics.pdf)
+
+[2 Getting Started with Data.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W5-2%20Getting%20Started%20with%20Data.pdf)
+
+[3 Connecting to Data.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W5-3%20Connecting%20to%20Data.pdf)
+
+[4 Dashboards.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W5-4%20Dashboards.pdf)
 
 ###  Week 6 (Sep 20 - Sep 26)
 
