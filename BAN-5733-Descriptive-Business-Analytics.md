@@ -199,9 +199,38 @@ Describe the types of error in hypothesis testing
 
 ###  Week 7 (Sep 27- Oct 3)
 
+
+
 ###  Week 8 (Oct 4 - Oct 10)
 
+[BAN 5733 Midterm Exam Review Sheet Fall 2021](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/BAN%205733%20Midterm%20Exam%20Review%20Sheet%20Fall%202021%20(1).pdf)
+
+
 ###  Week 9(Oct 12 - Oct 18)
+
+Objectives
+By the end of this module, you should be able to... Discuss about logistic regression - mechanics & interpretation. Perform variable selection for regression model. Comment on the performance of a model based on various evaluation metrics.
+
+[W9 1 Overview of Categorical Data Analysis (20 Min)](https://youtu.be/HV8UJsCrZxI)
+
+[W9 2 Logistic Regression Mechanics and Metrics (18 Min)](https://youtu.be/2IDTMcOin8I)
+
+[W9 3 Basics of Logistic Regression Demo(25 Min)](https://youtu.be/r6V3TYojqng)
+
+[W9 4 Variable Selection and Multicollinearity in LR (14 Min)](https://youtu.be/cOTBf4seSws)
+
+[W9 5 Variable Selection and Multicollinearity Demo (14 mins)](https://youtu.be/gRZRTUS1Qd0)
+
+[W9.6 Prediction of New Data Demo (11 mins)](https://youtu.be/tIe3MmCT3to)
+
+[Week 9 LR_slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W9-Session5_%20LR_slides%20(1).pdf)
+
+[Enrollment Scoring Data.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W9-Enrollment%20Scoring%20Data.jmp)
+
+[Enrollment Sample Data.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W9-Enrollment%20Sample%20Data.jmp)
+
+[05-multiple-logistic-regression.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W9-05-multiple-logistic-regression.pdf)
+
 
 
 ###  Week 10 (Oct 19 - Oct 25)
