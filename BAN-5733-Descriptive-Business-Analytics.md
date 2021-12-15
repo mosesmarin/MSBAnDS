@@ -187,6 +187,10 @@ Describe the types of error in hypothesis testing
 
 ###  Week 3 (Aug 30 - Sept 5)
 
+Objectives
+By the end of this module, you should be able to... Identify different statistical tests. Differentiate between two-sample and paired t-tests. Conduct two-sample and paired t-tests. Discuss how categorical data can be summarized using cross-tabs. Discuss how categorical and interval data can be summarized using correlation analysis.
+
+
 [W3 1 Overview of different statistical tests (8.5 min)](https://youtu.be/qBQ30s7mypk)
 
 [W3 2 Two-sample t-test lecture (9 min)](https://youtu.be/Q6GtChleYCI)
