@@ -225,6 +225,9 @@ By the end of this module, you should be able to...Discuss about ANOVA - mechani
 
 [Package4.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/W10-Package4.jmp)
 
+[How to calculate odds ratios from logistic regression coefficients](https://www.youtube.com/watch?v=RDY5MFVbRQE)
+
+[ANOVA in R Lab Tutorial](https://www.scribbr.com/statistics/anova-in-r/)
 
 
 ###  Week 11 (Oct 26 - Nov 1)
