@@ -196,6 +196,35 @@ Describe the types of error in hypothesis testing
 
 ###  Week 6 (Sep 20 - Sep 26)
 
+[How to do a case analysis](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Case%20Analysis%20Slides%20(2).pdf)
+
+[Big Case Presentations 1](https://youtu.be/TuwYRUkdM3o)
+
+[Big Case Presentations 2](https://youtu.be/xloQQOpM7Tc)
+
+[Power BI Tutorial for Beginners - Getting Started](https://youtu.be/m1eLTtZHGs4)
+
+[1. Introduction](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/1-introduction)
+
+[2. Use Power BI](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/2-using-power-bi)
+
+[3. Building blocks of Power BI](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/3-building-blocks-of-power-bi)
+
+[Connect to data sources](https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/3-connect-data-sources-power-bi-desktop)
+
+[Get data from Excel](https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/3b-data-from-excel)
+
+[Transform data to include in a report](https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/4-clean-data-query-editor)
+
+[Visuals in Power BI](https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/1-intro-visuals)
+
+[Create and customize simple visualizations](https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/2-create-simple-visuals)
+
+[Create slicers](https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/4-create-slicers)
+
+[Create and configure a dashboard](https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/3-create-configure-dashboard)
+
+[Explore with dashboards, reports, and apps in Power BI](https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/3-navigate-content)
 
 ###  Week 7 (Sep 27- Oct 3)
 
