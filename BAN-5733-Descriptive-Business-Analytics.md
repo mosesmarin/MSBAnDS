@@ -188,6 +188,21 @@ Describe the types of error in hypothesis testing
 ###  Week 3 (Aug 30 - Sept 5)
 
 
+[W2L-3 JMP Demo - Summarizing Data Using Tabulate (2 mins)](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w3-02-summarizing-data-using-tabulate.pdf)
+
+[Week3_Slides_forstudents_Parts1_5.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Week3_Slides_forstudents_Parts1_5%20(3).pdf)
+
+[Week3_Slides_forstudents_Parts6_9.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/Week3_Slides_forstudents_Parts6_9.pdf)
+
+[Credit Balance Data.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w3-Credit%20Balance%20Data.jmp)
+
+[Credit_Balance_Data.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w3-Credit_Balance_Data.sas7bdat)
+
+[Ecommerce_with_unknownY.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w3-Ecommerce_with_unknownY.jmp)
+
+[Ecommerce.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5733/w3-Ecommerce%20(1).jmp)
+
+
 ###  Week 4 (Sep 6 - Sep 12)
 
 Objectives
