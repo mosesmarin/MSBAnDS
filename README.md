@@ -40,3 +40,45 @@ Levels: Graduate
 Schedule types: Lab, Lecture, Combined lecture and lab
 
 Department/School: Marketing
+
+
+
+### BAN 5743 Predictive Business Analytics
+
+Prerequisites: BAN 5733 or consent by instructor.
+
+Description: Learn how to use predictive analytic tools such as logistic regression, neural networks, decision trees and other classification and prediction models to generate deeper business insights and to improve business decision making. This course will primarily use SAS® Analytics platform to analyze data. Students may not take both MKTG 5963 or MKTG 5743 and BAN 5743 for degree credit.
+
+Credit hours: 3
+
+Contact hours: Lecture: 2 Lab: 2 Contact: 4
+
+Levels: Graduate
+
+Schedule types: Lab, Lecture, Combined lecture and lab
+
+Department/School: Marketing
+
+Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
+
+
+### MSIS 5633 Predictive Analytics Technologies
+
+Prerequisites: Graduate standing.
+
+Description: A comprehensive analysis of contemporary business intelligence tools and techniques used in managerial decision-making, including decision support systems, data and text mining, knowledge management, expert systems, neural networks, and other tools and techniques.
+
+Credit hours: 3
+
+Contact hours: Lecture: 3 Contact: 3
+
+Levels: Graduate
+
+Schedule types: Lecture
+
+Department/School: Mgmt Sci & Info Sys
+
+Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
+
+
+
