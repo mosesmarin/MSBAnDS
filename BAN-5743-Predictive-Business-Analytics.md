@@ -149,6 +149,8 @@ Jan 20
 
 
 
+## Week 3 (Jan 24)
+
 ### LEARN
 
 ### LAB
@@ -157,6 +159,7 @@ Jan 20
 
 
 
+## 
 
 ### LEARN
 
