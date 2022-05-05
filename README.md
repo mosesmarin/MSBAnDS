@@ -43,7 +43,7 @@ Department/School: Marketing
 
 
 
-### BAN 5743 Predictive Business Analytics
+### [BAN 5743 Predictive Business Analytics](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743-Predictive-Business-Analytics.md)
 
 Prerequisites: BAN 5733 or consent by instructor.
 
