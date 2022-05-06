@@ -159,7 +159,7 @@ Jan 20
 
 
 
-## 
+##  Week 4 (Jan 31)
 
 ### LEARN
 
@@ -168,21 +168,7 @@ Jan 20
 ### To DO
 
 
-
-### LEARN
-
-### LAB
-
-### To DO
-
-
-
-### LEARN
-
-### LAB
-
-### To DO
-
+##   Week 5 (Feb 7)
 
 
 ### LEARN
@@ -192,6 +178,8 @@ Jan 20
 ### To DO
 
 
+##   Week 6 (Feb 22)
+
 
 ### LEARN
 
@@ -199,6 +187,8 @@ Jan 20
 
 ### To DO
 
+
+##   Week 7 (Feb 28)
 
 
 ### LEARN
@@ -209,12 +199,7 @@ Jan 20
 
 
 
-### LEARN
-
-### LAB
-
-### To DO
-
+##   Week 8 (Mar 7)
 
 
 ### LEARN
@@ -224,13 +209,7 @@ Jan 20
 ### To DO
 
 
-
-### LEARN
-
-### LAB
-
-### To DO
-
+##   Week 9 (Mar 14)
 
 
 ### LEARN
@@ -239,6 +218,8 @@ Jan 20
 
 ### To DO
 
+
+##   Week 10 (Mar 21)
 
 
 ### LEARN
@@ -249,13 +230,7 @@ Jan 20
 
 
 
-
-### LEARN
-
-### LAB
-
-### To DO
-
+##  Week 11 (Mar 21)
 
 
 ### LEARN
@@ -265,13 +240,7 @@ Jan 20
 ### To DO
 
 
-
-### LEARN
-
-### LAB
-
-### To DO
-
+##   Week 12 (Mar 28)
 
 
 ### LEARN
@@ -281,13 +250,7 @@ Jan 20
 ### To DO
 
 
-
-### LEARN
-
-### LAB
-
-### To DO
-
+##   Week 13 (Apr 4)
 
 
 ### LEARN
@@ -297,6 +260,38 @@ Jan 20
 ### To DO
 
 
+##   Week 14 (Apr 11)
+
+
+### LEARN
+
+### LAB
+
+### To DO
+
+
+
+##   Week 15 (Apr 18)
+
+
+### LEARN
+
+### LAB
+
+### To DO
+
+
+##   Week 16 (Apr 25)
+
+
+### LEARN
+
+### LAB
+
+### To DO
+
+
+##   Week 17 (May 2) - Final Exam
 
 
 ### LEARN
