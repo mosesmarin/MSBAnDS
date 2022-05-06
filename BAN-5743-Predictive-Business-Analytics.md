@@ -278,24 +278,68 @@ Jan 20
 
 ### LAB
 
+Optional - SAS Predictive Modeling Certification
+
 ### To DO
+
+Exercise 10
+
+Final Exam SignUp
 
 
 ##   Week 16 (Apr 25)
 
-
 ### LEARN
+
+BAN 5743 Spr22 Final Exam review sheet.docx
+
+Final Exam Review Questions
+
+Exam Review Questions - Group Submission
 
 ### LAB
 
+Week 16 Lab Slides
+
+Week 16 Lab Video - Monday  
+
 ### To DO
+
+
+reviewgroupweek1_83020_14393241_Review Questions - Week 1 Group.docx
+
+reviewgroupweek2_86046_14392498_Review Questions - Week 2 Group.docx
+
+Week 2 corrections
+
+reviewgroupweek3_154896_14393368_Review Questions - Week 3 Group.docx
+
+Week 3 Corrections
+
+reviewgroupweek4_153483_14391586_Review Questions - Week 4 Group-1.docx
+
+reviewgroupweek5_11390_14390189_Review Questions - Week 5 Group.pdf
+
+reviewgroupweek6_13284_14393404_Review Questions - Week 6 Group-1.docx
+
+reviewgroupweek7_10328_14392264_BAN 5743 Review Questions - Week 7 Group.docx
+
+Week 7 Corrections
+
+reviewgroupweek8_7822_14392378_Review Questions - Week 8 Group.docx
+
+reviewgroupweek9_12158_14393738_Review Questions - Week 9 Group-1.docx
+
+reviewgroupweek12_11449_14391478_Review Questions - Week 12 Group.docx
+
+UPDATED_reviewgroupweek13_8551_14391137_Review Questions - Week 13 Group.docx
+
+reviewgroupweek14_17250_14393786_Review Questions - Week 14 Group.docx
+
+SSI Evaluation Docs assignment
 
 
 ##   Week 17 (May 2) - Final Exam
 
 
-### LEARN
-
-### LAB
-
-### To DO
+Optional - SAS Predictive Modeling Certification
