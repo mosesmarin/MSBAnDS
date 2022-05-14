@@ -114,15 +114,32 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/R2_%20Data%20Scientist%
 
 [Installing SAS on a MAC](http://www.sascommunity.org/wiki/Running_SAS_on_Macintosh_OS_X_10.4_and_Above)
 
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Instructions%20to%20connect%20to%20to%20VDI%20Desktops%20with%20VPN.docx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/SAS%209.4%20Installation%20guide%20for%20Windows%2010.doc
+
+
 ## SAS Enterprise Miner Install Guide.pdf
 
-## OSU Virtual Image - VMWare Horizon Client       [https://desktop.okstate.edu/](https://desktop.okstate.edu/)
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/SAS%20Enterprise%20Miner%20Install%20Guide.pdf
+
+
+
+## OSU Virtual Image - VMWare Horizon Client    
+
+[https://desktop.okstate.edu/](https://desktop.okstate.edu/)
 
 ## SAS On Demand Course Page
 
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/SAS%20On%20Demand%20Course%20Page_%20BAN%205743%20Combined%20Sp22.pdf
+
 ## JMP - Loading an Excel File
 
+https://youtu.be/Gg1Oz8dkXFk
+
 ## JMP Basic Tour
+
+https://youtu.be/Fm2BYZ-tOdc
 
 
 ## Solution Documents
