@@ -3,7 +3,25 @@
 
 Meet Your Instructor
 
-Course Information and Materials
+Instructor name:  Miriam McGaugh, Ph.D. 
+
+Email: miriam.mcgaugh@okstate.edu   (Please include BAN 5733 in the header of all email communication)
+
+Phone: 405-744-2208  
+
+Office Location and Hours:   Online Tuesdays 11:30 am-12:30 pm  or  by appointment
+
+Instructor bio: Welcome to class, I am happy you are joining me for the summer!  Just a little about me - I am a Professor of Professional Practice in Business Analytics.  I am the former director of Community Epidemiology and Evaluation at the Oklahoma State Department of Health where I led a team of analysts who focused on community-based public health initiatives. We worked with county health departments across the state on staffing, patient flow, project planning, and analytics.  I currently do research on commercial sexual exploitation/ human traffickingLinks to an external site., communication between parents and adolescents about sex, and infant and early childhood mental health collaborations. 
+
+On the personal side, my husband and I have 2 kids, 2 dogs, 1 cat, 2 rabbits, 2 horses, and 9 goats.  It is always loud, crazy, and chaotic at my house and we love it!
+
+
+
+
+
+## Course Information and Materials
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Course%20Information%20and%20Materials_%20BAN%205743%20Combined%20Sp22.pdf
 
 Technology and Browsers
 
