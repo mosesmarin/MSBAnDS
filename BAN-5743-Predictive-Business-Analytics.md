@@ -213,6 +213,19 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/B5743_Exercise9_Updated
 ## Week 1 (Jan 10) 
 ### LEARN
 
+[W1-1 Time series overview, forecasting approaches, time-series components, accuracy matrics and basic models (33 mins)](https://www.youtube.com/watch?v=IK4wFcdkUkc)
+
+[W1-2 Time series modeling by SAS, naïve model, SES, Holt (Linear), Winter (Additive), Winter (multiplicative) (Demo) (37 mins)](https://www.youtube.com/watch?v=oN4jc7QAtEg)
+
+[Slides_Lecture_Time Series.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Slides_Lecture_Time%20Series.pdf)
+
+[ecommerce.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/ecommerce.sas7bdat)
+
+[Slides_SAS_Demo1_Time Series.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Slides_SAS_Demo1_Time%20Series.pdf)
+
+[Program_ESM_Models.sas](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Program_ESM_Models.sas)
+
+
 ### LAB
 
 BAN 5743 – Lab Slides Week 1 Spring 2022.pdf
