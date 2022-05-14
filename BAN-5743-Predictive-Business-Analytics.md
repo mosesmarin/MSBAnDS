@@ -29,16 +29,16 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Course%20Information%20
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Technology%20and%20Browsers_%20BAN%205743%20Combined%20Sp22.pdf
 
 
-## Assignments and Grades
+## Assignments and Grades
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Assignments%20and%20Grades_%20BAN%205743%20Combined%20Sp22.pdf
 
 
-## Proctor - Online Students only
+## Proctor - Online Students only
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Proctor%20-%20Online%20Students%20only_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Communication Plan
+## Communication Plan
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Communication%20Plan_%20BAN%205743%20Combined%20Sp22.pdf
 
@@ -46,19 +46,19 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Communication%20Plan_%2
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Attendance%2C%20Participation%2C%20and%20Late%20Work_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Course Schedule
+## Course Schedule
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Course%20Schedule_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Discussion Guidelines
+## Discussion Guidelines
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Discussion%20Guidelines_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Accessibility and Diversity
+## Accessibility and Diversity
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Accessibility%20and%20Diversity%20_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Academic Honesty
+## Academic Honesty
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Academic%20Honesty_%20BAN%205743%20Combined%20Sp22.pdf
 
@@ -66,11 +66,11 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Academic%20Honesty_%20B
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Student%20Support%20and%20Basic%20Needs_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Where to Find Help
+## Where to Find Help
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Where%20to%20Find%20Help_%20BAN%205743%20Combined%20Sp22.pdf
 
-## Are you ready for Online Learning?
+## Are you ready for Online Learning?
 
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Are%20you%20ready%20for%20Online%20Learning_%20_%20BAN%205743%20Combined%20Sp22.pdf
 
@@ -108,19 +108,21 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/R2_%20Data%20Scientist%
 
 
 
-## Software Access
+# Software Access
 
-SAS Installation and Connection Documents
+## SAS Installation and Connection Documents
 
-SAS Enterprise Miner Install Guide.pdf
+[Installing SAS on a MAC](http://www.sascommunity.org/wiki/Running_SAS_on_Macintosh_OS_X_10.4_and_Above)
 
-OSU Virtual Image - VMWare Horizon Client       (https://desktop.okstate.edu/)
+## SAS Enterprise Miner Install Guide.pdf
 
-SAS On Demand Course Page
+## OSU Virtual Image - VMWare Horizon Client       [https://desktop.okstate.edu/](https://desktop.okstate.edu/)
 
-JMP - Loading an Excel File
+## SAS On Demand Course Page
 
-JMP Basic Tour
+## JMP - Loading an Excel File
+
+## JMP Basic Tour
 
 
 ## Solution Documents
