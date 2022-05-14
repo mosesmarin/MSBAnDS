@@ -145,20 +145,28 @@ https://youtu.be/Fm2BYZ-tOdc
 ## Solution Documents
 
 SAS_Solution_PracticeExer_Spring22.pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/SAS_Solution_PracticeExer_Spring22.pdf
 
 BAN_5743_Exercise2_Solution_Spr22.pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise2_Spring%202022_Solution.pdf
 
 BAN 5743 Exercise 4 Spring 2022 Solution pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise4_Spring2022%20Solution.pdf
 
 BAN5743_Exercise5 _Spring 2022Solution.pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise5%20_Spring%202022Solution.pdf
 
 BAN5743_Exercise6_Spr22Solution.pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise6_Spr22Solution.pdf
 
 BAN5743_Exercise7_Spr22 Solution.pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise7_Spr22%20Solution.pdf
 
 BAN5743_Exercise8_Spr22 Solution.pdf
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise8_Spr22%20Solution.pdf
 
 B5743_Exercise9_Updated_Spr22_CNN_assignment_solution.ipynb
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/B5743_Exercise9_Updated_Spr22_CNN_assignment_solution.ipynb
 
 
 ## Review Materials - Please watch as a review of last semester before you move to week 1 
