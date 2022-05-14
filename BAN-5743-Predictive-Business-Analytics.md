@@ -145,61 +145,69 @@ https://youtu.be/Fm2BYZ-tOdc
 ## Solution Documents
 
 SAS_Solution_PracticeExer_Spring22.pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/SAS_Solution_PracticeExer_Spring22.pdf
 
 BAN_5743_Exercise2_Solution_Spr22.pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise2_Spring%202022_Solution.pdf
 
 BAN 5743 Exercise 4 Spring 2022 Solution pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise4_Spring2022%20Solution.pdf
 
 BAN5743_Exercise5 _Spring 2022Solution.pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise5%20_Spring%202022Solution.pdf
 
 BAN5743_Exercise6_Spr22Solution.pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise6_Spr22Solution.pdf
 
 BAN5743_Exercise7_Spr22 Solution.pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise7_Spr22%20Solution.pdf
 
 BAN5743_Exercise8_Spr22 Solution.pdf
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN5743_Exercise8_Spr22%20Solution.pdf
 
 B5743_Exercise9_Updated_Spr22_CNN_assignment_solution.ipynb
+
 https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/B5743_Exercise9_Updated_Spr22_CNN_assignment_solution.ipynb
 
 
-## Review Materials - Please watch as a review of last semester before you move to week 1 
+# Review Materials - Please watch as a review of last semester before you move to week 1 
 
-Recap of Machine Learning and Predictive Modeling
+## Recap of Machine Learning and Predictive Modeling
 
-Review_Recap of Predictive Analytics Concepts (12 Min)
+[Review_Recap of Predictive Analytics Concepts (12 Min)](https://youtu.be/Cg_YO9YJws8)
 
 
 ### Segmentation Basics and Hierarchical Clustering
 
-Review_Overview of Methods and Algorithms for Segmentation (8 Min)
+[Review_Overview of Methods and Algorithms for Segmentation (8 Min)](https://www.youtube.com/watch?v=_z7efBMGA6k)
 
-Review_Pattern Recognition and Similarity (18 min)
+[Review_Pattern Recognition and Similarity (18 min)](https://www.youtube.com/watch?v=N0aAM8wb5gY)
 
-Review_Hierarchical Clustering (17 Min)
+[Review_Hierarchical Clustering (17 Min)](https://www.youtube.com/watch?v=WO0TMGYw0UI)
 
-Review_SASEG Demo Average Hierarchical Clustering (26 Min)
+[Review_SASEG Demo Average Hierarchical Clustering (26 Min)](https://www.youtube.com/watch?v=HWVghlJN8TI)
 
-Review_SASEG Demo Wards Cluster (25 Min)
+[Review_SASEG Demo Wards Cluster (25 Min)](https://www.youtube.com/watch?v=J4YpRmIGGrc)
 
 
-### Materials
+## Materials
 
-All slides.pdf
+[All slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/All%20slides.pdf)
 
-Section 1.5 Slides.pdf
+[Section 1.5 Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Section%201.5%20Slides.pdf)
 
-bfsurvey_cleaned.sas7bdat
+[bfsurvey_cleaned.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bfsurvey_cleaned.sas7bdat)
 
-pva97nk.sas7bdat
+[pva97nk.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/pva97nk.sas7bdat)
 
-Eliminating response styles_SAS GF paper.pdf
+[Eliminating response styles_SAS GF paper.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Eliminating%20response%20styles_SAS%20GF%20paper.pdf)
 
 
 ## Week 1 (Jan 10) 
