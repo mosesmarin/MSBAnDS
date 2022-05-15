@@ -228,21 +228,21 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/B5743_Exercise9_Updated
 
 ### LAB
 
-BAN 5743 – Lab Slides Week 1 Spring 2022.pdf
+[BAN 5743 – Lab Slides Week 1 Spring 2022.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN%205743%20%E2%80%93%20Lab%20Slides%20Week%201%20Spring%202022.pdf)
 
-Demo Week 1 Spring 2022.xml
+[Demo Week 1 Spring 2022.xml](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Demo%20Week%201%20Spring%202022.xml)
 
-USCUSTOMERS.xlsx
+[USCUSTOMERS.xlsx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/USCUSTOMERS.xlsx)
 
-PatientFeedback_lab.pdf
+[PatientFeedback_lab.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/PatientFeedback_lab.pdf)
 
-ComplaintData.xls
+[ComplaintData.xls](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/ComplaintData.xls)
 
-PatientFeedback.jmp
+[PatientFeedback.jmp](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/PatientFeedback.jmp)
 
-Week 1 Lab Video - Monday
+[Week 1 Lab Video - Monday](https://youtu.be/L2DtGUZG15M)
 
-Week 1 Lab - Hands-on Lab Presentation - Monday
+[Week 1 Lab - Hands-on Lab Presentation - Monday](https://www.youtube.com/watch?v=hqswefV5u6I)
 
 
 ### To Do
@@ -251,7 +251,10 @@ Quiz 1 Week 1- Requires Respondus LockDown Browser
 Jan 16 | 5 pts
 
 Week 1 Practice Exercise - Not for a Grade
-Jan 20
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/PracticeEx_Spring22_TimeSeries.docx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/new_home_sales.sas7bdat
 
 
 ## Week 2 (Jan 17)
