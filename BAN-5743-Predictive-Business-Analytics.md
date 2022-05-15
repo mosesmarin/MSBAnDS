@@ -474,6 +474,59 @@ https://www.esri.com/about/newsroom/arcnews/australian-state-automated-large-are
 
 ### LEARN
 
+[W7.1_Model Implementation (15 min)](https://youtu.be/joHPaKZuy8A)
+
+[W7.2_Ensemble Model (13 Min)](https://youtu.be/OQhsD5-r9Xg)
+
+[W7.3_Variable Selection (19 Min)](https://youtu.be/zCFYNUxprdQ)
+
+[W7.4_Consolidating Categorical Variable (11 Min)](https://youtu.be/lKYZxl_olf0)
+
+[W7.5_Surrogate Tree (11 Min)](https://youtu.be/T00pioC6gvA)
+
+[W7.6_Naive Bayes Classifier (13 Min)](https://youtu.be/fG3pWRUH8L8)
+
+[W7.7_Market Basket Analysis (57 Min)](https://youtu.be/ka0CKmt_maY)
+
+[W7.8_Demo Market Basket Analysis (27 Min](https://youtu.be/jcTEiN9GVK8)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W7.1_Model%20Implementaion.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W7.2_Ensemble%20Model.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W7.3_Variable%20Selection.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W7.4_Consolidating%20Categorical%20Variable.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W7.5_Surrogate%20Tree.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W7.6_Naive%20Bayes%20Classifier.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.1_Market%20Basket%20Analysis.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.2_Demo%20Market%20Basket%20Analysis-1.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Creating%20a%20SAS%20Score%20Code%20Module_handout.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Variable%20Selection%20in%20SAS%20EM_handout.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Consolidating%20Categorical%20Inputs_handout.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Note%20about%20Market%20Basket%20Analysis%20and%20Sequence%20Analysis.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Market%20Basket%20Analysis%20using%20R%20(article)%20-%20DataCamp-1.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/pva97nk_imputed.jmp
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/scorepva97nk.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Diagram4_BAN5743.xml
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
+
+
+
+
 
 
 ### LAB
