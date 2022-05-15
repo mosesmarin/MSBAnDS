@@ -359,6 +359,9 @@ https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scienti
 
 ##  Week 4 (Jan 31)
 
+### LEARN
+
+
 [W4.1_Recap Predictive Modeling (10 Min)](https://youtu.be/lnUkbUTauVU)
 
 [W4.2_Decsion Tree Basics (21 Min)](https://youtu.be/LVBdV73SrYI)
@@ -373,7 +376,22 @@ https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scienti
 
 [W4.7_Pros and Cons of Trees and Multiple Trees(16 Min)](https://youtu.be/dopM14ng-AI)
 
-### LEARN
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.1_Recap%20basics%20of%20DT.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.2_Decision%20Tree%20Basics.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.3_SAS%20Demo%20Interactive%20and%20Maximal%20Tree.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.4_SAS%20Demo%20Autonomous%20Tree.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.4_SelfStudy_Autonomous%20Tree%20Growth%20Options.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.5_Decsision%20Trees%20Advanced%20Topics.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.6_Regression%20Tree%20Lecture%20and%20Demo.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W4.7_Pros%20and%20Cons%20of%20Trees%20and%20Multiple%20Trees.pdf
+
 
 ### LAB
 
@@ -384,6 +402,30 @@ https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scienti
 
 
 ### LEARN
+
+[W5.1_Regression Modeling Essentials (13 Min)](https://youtu.be/LbCJG1XDwDk)
+
+[W5.2_Demo Regession Modeling Essentials (22 min)](https://youtu.be/6WnTPNLzFHs)
+
+[W5.3_LR Advanced Topics (14 min)](https://youtu.be/ElFqVZ8ElBg)
+
+[W5.4_Demo LR Advanced Topics (16 Min)](https://youtu.be/YG6OPOjeryI)
+
+
+https://datatofish.com/logistic-regression-python/
+
+https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3337-2019.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W5.1_regression%20Modeling%20Essentials%20(13%20Min).pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W5.2_Demo%20Regession%20Modeling%20Essentials%20(22%20min).pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W5.3_LR%20Advanced%20Topics%20(14%20min).pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W5.4_Demo%20LR%20Advanced%20Topics%20(16%20Min).pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Diagram1_BAN5743.xml
+
 
 ### LAB
 
