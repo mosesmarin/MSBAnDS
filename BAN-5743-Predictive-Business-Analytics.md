@@ -305,6 +305,13 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Code_means%20and%20cros
 
 ### To DO
 
+Exercise 1
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN%205743_Exercise%201_Spr22.docx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/conspref.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Exercise%201%20Spring%202022-Moises-20220127.pdf
 
 
 ## Week 3 (Jan 24)
