@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?><_ROOT_ EMVERSION="15.1" ORIENTATION="HORIZONTAL">
+<Workspace>
+<NODES>
+<NODE CLASS="SASHELP.EMCORE.EMCODETOOL.CLASS" COMPONENT="SASCode" ID="EMCODE" X="1254" Y="198" DESCRIPTION="SAS Code" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="UTILITY" TOOLPREFIX="EMCODE">
+<PROPERTIES UsePriors="Y" ToolType="UTILITY" DataNeeded="N" PublishCode="PUBLISH" ScoreCodeFormat="DATASTEP" MetaAdvisor="BASIC" ForceRun="N" RunAction="Train" Component="SASCode">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data><![CDATA[
+* Cross tab of actual versus predicted sentiment from text rule builder*;
+proc freq data=&amp;EM_IMPORT_SCORE;
+Tables Sentiment_Original*EM_CLASSIFICATION;
+Run;
+]]>
+</Data>
+</USERTRAINCODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMASSMT.ASSESS.CLASS" COMPONENT="ModelCompare" ID="MdlComp" X="1848" Y="330" DESCRIPTION="Model Comparison" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="ASSESS" TOOLPREFIX="MdlComp">
+<PROPERTIES NumberOfReportedLevels="1E-6" NormalizeReportingVariables="Y" DecileBin="20" LiftEpsilon="1E-6" ProfitEpsilon="1E-6" RoiEpsilon="1E-6" ScoreDistBin="20" RocChart="Y" RocEpsilon="0.01" AssessAllTargetLevels="N" SelectionData="DEFAULT" HPCriteria="DEFAULT" intervalViyaCriteria="DEFAULT" classViyaCriteria="DEFAULT" SelectionTable="VALIDATE" SelectionCriteria="_ASE_" SelectionDepth="10" NumberofBins="20" RecomputeAssess="N" TargetName="Sentiment" ModelId="TextRule" ModelDescription="Rule Builder (default)" ModelCriteria="Valid: Average Squared Error" ForceRun="N" RunAction="Train" Component="ModelCompare" StatisticUsed="_VASE_" TargetLabel="">
+<VariableProperties/>
+<EmVariableAttributes>
+<DELTA Variable="Sentiment" AttributeName="EVENT" AttributeValue="POSITIVE"/>
+</EmVariableAttributes>
+<EmTargetAttributes/>
+<EmFileProperties>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMUTIL.EMMETADATA.CLASS" COMPONENT="Metadata" ID="Meta" X="1254" Y="462" DESCRIPTION="Metadata" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="UTILITY" TOOLPREFIX="Meta">
+<PROPERTIES HideRejected="N" AdvancedAdvisor="N" CombineRule="NONE" ComputeStatistics="N" ForceRun="N" RunAction="Train" Component="Metadata">
+<VariableProperties/>
+<EmVariableAttributes>
+<DELTA Variable="Comment" AttributeName="NEWROLE" AttributeValue="REJECTED"/>
+<DELTA Variable="Comment" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="ID" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="Sentiment" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD1" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD10" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD11" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD12" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD13" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD14" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD2" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD3" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD4" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD5" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD6" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD7" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD8" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_SVD9" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_cluster_" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextCluster_cluster_" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob1" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob10" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob2" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob3" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob4" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob5" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob6" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob7" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob8" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextCluster_prob9" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_1" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_1" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_10" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_10" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_11" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_11" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_12" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_12" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_13" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_13" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_14" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_14" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_15" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_15" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_2" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_2" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_3" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_3" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_4" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_4" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_5" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_5" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_6" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_6" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_7" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_7" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_8" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_8" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_9" AttributeName="NEWROLE" AttributeValue="INPUT"/>
+<DELTA Variable="TextTopic_9" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw1" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw10" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw11" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw12" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw13" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw14" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw15" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw2" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw3" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw4" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw5" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw6" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw7" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw8" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TextTopic_raw9" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="_DOCUMENT_" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="_dataobs_" AttributeName="HIDDEN" AttributeValue="N"/>
+</EmVariableAttributes>
+<EmTargetAttributes/>
+<EmFileProperties>
+<IMPORTSET Type="DATA">
+<Data>
+<Obs USE="Y" PORT="DATA" NODELABEL="TextTopic" NODEPORT="TRAIN" LIBNAME="" DATASET="TextTopic_TRAIN" ROLE="TRAIN" MODTIME="1900167370.4" COLUMNMETA="TextTopic_CMeta_TRAIN" COLUMNMETAMODTIME="1900167370.9" EMINFO="TextTopic_EMINFO" EMINFOMODTIME="1900167370.9" NOBS="1679" DATASOURCE="allmodel"/>
+<Obs USE="Y" PORT="VALIDATE" NODELABEL="TextTopic" NODEPORT="VALIDATE" LIBNAME="" DATASET="TextTopic_VALIDATE" ROLE="VALIDATE" MODTIME="1900167370.5" COLUMNMETA="TextTopic_CMeta_TRAIN" COLUMNMETAMODTIME="1900167370.9" EMINFO="" EMINFOMODTIME="." NOBS="422" DATASOURCE="allmodel"/>
+<Obs USE="Y" PORT="TEST" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="SCORE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TRANSACTION" NODELABEL="TextTopic" NODEPORT="TRANSACTION" LIBNAME="" DATASET="TextTopic_TRANSACTION" ROLE="TRANSACTION" MODTIME="1900167370.6" COLUMNMETA="TextTopic_CMeta_TRANSACTION" COLUMNMETAMODTIME="1900167371.1" EMINFO="TextTopic_EMINFO" EMINFOMODTIME="1900167370.9" NOBS="-1" DATASOURCE=""/>
+<Obs USE="Y" PORT="DOCUMENT" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="CLUSMEAN" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="CLUSSTAT" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="ESTIMATE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="RANK" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="REPORTFIT" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="RULES" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="SCOREDIST" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TERMS" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TREE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="VARMAP" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+</Data>
+<Metadata>
+<Variable NAME="USE" LABEL="" LENGTH="1" FORMAT="" TYPE="C"/>
+<Variable NAME="PORT" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="NODELABEL" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="NODEPORT" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="LIBNAME" LABEL="" LENGTH="8" FORMAT="" TYPE="C"/>
+<Variable NAME="DATASET" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="ROLE" LABEL="" LENGTH="20" FORMAT="" TYPE="C"/>
+<Variable NAME="MODTIME" LABEL="" LENGTH="8" FORMAT="DATETIME20." TYPE="N"/>
+<Variable NAME="COLUMNMETA" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="COLUMNMETAMODTIME" LABEL="" LENGTH="8" FORMAT="DATETIME20." TYPE="N"/>
+<Variable NAME="EMINFO" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="EMINFOMODTIME" LABEL="" LENGTH="8" FORMAT="DATETIME20." TYPE="N"/>
+<Variable NAME="NOBS" LABEL="" LENGTH="8" FORMAT="" TYPE="N"/>
+<Variable NAME="DATASOURCE" LABEL="" LENGTH="29" FORMAT="" TYPE="C"/>
+</Metadata>
+</IMPORTSET>
+<VARIABLEPROPERTIES_DATA Type="EXTERNAL" Extension="sas">
+<Data><![CDATA[
+*------------------------------------------------------------*;
+* Variable Attributes for DATA;
+*------------------------------------------------------------*;
+if upcase(NAME) = &quot;COMMENT&quot; then NEWROLE=&quot;REJECTED&quot;;
+if upcase(NAME) = &quot;TEXTCLUSTER_CLUSTER_&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_1&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_10&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_11&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_12&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_13&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_14&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_15&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_2&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_3&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_4&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_5&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_6&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_7&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_8&quot; then NEWROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_9&quot; then NEWROLE=&quot;INPUT&quot;;
+]]>
+</Data>
+</VARIABLEPROPERTIES_DATA>
+<METACODE_DATA Type="EXTERNAL" Extension="sas">
+<Data><![CDATA[
+*------------------------------------------------------------*;
+* Metadata Changes;
+*------------------------------------------------------------*;
+if upcase(NAME) = &quot;COMMENT&quot; then ROLE=&quot;REJECTED&quot;;
+if upcase(NAME) = &quot;TEXTCLUSTER_CLUSTER_&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_1&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_10&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_11&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_12&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_13&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_14&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_15&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_2&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_3&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_4&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_5&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_6&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_7&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_8&quot; then ROLE=&quot;INPUT&quot;;
+if upcase(NAME) = &quot;TEXTTOPIC_9&quot; then ROLE=&quot;INPUT&quot;;
+]]>
+</Data>
+</METACODE_DATA>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMMODL.NEURAL.CLASS" COMPONENT="NeuralNetwork" ID="Neural" X="1650" Y="462" DESCRIPTION="Neural Network" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="MODEL" TOOLPREFIX="Neural">
+<PROPERTIES UseEstimates="N" NetworkArchitecture="MLP" DirectConnection="N" Hidden="3" Prelim="Y" PreliminaryRuns="5" PrelimMaxiter="10" PrelimMaxTime="1 HOUR" Maxiter="50" Maxtime="4 HOURS" TrainingTechnique="DEFAULT" ConvDefaults="Y" AbsConvValue="-1.34078E154" AbsFValue="0" AbsFTime="1" AbsGValue="0.00001" AbsGTime="1" AbsXValue="1E-8" AbsXTime="1" FConvValue="0" FConvTime="1" GConvValue="1E-6" GConvTime="1" ModelSelectionCriterion="AVERAGE ERROR" SuppressOutput="N" Residuals="Y" Standardizations="N" HiddenUnits="N" TrainCode="" PrelimOutest="" Outest="" Outfit="" InitialDs="" CodefileRes="" CodefileNoRes="" AddHidden="Y" HiddenCombFunction="DEFAULT" HiddenActivation="DEFAULT" HiddenBias="Y" TargetCombFunction="DEFAULT" TargetActivation="DEFAULT" TargetError="DEFAULT" TargetBias="Y" InitialSeed="12345" RandDist="NORMAL" RandScale="0.1" RandLoc="0" InputStandardization="STD" WeightDecay="0" Accelerate="1.2" Decelerate="0.5" Learn="0.1" MaxLearn="50" MinLearn="0.00001" Momentum="0" MaxMomentum="1.75" Tilt="0" ForceRun="N" RunAction="Train" Component="NeuralNetwork">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMSAMP.EMDPART.CLASS" COMPONENT="Partition" ID="Part" X="264" Y="66" DESCRIPTION="Data Partition" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="SAMPLE" TOOLPREFIX="Part">
+<PROPERTIES Method="DEFAULT" TrainPct="80" ValidatePct="20" TestPct="0" RandomSeed="12345" OutputType="DATA" IntervalDistribution="Y" ClassDistribution="Y" ForceRun="N" RunAction="Train" Component="Partition">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMMODL.REGRESSION.CLASS" COMPONENT="Regression" ID="Reg" X="1452" Y="363" DESCRIPTION="Regression" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="MODEL" TOOLPREFIX="Reg">
+<PROPERTIES MainEffect="Y" TwoFactor="N" Polynomial="N" PolynomialDegree="2" Terms="N" Error="LOGISTIC" LinkFunction="LOGIT" SuppressIntercept="N" InputCoding="DEVIATION" MinResourceUse="N" ModelSelection="STEPWISE" SelectionCriterion="VERROR" SelectionDefault="Y" Sequential="N" SlEntry="0.05" SlStay="0.05" Start="0" Stop="0" Force="0" Hierarchy="CLASS" Rule="NONE" MaxStep="." StepOutput="N" OptimizationTechnique="DEFAULT" ModelDefaults="Y" MaxIterations="." MaxFunctionCalls="." MaxCPUTime="1 HOUR" ConvDefaults="Y" AbsConvValue="-1.34078E154" AbsFValue="0" AbsFTime="1" AbsGValue="0.00001" AbsGTime="1" AbsXValue="1E-8" AbsXTime="1" FConvValue="0" FConvTimes="1" GConvValue="1E-6" GConvTimes="1" ClParm="N" Covout="N" CovB="N" CorB="N" Simple="N" SuppressOutput="N" Details="N" PrintDesignMatrix="N" SASSPDS="N" Performance="N" ExcludedVariable="REJECT" ForceRun="N" RunAction="Train" Component="Regression" Interactions="">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMUTIL.EMSCORE.CLASS" COMPONENT="Score" ID="Score" X="1056" Y="198" DESCRIPTION="Score" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="ASSESS" TOOLPREFIX="Score">
+<PROPERTIES OutputType="VIEW" FixedOutputNames="Y" HideVariables="N" HideInput="Y" HideTarget="Y" HideRejected="Y" HideAssess="Y" HidePredict="Y" HideFreq="Y" HideClassification="Y" HideResidual="Y" HideOther="Y" ScoreValidate="N" ScoreTest="N" CScore="N" JScore="N" PackageName="DEFAULT" UserPackageName="" PreferenceName="" OptimizedCode="Y" GraphReports="Y" ForceRun="N" RunAction="Train" Component="Score">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextCluster" ID="TextCluster" X="858" Y="462" DESCRIPTION="Text Cluster" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="TM" TOOLPREFIX="TextCluster">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.CLUSTER.SOURCE" resolution="LOW" maxK="40" exactOrMaximum="maximum" nClusters="15" algorithm="1.0" nDescTerms="15" ForceRun="N" RunAction="Train" Component="TextCluster">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextFilter" ID="TextFilter" X="660" Y="264" DESCRIPTION="Text Filter (custom)" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="TM" TOOLPREFIX="TextFilter">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.FILTER.SOURCE" spellCheck="Y" spellSensitivity="Med" cellWeight="DEFAULT" termWeight="MUTUALINFORMATION" minDocs="4" maxTerms="." resultTerms="ALL" maxviewTerms="20000" ForceRun="N" RunAction="Train" Component="TextFilter" spellDict="COURSE.ENGDICT" searchPhrase="" searchVar="" whereDoc="" lastfilternode="" lastparsenode="" synonymImport="" saveSynDS="" spellDS="EMWS1.TextFilter_spellDS" interStopDS="" interSynDS="" filters="" termSortColumn="WEIGHT" termSortDirection="ASC">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<SYNONYMIMPORT Type="DATA">
+<Data/>
+<Metadata>
+<Variable NAME="term" LABEL="Child Term" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="termrole" LABEL="Term Role" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="parent" LABEL="Parent Term" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="parentrole" LABEL="Parent Role" LENGTH="256" FORMAT="" TYPE="C"/>
+</Metadata>
+</SYNONYMIMPORT>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextParsing" ID="TextParsing" X="462" Y="66" DESCRIPTION="Text Parsing (default)" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="TM" TOOLPREFIX="TextParsing">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.PARSE.SOURCE" language="ENGLISH" delimit="Std" bCapitalize="Y" bPartOfSpeech="Y" NounGroups="Y" multiDS="SASHELP.ENG_MULTI" bPatterns="NONE" stopList="SASHELP.ENGSTOP" ignorePOS="'AUX' 'CONJ' 'DET' 'INTERJ' 'PART' 'PREP' 'PRON'" ignoreAttrib="'NUM' 'PUNCT'" bStems="Y" synonymDS="SASHELP.ENGSYNMS" maxviewTerms="20000" filterLang="" ForceRun="N" RunAction="Train" Component="TextParsing" TGConcepts="" TGCategories="" ignoreEntities="" startList="" parseVar="Comment" NGSettingBeforeCustom="" bPatternsSetting="NONE">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<STOPLIST Type="DATA">
+<Data>
+<Obs TERM="'d" ROLE=""/>
+<Obs TERM="'ll" ROLE=""/>
+<Obs TERM="'m" ROLE=""/>
+<Obs TERM="'re" ROLE=""/>
+<Obs TERM="'s" ROLE=""/>
+<Obs TERM="'ve" ROLE=""/>
+<Obs TERM="a" ROLE=""/>
+<Obs TERM="aboard" ROLE=""/>
+<Obs TERM="about" ROLE=""/>
+<Obs TERM="above" ROLE=""/>
+<Obs TERM="according" ROLE=""/>
+<Obs TERM="accordingly" ROLE=""/>
+<Obs TERM="across" ROLE=""/>
+<Obs TERM="actually" ROLE=""/>
+<Obs TERM="after" ROLE=""/>
+<Obs TERM="afterwards" ROLE=""/>
+<Obs TERM="again" ROLE=""/>
+<Obs TERM="against" ROLE=""/>
+<Obs TERM="ago" ROLE=""/>
+<Obs TERM="ah" ROLE=""/>
+<Obs TERM="ain" ROLE=""/>
+<Obs TERM="all" ROLE=""/>
+<Obs TERM="almost" ROLE=""/>
+<Obs TERM="along" ROLE=""/>
+<Obs TERM="alongside" ROLE=""/>
+<Obs TERM="already" ROLE=""/>
+<Obs TERM="also" ROLE=""/>
+<Obs TERM="although" ROLE=""/>
+<Obs TERM="altogether" ROLE=""/>
+<Obs TERM="am" ROLE=""/>
+<Obs TERM="amid" ROLE=""/>
+<Obs TERM="amidst" ROLE=""/>
+<Obs TERM="among" ROLE=""/>
+<Obs TERM="amongst" ROLE=""/>
+<Obs TERM="an" ROLE=""/>
+<Obs TERM="and" ROLE=""/>
+<Obs TERM="another" ROLE=""/>
+<Obs TERM="any" ROLE=""/>
+<Obs TERM="anybody" ROLE=""/>
+<Obs TERM="anyhow" ROLE=""/>
+<Obs TERM="anyone" ROLE=""/>
+<Obs TERM="anyplace" ROLE=""/>
+<Obs TERM="anything" ROLE=""/>
+<Obs TERM="anyway" ROLE=""/>
+<Obs TERM="anyways" ROLE=""/>
+<Obs TERM="anywhere" ROLE=""/>
+<Obs TERM="apart" ROLE=""/>
+<Obs TERM="appreciate" ROLE=""/>
+<Obs TERM="appropriate" ROLE=""/>
+<Obs TERM="are" ROLE=""/>
+<Obs TERM="around" ROLE=""/>
+<Obs TERM="as" ROLE=""/>
+<Obs TERM="aside" ROLE=""/>
+<Obs TERM="ask" ROLE=""/>
+<Obs TERM="asking" ROLE=""/>
+<Obs TERM="associated" ROLE=""/>
+<Obs TERM="at" ROLE=""/>
+<Obs TERM="atop" ROLE=""/>
+<Obs TERM="available" ROLE=""/>
+<Obs TERM="away" ROLE=""/>
+<Obs TERM="b" ROLE=""/>
+<Obs TERM="be" ROLE=""/>
+<Obs TERM="became" ROLE=""/>
+<Obs TERM="because" ROLE=""/>
+<Obs TERM="become" ROLE=""/>
+<Obs TERM="becomes" ROLE=""/>
+<Obs TERM="becoming" ROLE=""/>
+<Obs TERM="been" ROLE=""/>
+<Obs TERM="before" ROLE=""/>
+<Obs TERM="behind" ROLE=""/>
+<Obs TERM="being" ROLE=""/>
+<Obs TERM="believe" ROLE=""/>
+<Obs TERM="below" ROLE=""/>
+<Obs TERM="beneath" ROLE=""/>
+<Obs TERM="beside" ROLE=""/>
+<Obs TERM="besides" ROLE=""/>
+<Obs TERM="between" ROLE=""/>
+<Obs TERM="beyond" ROLE=""/>
+<Obs TERM="both" ROLE=""/>
+<Obs TERM="but" ROLE=""/>
+<Obs TERM="by" ROLE=""/>
+<Obs TERM="c" ROLE=""/>
+<Obs TERM="call" ROLE=""/>
+<Obs TERM="called" ROLE=""/>
+<Obs TERM="came" ROLE=""/>
+<Obs TERM="can" ROLE=""/>
+<Obs TERM="can't" ROLE=""/>
+<Obs TERM="certain" ROLE=""/>
+<Obs TERM="certainly" ROLE=""/>
+<Obs TERM="change" ROLE=""/>
+<Obs TERM="changes" ROLE=""/>
+<Obs TERM="co" ROLE=""/>
+<Obs TERM="com" ROLE=""/>
+<Obs TERM="come" ROLE=""/>
+<Obs TERM="concerning" ROLE=""/>
+<Obs TERM="consequently" ROLE=""/>
+<Obs TERM="consider" ROLE=""/>
+<Obs TERM="considering" ROLE=""/>
+<Obs TERM="corresponding" ROLE=""/>
+<Obs TERM="could" ROLE=""/>
+<Obs TERM="course" ROLE=""/>
+<Obs TERM="currently" ROLE=""/>
+<Obs TERM="d" ROLE=""/>
+<Obs TERM="describe" ROLE=""/>
+<Obs TERM="described" ROLE=""/>
+<Obs TERM="despite" ROLE=""/>
+<Obs TERM="did" ROLE=""/>
+<Obs TERM="didn't" ROLE=""/>
+<Obs TERM="do" ROLE=""/>
+<Obs TERM="does" ROLE=""/>
+<Obs TERM="doesn't" ROLE=""/>
+<Obs TERM="doing" ROLE=""/>
+<Obs TERM="don't" ROLE=""/>
+<Obs TERM="done" ROLE=""/>
+<Obs TERM="during" ROLE=""/>
+<Obs TERM="e" ROLE=""/>
+<Obs TERM="each" ROLE=""/>
+<Obs TERM="edu" ROLE=""/>
+<Obs TERM="eg" ROLE=""/>
+<Obs TERM="either" ROLE=""/>
+<Obs TERM="else" ROLE=""/>
+<Obs TERM="enough" ROLE=""/>
+<Obs TERM="et" ROLE=""/>
+<Obs TERM="etc" ROLE=""/>
+<Obs TERM="etc." ROLE=""/>
+<Obs TERM="even" ROLE=""/>
+<Obs TERM="ever" ROLE=""/>
+<Obs TERM="every" ROLE=""/>
+<Obs TERM="everybody" ROLE=""/>
+<Obs TERM="everyone" ROLE=""/>
+<Obs TERM="everything" ROLE=""/>
+<Obs TERM="everywhere" ROLE=""/>
+<Obs TERM="example" ROLE=""/>
+<Obs TERM="except" ROLE=""/>
+<Obs TERM="f" ROLE=""/>
+<Obs TERM="following" ROLE=""/>
+<Obs TERM="for" ROLE=""/>
+<Obs TERM="former" ROLE=""/>
+<Obs TERM="formerly" ROLE=""/>
+<Obs TERM="forth" ROLE=""/>
+<Obs TERM="from" ROLE=""/>
+<Obs TERM="furthermore" ROLE=""/>
+<Obs TERM="g" ROLE=""/>
+<Obs TERM="generally" ROLE=""/>
+<Obs TERM="get" ROLE=""/>
+<Obs TERM="gets" ROLE=""/>
+<Obs TERM="getting" ROLE=""/>
+<Obs TERM="give" ROLE=""/>
+<Obs TERM="given" ROLE=""/>
+<Obs TERM="gives" ROLE=""/>
+<Obs TERM="go" ROLE=""/>
+<Obs TERM="goes" ROLE=""/>
+<Obs TERM="going" ROLE=""/>
+<Obs TERM="gone" ROLE=""/>
+<Obs TERM="got" ROLE=""/>
+<Obs TERM="gotten" ROLE=""/>
+<Obs TERM="greetings" ROLE=""/>
+<Obs TERM="h" ROLE=""/>
+<Obs TERM="had" ROLE=""/>
+<Obs TERM="hadn't" ROLE=""/>
+<Obs TERM="hardly" ROLE=""/>
+<Obs TERM="has" ROLE=""/>
+<Obs TERM="have" ROLE=""/>
+<Obs TERM="he" ROLE=""/>
+<Obs TERM="he'd" ROLE=""/>
+<Obs TERM="he's" ROLE=""/>
+<Obs TERM="hello" ROLE=""/>
+<Obs TERM="hence" ROLE=""/>
+<Obs TERM="her" ROLE=""/>
+<Obs TERM="here" ROLE=""/>
+<Obs TERM="hereafter" ROLE=""/>
+<Obs TERM="hereby" ROLE=""/>
+<Obs TERM="herein" ROLE=""/>
+<Obs TERM="hereupon" ROLE=""/>
+<Obs TERM="hers" ROLE=""/>
+<Obs TERM="herself" ROLE=""/>
+<Obs TERM="hi" ROLE=""/>
+<Obs TERM="him" ROLE=""/>
+<Obs TERM="himself" ROLE=""/>
+<Obs TERM="his" ROLE=""/>
+<Obs TERM="hither" ROLE=""/>
+<Obs TERM="hopefully" ROLE=""/>
+<Obs TERM="how" ROLE=""/>
+<Obs TERM="howbeit" ROLE=""/>
+<Obs TERM="however" ROLE=""/>
+<Obs TERM="i" ROLE=""/>
+<Obs TERM="i'd" ROLE=""/>
+<Obs TERM="i'm" ROLE=""/>
+<Obs TERM="ie" ROLE=""/>
+<Obs TERM="if" ROLE=""/>
+<Obs TERM="in" ROLE=""/>
+<Obs TERM="inasmuch" ROLE=""/>
+<Obs TERM="indeed" ROLE=""/>
+<Obs TERM="inside" ROLE=""/>
+<Obs TERM="insofar" ROLE=""/>
+<Obs TERM="instead" ROLE=""/>
+<Obs TERM="into" ROLE=""/>
+<Obs TERM="is" ROLE=""/>
+<Obs TERM="isn't" ROLE=""/>
+<Obs TERM="it" ROLE=""/>
+<Obs TERM="it's" ROLE=""/>
+<Obs TERM="its" ROLE=""/>
+<Obs TERM="itself" ROLE=""/>
+<Obs TERM="j" ROLE=""/>
+<Obs TERM="just" ROLE=""/>
+<Obs TERM="k" ROLE=""/>
+<Obs TERM="l" ROLE=""/>
+<Obs TERM="least" ROLE=""/>
+<Obs TERM="lest" ROLE=""/>
+<Obs TERM="let" ROLE=""/>
+<Obs TERM="let's" ROLE=""/>
+<Obs TERM="like" ROLE=""/>
+<Obs TERM="ll" ROLE=""/>
+<Obs TERM="m" ROLE=""/>
+<Obs TERM="ma'am" ROLE=""/>
+<Obs TERM="madam" ROLE=""/>
+<Obs TERM="made" ROLE=""/>
+<Obs TERM="make" ROLE=""/>
+<Obs TERM="many" ROLE=""/>
+<Obs TERM="may" ROLE=""/>
+<Obs TERM="maybe" ROLE=""/>
+<Obs TERM="me" ROLE=""/>
+<Obs TERM="meanwhile" ROLE=""/>
+<Obs TERM="merely" ROLE=""/>
+<Obs TERM="might" ROLE=""/>
+<Obs TERM="mine" ROLE=""/>
+<Obs TERM="minus" ROLE=""/>
+<Obs TERM="more" ROLE=""/>
+<Obs TERM="moreover" ROLE=""/>
+<Obs TERM="most" ROLE=""/>
+<Obs TERM="mr" ROLE=""/>
+<Obs TERM="mr." ROLE=""/>
+<Obs TERM="mrs" ROLE=""/>
+<Obs TERM="mrs." ROLE=""/>
+<Obs TERM="ms" ROLE=""/>
+<Obs TERM="ms." ROLE=""/>
+<Obs TERM="much" ROLE=""/>
+<Obs TERM="must" ROLE=""/>
+<Obs TERM="my" ROLE=""/>
+<Obs TERM="myself" ROLE=""/>
+<Obs TERM="n" ROLE=""/>
+<Obs TERM="n't" ROLE=""/>
+<Obs TERM="name" ROLE=""/>
+<Obs TERM="namely" ROLE=""/>
+<Obs TERM="nd" ROLE=""/>
+<Obs TERM="near" ROLE=""/>
+<Obs TERM="need" ROLE=""/>
+<Obs TERM="neither" ROLE=""/>
+<Obs TERM="never" ROLE=""/>
+<Obs TERM="nevertheless" ROLE=""/>
+<Obs TERM="new" ROLE=""/>
+<Obs TERM="no" ROLE=""/>
+<Obs TERM="nobody" ROLE=""/>
+<Obs TERM="non" ROLE=""/>
+<Obs TERM="none" ROLE=""/>
+<Obs TERM="nonesuch" ROLE=""/>
+<Obs TERM="nonetheless" ROLE=""/>
+<Obs TERM="noone" ROLE=""/>
+<Obs TERM="nor" ROLE=""/>
+<Obs TERM="normally" ROLE=""/>
+<Obs TERM="not" ROLE=""/>
+<Obs TERM="nothing" ROLE=""/>
+<Obs TERM="notwithstand" ROLE=""/>
+<Obs TERM="now" ROLE=""/>
+<Obs TERM="o" ROLE=""/>
+<Obs TERM="obviously" ROLE=""/>
+<Obs TERM="of" ROLE=""/>
+<Obs TERM="off" ROLE=""/>
+<Obs TERM="often" ROLE=""/>
+<Obs TERM="oh" ROLE=""/>
+<Obs TERM="ok" ROLE=""/>
+<Obs TERM="okay" ROLE=""/>
+<Obs TERM="on" ROLE=""/>
+<Obs TERM="once" ROLE=""/>
+<Obs TERM="one" ROLE=""/>
+<Obs TERM="one's" ROLE=""/>
+<Obs TERM="only" ROLE=""/>
+<Obs TERM="onto" ROLE=""/>
+<Obs TERM="or" ROLE=""/>
+<Obs TERM="other" ROLE=""/>
+<Obs TERM="others" ROLE=""/>
+<Obs TERM="ought" ROLE=""/>
+<Obs TERM="our" ROLE=""/>
+<Obs TERM="ours" ROLE=""/>
+<Obs TERM="ourselves" ROLE=""/>
+<Obs TERM="out" ROLE=""/>
+<Obs TERM="over" ROLE=""/>
+<Obs TERM="own" ROLE=""/>
+<Obs TERM="p" ROLE=""/>
+<Obs TERM="part" ROLE=""/>
+<Obs TERM="per" ROLE=""/>
+<Obs TERM="perhaps" ROLE=""/>
+<Obs TERM="please" ROLE=""/>
+<Obs TERM="plus" ROLE=""/>
+<Obs TERM="possible" ROLE=""/>
+<Obs TERM="presumably" ROLE=""/>
+<Obs TERM="probably" ROLE=""/>
+<Obs TERM="provide" ROLE=""/>
+<Obs TERM="provides" ROLE=""/>
+<Obs TERM="put" ROLE=""/>
+<Obs TERM="q" ROLE=""/>
+<Obs TERM="que" ROLE=""/>
+<Obs TERM="quite" ROLE=""/>
+<Obs TERM="qv" ROLE=""/>
+<Obs TERM="r" ROLE=""/>
+<Obs TERM="rather" ROLE=""/>
+<Obs TERM="rd" ROLE=""/>
+<Obs TERM="re" ROLE=""/>
+<Obs TERM="really" ROLE=""/>
+<Obs TERM="reasonably" ROLE=""/>
+<Obs TERM="regard" ROLE=""/>
+<Obs TERM="regarding" ROLE=""/>
+<Obs TERM="regardless" ROLE=""/>
+<Obs TERM="regards" ROLE=""/>
+<Obs TERM="regularly" ROLE=""/>
+<Obs TERM="relatively" ROLE=""/>
+<Obs TERM="respect" ROLE=""/>
+<Obs TERM="respectively" ROLE=""/>
+<Obs TERM="s" ROLE=""/>
+<Obs TERM="said" ROLE=""/>
+<Obs TERM="same" ROLE=""/>
+<Obs TERM="say" ROLE=""/>
+<Obs TERM="saying" ROLE=""/>
+<Obs TERM="says" ROLE=""/>
+<Obs TERM="secondly" ROLE=""/>
+<Obs TERM="see" ROLE=""/>
+<Obs TERM="seem" ROLE=""/>
+<Obs TERM="seemed" ROLE=""/>
+<Obs TERM="seeming" ROLE=""/>
+<Obs TERM="seems" ROLE=""/>
+<Obs TERM="self" ROLE=""/>
+<Obs TERM="selves" ROLE=""/>
+<Obs TERM="send" ROLE=""/>
+<Obs TERM="sensible" ROLE=""/>
+<Obs TERM="sent" ROLE=""/>
+<Obs TERM="seriously" ROLE=""/>
+<Obs TERM="shall" ROLE=""/>
+<Obs TERM="she" ROLE=""/>
+<Obs TERM="she'd" ROLE=""/>
+<Obs TERM="should" ROLE=""/>
+<Obs TERM="since" ROLE=""/>
+<Obs TERM="sir" ROLE=""/>
+<Obs TERM="so" ROLE=""/>
+<Obs TERM="some" ROLE=""/>
+<Obs TERM="somebody" ROLE=""/>
+<Obs TERM="somehow" ROLE=""/>
+<Obs TERM="someone" ROLE=""/>
+<Obs TERM="someplace" ROLE=""/>
+<Obs TERM="something" ROLE=""/>
+<Obs TERM="sometime" ROLE=""/>
+<Obs TERM="sometimes" ROLE=""/>
+<Obs TERM="someway" ROLE=""/>
+<Obs TERM="somewhat" ROLE=""/>
+<Obs TERM="somewhere" ROLE=""/>
+<Obs TERM="soon" ROLE=""/>
+<Obs TERM="sorry" ROLE=""/>
+<Obs TERM="specified" ROLE=""/>
+<Obs TERM="specify" ROLE=""/>
+<Obs TERM="specifying" ROLE=""/>
+<Obs TERM="still" ROLE=""/>
+<Obs TERM="sub" ROLE=""/>
+<Obs TERM="such" ROLE=""/>
+<Obs TERM="sup" ROLE=""/>
+<Obs TERM="sure" ROLE=""/>
+<Obs TERM="surely" ROLE=""/>
+<Obs TERM="t" ROLE=""/>
+<Obs TERM="take" ROLE=""/>
+<Obs TERM="taken" ROLE=""/>
+<Obs TERM="tell" ROLE=""/>
+<Obs TERM="tend" ROLE=""/>
+<Obs TERM="tends" ROLE=""/>
+<Obs TERM="th" ROLE=""/>
+<Obs TERM="than" ROLE=""/>
+<Obs TERM="thank" ROLE=""/>
+<Obs TERM="thanks" ROLE=""/>
+<Obs TERM="thanx" ROLE=""/>
+<Obs TERM="that" ROLE=""/>
+<Obs TERM="that's" ROLE=""/>
+<Obs TERM="thats" ROLE=""/>
+<Obs TERM="the" ROLE=""/>
+<Obs TERM="their" ROLE=""/>
+<Obs TERM="theirs" ROLE=""/>
+<Obs TERM="them" ROLE=""/>
+<Obs TERM="themselves" ROLE=""/>
+<Obs TERM="then" ROLE=""/>
+<Obs TERM="thence" ROLE=""/>
+<Obs TERM="there" ROLE=""/>
+<Obs TERM="there's" ROLE=""/>
+<Obs TERM="thereafter" ROLE=""/>
+<Obs TERM="thereby" ROLE=""/>
+<Obs TERM="therefore" ROLE=""/>
+<Obs TERM="therein" ROLE=""/>
+<Obs TERM="theres" ROLE=""/>
+<Obs TERM="thereupon" ROLE=""/>
+<Obs TERM="these" ROLE=""/>
+<Obs TERM="they" ROLE=""/>
+<Obs TERM="they're" ROLE=""/>
+<Obs TERM="think" ROLE=""/>
+<Obs TERM="this" ROLE=""/>
+<Obs TERM="thorough" ROLE=""/>
+<Obs TERM="thoroughly" ROLE=""/>
+<Obs TERM="those" ROLE=""/>
+<Obs TERM="though" ROLE=""/>
+<Obs TERM="through" ROLE=""/>
+<Obs TERM="throughout" ROLE=""/>
+<Obs TERM="thru" ROLE=""/>
+<Obs TERM="thus" ROLE=""/>
+<Obs TERM="thusly" ROLE=""/>
+<Obs TERM="thx" ROLE=""/>
+<Obs TERM="till" ROLE=""/>
+<Obs TERM="to" ROLE=""/>
+<Obs TERM="together" ROLE=""/>
+<Obs TERM="too" ROLE=""/>
+<Obs TERM="took" ROLE=""/>
+<Obs TERM="toward" ROLE=""/>
+<Obs TERM="towards" ROLE=""/>
+<Obs TERM="tried" ROLE=""/>
+<Obs TERM="tries" ROLE=""/>
+<Obs TERM="truly" ROLE=""/>
+<Obs TERM="try" ROLE=""/>
+<Obs TERM="trying" ROLE=""/>
+<Obs TERM="two" ROLE=""/>
+<Obs TERM="u" ROLE=""/>
+<Obs TERM="un" ROLE=""/>
+<Obs TERM="under" ROLE=""/>
+<Obs TERM="underneath" ROLE=""/>
+<Obs TERM="unfortunately" ROLE=""/>
+<Obs TERM="unless" ROLE=""/>
+<Obs TERM="unlike" ROLE=""/>
+<Obs TERM="until" ROLE=""/>
+<Obs TERM="unto" ROLE=""/>
+<Obs TERM="up" ROLE=""/>
+<Obs TERM="upon" ROLE=""/>
+<Obs TERM="us" ROLE=""/>
+<Obs TERM="use" ROLE=""/>
+<Obs TERM="used" ROLE=""/>
+<Obs TERM="useful" ROLE=""/>
+<Obs TERM="uses" ROLE=""/>
+<Obs TERM="using" ROLE=""/>
+<Obs TERM="usually" ROLE=""/>
+<Obs TERM="uucp" ROLE=""/>
+<Obs TERM="v" ROLE=""/>
+<Obs TERM="various" ROLE=""/>
+<Obs TERM="ve" ROLE=""/>
+<Obs TERM="very" ROLE=""/>
+<Obs TERM="via" ROLE=""/>
+<Obs TERM="viz" ROLE=""/>
+<Obs TERM="vs" ROLE=""/>
+<Obs TERM="w" ROLE=""/>
+<Obs TERM="was" ROLE=""/>
+<Obs TERM="wasn't" ROLE=""/>
+<Obs TERM="way" ROLE=""/>
+<Obs TERM="we" ROLE=""/>
+<Obs TERM="we'll" ROLE=""/>
+<Obs TERM="welcome" ROLE=""/>
+<Obs TERM="went" ROLE=""/>
+<Obs TERM="were" ROLE=""/>
+<Obs TERM="what" ROLE=""/>
+<Obs TERM="whatever" ROLE=""/>
+<Obs TERM="when" ROLE=""/>
+<Obs TERM="whence" ROLE=""/>
+<Obs TERM="where" ROLE=""/>
+<Obs TERM="whereafter" ROLE=""/>
+<Obs TERM="whereas" ROLE=""/>
+<Obs TERM="whereby" ROLE=""/>
+<Obs TERM="wherein" ROLE=""/>
+<Obs TERM="whereupon" ROLE=""/>
+<Obs TERM="wherever" ROLE=""/>
+<Obs TERM="wherewithall" ROLE=""/>
+<Obs TERM="whether" ROLE=""/>
+<Obs TERM="which" ROLE=""/>
+<Obs TERM="whichever" ROLE=""/>
+<Obs TERM="while" ROLE=""/>
+<Obs TERM="whilst" ROLE=""/>
+<Obs TERM="whither" ROLE=""/>
+<Obs TERM="who" ROLE=""/>
+<Obs TERM="whoever" ROLE=""/>
+<Obs TERM="whole" ROLE=""/>
+<Obs TERM="whom" ROLE=""/>
+<Obs TERM="whomever" ROLE=""/>
+<Obs TERM="whose" ROLE=""/>
+<Obs TERM="whosoever" ROLE=""/>
+<Obs TERM="why" ROLE=""/>
+<Obs TERM="will" ROLE=""/>
+<Obs TERM="willing" ROLE=""/>
+<Obs TERM="with" ROLE=""/>
+<Obs TERM="withal" ROLE=""/>
+<Obs TERM="within" ROLE=""/>
+<Obs TERM="without" ROLE=""/>
+<Obs TERM="won" ROLE=""/>
+<Obs TERM="won't" ROLE=""/>
+<Obs TERM="wonder" ROLE=""/>
+<Obs TERM="would" ROLE=""/>
+<Obs TERM="wouldn't" ROLE=""/>
+<Obs TERM="x" ROLE=""/>
+<Obs TERM="y" ROLE=""/>
+<Obs TERM="y'all" ROLE=""/>
+<Obs TERM="yet" ROLE=""/>
+<Obs TERM="you" ROLE=""/>
+<Obs TERM="you'll" ROLE=""/>
+<Obs TERM="you're" ROLE=""/>
+<Obs TERM="you've" ROLE=""/>
+<Obs TERM="your" ROLE=""/>
+<Obs TERM="yours" ROLE=""/>
+<Obs TERM="yourself" ROLE=""/>
+<Obs TERM="yourselves" ROLE=""/>
+<Obs TERM="z" ROLE=""/>
+</Data>
+<Metadata>
+<Variable NAME="term" LABEL="Term" LENGTH="256" FORMAT="$256." TYPE="C"/>
+<Variable NAME="role" LABEL="Role" LENGTH="256" FORMAT="" TYPE="C"/>
+</Metadata>
+</STOPLIST>
+<STARTLIST Type="DATA">
+<Data/>
+<Metadata>
+<Variable NAME="term" LABEL="Term" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="role" LABEL="Role" LENGTH="256" FORMAT="" TYPE="C"/>
+</Metadata>
+</STARTLIST>
+<MULTIDS Type="DATA">
+<Data>
+<Obs TERM="a bit" ROLE="Adv" NUMDOCS="8"/>
+<Obs TERM="a fortiori" ROLE="Adv" NUMDOCS="18"/>
+<Obs TERM="a lot" ROLE="Adv" NUMDOCS="89"/>
+<Obs TERM="a lot of" ROLE="Adj" NUMDOCS="47"/>
+<Obs TERM="a posteriori" ROLE="Adj" NUMDOCS="40"/>
+<Obs TERM="a priori" ROLE="Adj" NUMDOCS="24"/>
+<Obs TERM="according to" ROLE="Prep" NUMDOCS="5385"/>
+<Obs TERM="ad hoc" ROLE="Adj" NUMDOCS="446"/>
+<Obs TERM="ad interim" ROLE="Adv" NUMDOCS="9"/>
+<Obs TERM="ahead of" ROLE="Prep" NUMDOCS="107"/>
+<Obs TERM="all the time" ROLE="Adv" NUMDOCS="20"/>
+<Obs TERM="along with" ROLE="Prep" NUMDOCS="319"/>
+<Obs TERM="any moment" ROLE="Adv" NUMDOCS="56"/>
+<Obs TERM="any second" ROLE="Adv" NUMDOCS="2"/>
+<Obs TERM="apart from" ROLE="Prep" NUMDOCS="567"/>
+<Obs TERM="as a result of" ROLE="Prep" NUMDOCS="2190"/>
+<Obs TERM="as a rule" ROLE="Adv" NUMDOCS="192"/>
+<Obs TERM="as far as" ROLE="Prep" NUMDOCS="1377"/>
+<Obs TERM="as for" ROLE="Prep" NUMDOCS="507"/>
+<Obs TERM="as if" ROLE="Conj" NUMDOCS="216"/>
+<Obs TERM="as in" ROLE="Prep" NUMDOCS="795"/>
+<Obs TERM="as long as" ROLE="Conj" NUMDOCS="634"/>
+<Obs TERM="as many as" ROLE="Adv" NUMDOCS="25"/>
+<Obs TERM="as of" ROLE="Prep" NUMDOCS="638"/>
+<Obs TERM="as one" ROLE="Adv" NUMDOCS="517"/>
+<Obs TERM="as per" ROLE="Prep" NUMDOCS="87"/>
+<Obs TERM="as regards" ROLE="Prep" NUMDOCS="6167"/>
+<Obs TERM="as soon as" ROLE="Conj" NUMDOCS="2116"/>
+<Obs TERM="as though" ROLE="Conj" NUMDOCS="31"/>
+<Obs TERM="as to" ROLE="Prep" NUMDOCS="2560"/>
+<Obs TERM="as well" ROLE="Adv" NUMDOCS="379"/>
+<Obs TERM="as well as" ROLE="Conj" NUMDOCS="4490"/>
+<Obs TERM="as yet" ROLE="Adv" NUMDOCS="113"/>
+<Obs TERM="aside from" ROLE="Prep" NUMDOCS="18"/>
+<Obs TERM="assuming that" ROLE="Conj" NUMDOCS="78"/>
+<Obs TERM="at all" ROLE="Adv" NUMDOCS="1293"/>
+<Obs TERM="at any rate" ROLE="Adv" NUMDOCS="34"/>
+<Obs TERM="at least one" ROLE="Adj" NUMDOCS="1427"/>
+<Obs TERM="at once" ROLE="Adv" NUMDOCS="55"/>
+<Obs TERM="at the expense of" ROLE="Prep" NUMDOCS="163"/>
+<Obs TERM="at variance with" ROLE="Prep" NUMDOCS="22"/>
+<Obs TERM="away from" ROLE="Prep" NUMDOCS="262"/>
+<Obs TERM="back of" ROLE="Prep" NUMDOCS="104"/>
+<Obs TERM="bear up" ROLE="Verb" NUMDOCS="6"/>
+<Obs TERM="because of" ROLE="Prep" NUMDOCS="1502"/>
+<Obs TERM="best known" ROLE="Adj" NUMDOCS="8"/>
+<Obs TERM="black and white" ROLE="Adj" NUMDOCS="50"/>
+<Obs TERM="bona fide" ROLE="Adj" NUMDOCS="41"/>
+<Obs TERM="break up" ROLE="Verb" NUMDOCS="12"/>
+<Obs TERM="bring about" ROLE="Verb" NUMDOCS="291"/>
+<Obs TERM="bring up" ROLE="Verb" NUMDOCS="15"/>
+<Obs TERM="build up" ROLE="Verb" NUMDOCS="145"/>
+<Obs TERM="but for" ROLE="Prep" NUMDOCS="149"/>
+<Obs TERM="by dint of" ROLE="Prep" NUMDOCS="8"/>
+<Obs TERM="by itself" ROLE="Adv" NUMDOCS="101"/>
+<Obs TERM="by means of" ROLE="Prep" NUMDOCS="2404"/>
+<Obs TERM="by proxy" ROLE="Adv" NUMDOCS="5"/>
+<Obs TERM="by reason of" ROLE="Prep" NUMDOCS="709"/>
+<Obs TERM="by the way" ROLE="Adv" NUMDOCS="16"/>
+<Obs TERM="by virtue of" ROLE="Prep" NUMDOCS="1069"/>
+<Obs TERM="by way of" ROLE="Prep" NUMDOCS="2127"/>
+<Obs TERM="carry on" ROLE="Verb" NUMDOCS="132"/>
+<Obs TERM="carry out" ROLE="Verb" NUMDOCS="2635"/>
+<Obs TERM="carry through" ROLE="Verb" NUMDOCS="13"/>
+<Obs TERM="catch on" ROLE="Verb" NUMDOCS="19"/>
+<Obs TERM="central african" ROLE="Adj" NUMDOCS="8"/>
+<Obs TERM="clean up" ROLE="Verb" NUMDOCS="10"/>
+<Obs TERM="clear up" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="close by" ROLE="Adv" NUMDOCS="10"/>
+<Obs TERM="close to" ROLE="Adv" NUMDOCS="547"/>
+<Obs TERM="come about" ROLE="Verb" NUMDOCS="6"/>
+<Obs TERM="come in" ROLE="Verb" NUMDOCS="31"/>
+<Obs TERM="come on" ROLE="Verb" NUMDOCS="11"/>
+<Obs TERM="considering that" ROLE="Conj" NUMDOCS="225"/>
+<Obs TERM="costa rican" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="cover up" ROLE="Verb" NUMDOCS="26"/>
+<Obs TERM="cut off" ROLE="Verb" NUMDOCS="51"/>
+<Obs TERM="dare to" ROLE="Aux" NUMDOCS="2"/>
+<Obs TERM="dark blue" ROLE="Adj" NUMDOCS="7"/>
+<Obs TERM="de facto" ROLE="Adv" NUMDOCS="123"/>
+<Obs TERM="de jure" ROLE="Adv" NUMDOCS="35"/>
+<Obs TERM="devoid of" ROLE="Prep" NUMDOCS="27"/>
+<Obs TERM="draw down" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="due to" ROLE="Prep" NUMDOCS="2584"/>
+<Obs TERM="east german" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="edge in" ROLE="Verb" NUMDOCS="7"/>
+<Obs TERM="egg on" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="en bloc" ROLE="Adv" NUMDOCS="7"/>
+<Obs TERM="en masse" ROLE="Adv" NUMDOCS="2"/>
+<Obs TERM="en route" ROLE="Adv" NUMDOCS="67"/>
+<Obs TERM="et al." ROLE="Abbr" NUMDOCS="71"/>
+<Obs TERM="et cetera" ROLE="Adv" NUMDOCS="9"/>
+<Obs TERM="even if" ROLE="Conj" NUMDOCS="1021"/>
+<Obs TERM="even though" ROLE="Conj" NUMDOCS="438"/>
+<Obs TERM="ever expanding" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="ex officio" ROLE="Adv" NUMDOCS="32"/>
+<Obs TERM="ex parte" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="except for" ROLE="Prep" NUMDOCS="1201"/>
+<Obs TERM="exclusive of" ROLE="Prep" NUMDOCS="66"/>
+<Obs TERM="fall away" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="fall back" ROLE="Verb" NUMDOCS="21"/>
+<Obs TERM="fill in" ROLE="Verb" NUMDOCS="73"/>
+<Obs TERM="filled up" ROLE="Adj" NUMDOCS="7"/>
+<Obs TERM="find out" ROLE="Verb" NUMDOCS="65"/>
+<Obs TERM="fine tune" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="fit in" ROLE="Verb" NUMDOCS="21"/>
+<Obs TERM="for all that" ROLE="Conj" NUMDOCS="4"/>
+<Obs TERM="for sake of" ROLE="Prep" NUMDOCS="2"/>
+<Obs TERM="for the sake of" ROLE="Prep" NUMDOCS="301"/>
+<Obs TERM="for want of" ROLE="Prep" NUMDOCS="14"/>
+<Obs TERM="give away" ROLE="Verb" NUMDOCS="3"/>
+<Obs TERM="give in" ROLE="Verb" NUMDOCS="7"/>
+<Obs TERM="give up" ROLE="Verb" NUMDOCS="33"/>
+<Obs TERM="given that" ROLE="Conj" NUMDOCS="828"/>
+<Obs TERM="go ahead" ROLE="Verb" NUMDOCS="22"/>
+<Obs TERM="granting that" ROLE="Conj" NUMDOCS="5"/>
+<Obs TERM="great deal" ROLE="Adv" NUMDOCS="46"/>
+<Obs TERM="grow up" ROLE="Verb" NUMDOCS="3"/>
+<Obs TERM="hand out" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="hand over" ROLE="Verb" NUMDOCS="25"/>
+<Obs TERM="high income" ROLE="Adj" NUMDOCS="7"/>
+<Obs TERM="high quality" ROLE="Adj" NUMDOCS="442"/>
+<Obs TERM="hold back" ROLE="Verb" NUMDOCS="41"/>
+<Obs TERM="hold up" ROLE="Verb" NUMDOCS="8"/>
+<Obs TERM="hoped for" ROLE="Adj" NUMDOCS="6"/>
+<Obs TERM="how many" ROLE="Pron" NUMDOCS="64"/>
+<Obs TERM="how much" ROLE="Pron" NUMDOCS="69"/>
+<Obs TERM="in absentia" ROLE="Adv" NUMDOCS="12"/>
+<Obs TERM="in accordance with" ROLE="Prep" NUMDOCS="14620"/>
+<Obs TERM="in addition" ROLE="Adv" NUMDOCS="2629"/>
+<Obs TERM="in addition to" ROLE="Prep" NUMDOCS="2055"/>
+<Obs TERM="in aid of" ROLE="Prep" NUMDOCS="3"/>
+<Obs TERM="in case" ROLE="Conj" NUMDOCS="443"/>
+<Obs TERM="in case of" ROLE="Prep" NUMDOCS="1175"/>
+<Obs TERM="in charge of" ROLE="Prep" NUMDOCS="341"/>
+<Obs TERM="in common with" ROLE="Prep" NUMDOCS="57"/>
+<Obs TERM="in comparison with" ROLE="Prep" NUMDOCS="206"/>
+<Obs TERM="in compliance with" ROLE="Prep" NUMDOCS="1068"/>
+<Obs TERM="in conformity with" ROLE="Prep" NUMDOCS="1462"/>
+<Obs TERM="in consequence of" ROLE="Prep" NUMDOCS="48"/>
+<Obs TERM="in contact with" ROLE="Prep" NUMDOCS="230"/>
+<Obs TERM="in exchange for" ROLE="Prep" NUMDOCS="64"/>
+<Obs TERM="in favour of" ROLE="Prep" NUMDOCS="810"/>
+<Obs TERM="in front" ROLE="Adv" NUMDOCS="18"/>
+<Obs TERM="in front of" ROLE="Prep" NUMDOCS="105"/>
+<Obs TERM="in general" ROLE="Adv" NUMDOCS="1221"/>
+<Obs TERM="in heat" ROLE="Adv" NUMDOCS="4"/>
+<Obs TERM="in lieu of" ROLE="Prep" NUMDOCS="67"/>
+<Obs TERM="in light of" ROLE="Prep" NUMDOCS="242"/>
+<Obs TERM="in line with" ROLE="Prep" NUMDOCS="1984"/>
+<Obs TERM="in need of" ROLE="Prep" NUMDOCS="106"/>
+<Obs TERM="in order for" ROLE="Conj" NUMDOCS="301"/>
+<Obs TERM="in order that" ROLE="Conj" NUMDOCS="334"/>
+<Obs TERM="in particular" ROLE="Adv" NUMDOCS="18416"/>
+<Obs TERM="in place of" ROLE="Prep" NUMDOCS="329"/>
+<Obs TERM="in position" ROLE="Adv" NUMDOCS="60"/>
+<Obs TERM="in process of" ROLE="Prep" NUMDOCS="5"/>
+<Obs TERM="in pursuit" ROLE="Adv" NUMDOCS="75"/>
+<Obs TERM="in re" ROLE="Prep" NUMDOCS="2"/>
+<Obs TERM="in reference to" ROLE="Prep" NUMDOCS="21"/>
+<Obs TERM="in regard to" ROLE="Prep" NUMDOCS="218"/>
+<Obs TERM="in relation to" ROLE="Prep" NUMDOCS="3122"/>
+<Obs TERM="in respect of" ROLE="Prep" NUMDOCS="6422"/>
+<Obs TERM="in respect to" ROLE="Prep" NUMDOCS="72"/>
+<Obs TERM="in return of" ROLE="Prep" NUMDOCS="3"/>
+<Obs TERM="in search of" ROLE="Prep" NUMDOCS="8"/>
+<Obs TERM="in situ" ROLE="Adv" NUMDOCS="63"/>
+<Obs TERM="in spite of" ROLE="Prep" NUMDOCS="190"/>
+<Obs TERM="in that" ROLE="Conj" NUMDOCS="3907"/>
+<Obs TERM="in the event that" ROLE="Conj" NUMDOCS="476"/>
+<Obs TERM="in the face of" ROLE="Prep" NUMDOCS="100"/>
+<Obs TERM="in the interim" ROLE="Adv" NUMDOCS="24"/>
+<Obs TERM="in the interval" ROLE="Adv" NUMDOCS="22"/>
+<Obs TERM="in the light of" ROLE="Prep" NUMDOCS="2985"/>
+<Obs TERM="in the process of" ROLE="Prep" NUMDOCS="358"/>
+<Obs TERM="in the raw" ROLE="Adv" NUMDOCS="64"/>
+<Obs TERM="in use" ROLE="Adv" NUMDOCS="344"/>
+<Obs TERM="in vacuo" ROLE="Adv" NUMDOCS="9"/>
+<Obs TERM="in view of" ROLE="Prep" NUMDOCS="2309"/>
+<Obs TERM="in vitro" ROLE="Adj" NUMDOCS="64"/>
+<Obs TERM="inasmuch as" ROLE="Conj" NUMDOCS="118"/>
+<Obs TERM="inside of" ROLE="Prep" NUMDOCS="47"/>
+<Obs TERM="insofar as" ROLE="Conj" NUMDOCS="683"/>
+<Obs TERM="insofar that" ROLE="Conj" NUMDOCS="4"/>
+<Obs TERM="instead of" ROLE="Prep" NUMDOCS="791"/>
+<Obs TERM="inter alia" ROLE="Adv" NUMDOCS="2019"/>
+<Obs TERM="ipso facto" ROLE="Adv" NUMDOCS="39"/>
+<Obs TERM="irrespective of" ROLE="Prep" NUMDOCS="914"/>
+<Obs TERM="just about" ROLE="Adv" NUMDOCS="4"/>
+<Obs TERM="keep in mind" ROLE="Verb" NUMDOCS="3"/>
+<Obs TERM="keep out" ROLE="Verb" NUMDOCS="8"/>
+<Obs TERM="keep up" ROLE="Verb" NUMDOCS="62"/>
+<Obs TERM="kick off" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="laid back" ROLE="Adj" NUMDOCS="4"/>
+<Obs TERM="large scale" ROLE="Adj" NUMDOCS="98"/>
+<Obs TERM="latin american" ROLE="Adj" NUMDOCS="36"/>
+<Obs TERM="lay out" ROLE="Verb" NUMDOCS="6"/>
+<Obs TERM="lead on" ROLE="Verb" NUMDOCS="5"/>
+<Obs TERM="lead to" ROLE="Verb" NUMDOCS="1793"/>
+<Obs TERM="leave out" ROLE="Verb" NUMDOCS="5"/>
+<Obs TERM="light up" ROLE="Verb" NUMDOCS="8"/>
+<Obs TERM="line up" ROLE="Verb" NUMDOCS="3"/>
+<Obs TERM="lock up" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="long time" ROLE="Adj" NUMDOCS="120"/>
+<Obs TERM="look forward to" ROLE="Verb" NUMDOCS="14"/>
+<Obs TERM="look out" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="low income" ROLE="Adj" NUMDOCS="16"/>
+<Obs TERM="low level" ROLE="Adj" NUMDOCS="225"/>
+<Obs TERM="lower than" ROLE="Prep" NUMDOCS="1005"/>
+<Obs TERM="make out" ROLE="Verb" NUMDOCS="28"/>
+<Obs TERM="make up" ROLE="Verb" NUMDOCS="237"/>
+<Obs TERM="market driven" ROLE="Adj" NUMDOCS="11"/>
+<Obs TERM="mentally ill" ROLE="Adj" NUMDOCS="10"/>
+<Obs TERM="mix up" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="mixed up" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="more or less" ROLE="Adv" NUMDOCS="130"/>
+<Obs TERM="most often" ROLE="Adj" NUMDOCS="25"/>
+<Obs TERM="most remote" ROLE="Adj" NUMDOCS="16"/>
+<Obs TERM="move along" ROLE="Verb" NUMDOCS="7"/>
+<Obs TERM="must do" ROLE="Adj" NUMDOCS="68"/>
+<Obs TERM="near to" ROLE="Prep" NUMDOCS="62"/>
+<Obs TERM="need to" ROLE="Aux" NUMDOCS="3360"/>
+<Obs TERM="needs to" ROLE="Aux" NUMDOCS="1197"/>
+<Obs TERM="netherlands antillean" ROLE="Adj" NUMDOCS="1"/>
+<Obs TERM="next day" ROLE="Adj" NUMDOCS="14"/>
+<Obs TERM="next to" ROLE="Prep" NUMDOCS="67"/>
+<Obs TERM="no one" ROLE="Pron" NUMDOCS="50"/>
+<Obs TERM="north american" ROLE="Adj" NUMDOCS="23"/>
+<Obs TERM="north korean" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="northern irish" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="not as good" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="not for profit" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="not many" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="not quite" ROLE="Adv" NUMDOCS="9"/>
+<Obs TERM="now and then" ROLE="Adv" NUMDOCS="2"/>
+<Obs TERM="now that" ROLE="Conj" NUMDOCS="59"/>
+<Obs TERM="null and void" ROLE="Adj" NUMDOCS="77"/>
+<Obs TERM="number one" ROLE="Adj" NUMDOCS="5"/>
+<Obs TERM="of late" ROLE="Adj" NUMDOCS="34"/>
+<Obs TERM="off of" ROLE="Prep" NUMDOCS="19"/>
+<Obs TERM="off the shelf" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="old fashioned" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="on account of" ROLE="Prep" NUMDOCS="447"/>
+<Obs TERM="on all sides" ROLE="Adv" NUMDOCS="14"/>
+<Obs TERM="on behalf of" ROLE="Prep" NUMDOCS="2461"/>
+<Obs TERM="on grounds of" ROLE="Prep" NUMDOCS="375"/>
+<Obs TERM="on hold" ROLE="Adv" NUMDOCS="4"/>
+<Obs TERM="on pain of" ROLE="Prep" NUMDOCS="8"/>
+<Obs TERM="on the grounds of" ROLE="Prep" NUMDOCS="277"/>
+<Obs TERM="on the matter of" ROLE="Prep" NUMDOCS="6"/>
+<Obs TERM="on the part of" ROLE="Prep" NUMDOCS="527"/>
+<Obs TERM="on the strength of" ROLE="Prep" NUMDOCS="21"/>
+<Obs TERM="on time" ROLE="Adv" NUMDOCS="72"/>
+<Obs TERM="on to" ROLE="Prep" NUMDOCS="472"/>
+<Obs TERM="on top of" ROLE="Prep" NUMDOCS="106"/>
+<Obs TERM="once more" ROLE="Adv" NUMDOCS="65"/>
+<Obs TERM="one more" ROLE="Adv" NUMDOCS="26"/>
+<Obs TERM="op cit." ROLE="Abbr" NUMDOCS="3"/>
+<Obs TERM="ought to" ROLE="Aux" NUMDOCS="124"/>
+<Obs TERM="out of" ROLE="Prep" NUMDOCS="1373"/>
+<Obs TERM="out of control" ROLE="Adj" NUMDOCS="5"/>
+<Obs TERM="out of work" ROLE="Adj" NUMDOCS="6"/>
+<Obs TERM="outside of" ROLE="Prep" NUMDOCS="194"/>
+<Obs TERM="owing to" ROLE="Prep" NUMDOCS="570"/>
+<Obs TERM="paper based" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="par excellence" ROLE="Adv" NUMDOCS="5"/>
+<Obs TERM="pari passu" ROLE="Adj" NUMDOCS="20"/>
+<Obs TERM="pay up" ROLE="Verb" NUMDOCS="4"/>
+<Obs TERM="per annum" ROLE="Adv" NUMDOCS="142"/>
+<Obs TERM="per capita" ROLE="Adj" NUMDOCS="95"/>
+<Obs TERM="per diem" ROLE="Adj" NUMDOCS="13"/>
+<Obs TERM="per se" ROLE="Adv" NUMDOCS="83"/>
+<Obs TERM="pick up" ROLE="Verb" NUMDOCS="47"/>
+<Obs TERM="play down" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="point out" ROLE="Verb" NUMDOCS="165"/>
+<Obs TERM="preliminary to" ROLE="Prep" NUMDOCS="11"/>
+<Obs TERM="preparatory to" ROLE="Prep" NUMDOCS="22"/>
+<Obs TERM="previous to" ROLE="Prep" NUMDOCS="20"/>
+<Obs TERM="prima facie" ROLE="Adj" NUMDOCS="105"/>
+<Obs TERM="prior to" ROLE="Prep" NUMDOCS="2112"/>
+<Obs TERM="pro forma" ROLE="Adj" NUMDOCS="26"/>
+<Obs TERM="pro rata" ROLE="Adv" NUMDOCS="243"/>
+<Obs TERM="provided that" ROLE="Conj" NUMDOCS="3567"/>
+<Obs TERM="providing that" ROLE="Conj" NUMDOCS="200"/>
+<Obs TERM="pursuant to" ROLE="Prep" NUMDOCS="8208"/>
+<Obs TERM="put by" ROLE="Verb" NUMDOCS="14"/>
+<Obs TERM="put down" ROLE="Verb" NUMDOCS="12"/>
+<Obs TERM="put forth" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="put off" ROLE="Verb" NUMDOCS="7"/>
+<Obs TERM="put on" ROLE="Verb" NUMDOCS="275"/>
+<Obs TERM="put out" ROLE="Verb" NUMDOCS="75"/>
+<Obs TERM="put up" ROLE="Verb" NUMDOCS="363"/>
+<Obs TERM="regardless of" ROLE="Prep" NUMDOCS="603"/>
+<Obs TERM="relative to" ROLE="Prep" NUMDOCS="328"/>
+<Obs TERM="round up" ROLE="Verb" NUMDOCS="13"/>
+<Obs TERM="saudi arabian" ROLE="Adj" NUMDOCS="7"/>
+<Obs TERM="save that" ROLE="Conj" NUMDOCS="13"/>
+<Obs TERM="second class" ROLE="Adj" NUMDOCS="6"/>
+<Obs TERM="second level" ROLE="Adj" NUMDOCS="24"/>
+<Obs TERM="seeing that" ROLE="Conj" NUMDOCS="13"/>
+<Obs TERM="set at" ROLE="Verb" NUMDOCS="1156"/>
+<Obs TERM="set back" ROLE="Verb" NUMDOCS="3"/>
+<Obs TERM="set off" ROLE="Verb" NUMDOCS="60"/>
+<Obs TERM="set on" ROLE="Verb" NUMDOCS="68"/>
+<Obs TERM="set out" ROLE="Verb" NUMDOCS="8830"/>
+<Obs TERM="set up" ROLE="Verb" NUMDOCS="2793"/>
+<Obs TERM="show up" ROLE="Verb" NUMDOCS="7"/>
+<Obs TERM="side by side" ROLE="Adv" NUMDOCS="31"/>
+<Obs TERM="sign up" ROLE="Verb" NUMDOCS="11"/>
+<Obs TERM="sine die" ROLE="Adv" NUMDOCS="2"/>
+<Obs TERM="single out" ROLE="Verb" NUMDOCS="8"/>
+<Obs TERM="so as" ROLE="Conj" NUMDOCS="2113"/>
+<Obs TERM="so long" ROLE="Interj" NUMDOCS="155"/>
+<Obs TERM="so that" ROLE="Conj" NUMDOCS="2238"/>
+<Obs TERM="soak up" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="sought after" ROLE="Adj" NUMDOCS="12"/>
+<Obs TERM="south african" ROLE="Adj" NUMDOCS="307"/>
+<Obs TERM="south american" ROLE="Adj" NUMDOCS="20"/>
+<Obs TERM="south korean" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="southeast asian" ROLE="Adj" NUMDOCS="3"/>
+<Obs TERM="spell out" ROLE="Verb" NUMDOCS="37"/>
+<Obs TERM="sri lankan" ROLE="Adj" NUMDOCS="4"/>
+<Obs TERM="stamp out" ROLE="Verb" NUMDOCS="5"/>
+<Obs TERM="stand out" ROLE="Verb" NUMDOCS="25"/>
+<Obs TERM="stand up" ROLE="Verb" NUMDOCS="13"/>
+<Obs TERM="stemming from" ROLE="Prep" NUMDOCS="176"/>
+<Obs TERM="step up" ROLE="Verb" NUMDOCS="208"/>
+<Obs TERM="sub judice" ROLE="Adv" NUMDOCS="3"/>
+<Obs TERM="subsequent to" ROLE="Prep" NUMDOCS="266"/>
+<Obs TERM="such as" ROLE="Prep" NUMDOCS="4068"/>
+<Obs TERM="such that" ROLE="Conj" NUMDOCS="835"/>
+<Obs TERM="sui generis" ROLE="Adj" NUMDOCS="18"/>
+<Obs TERM="take advantage" ROLE="Verb" NUMDOCS="188"/>
+<Obs TERM="take away" ROLE="Verb" NUMDOCS="6"/>
+<Obs TERM="take in" ROLE="Verb" NUMDOCS="102"/>
+<Obs TERM="take off" ROLE="Verb" NUMDOCS="17"/>
+<Obs TERM="take on" ROLE="Verb" NUMDOCS="184"/>
+<Obs TERM="take out" ROLE="Verb" NUMDOCS="58"/>
+<Obs TERM="take over" ROLE="Verb" NUMDOCS="184"/>
+<Obs TERM="take place" ROLE="Verb" NUMDOCS="1676"/>
+<Obs TERM="take up" ROLE="Verb" NUMDOCS="256"/>
+<Obs TERM="thank you" ROLE="Interj" NUMDOCS="10"/>
+<Obs TERM="thanks to" ROLE="Prep" NUMDOCS="191"/>
+<Obs TERM="third degree" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="third party" ROLE="Adj" NUMDOCS="472"/>
+<Obs TERM="tie up" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="tip over" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="to a degree" ROLE="Adv" NUMDOCS="49"/>
+<Obs TERM="to the point" ROLE="Adj" NUMDOCS="106"/>
+<Obs TERM="together with" ROLE="Prep" NUMDOCS="2810"/>
+<Obs TERM="too soon" ROLE="Adv" NUMDOCS="6"/>
+<Obs TERM="turn down" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="turn in" ROLE="Verb" NUMDOCS="7"/>
+<Obs TERM="turn on" ROLE="Verb" NUMDOCS="11"/>
+<Obs TERM="turn out" ROLE="Verb" NUMDOCS="23"/>
+<Obs TERM="turn over" ROLE="Verb" NUMDOCS="12"/>
+<Obs TERM="turned on" ROLE="Adj" NUMDOCS="20"/>
+<Obs TERM="ultra vires" ROLE="Adv" NUMDOCS="2"/>
+<Obs TERM="under way" ROLE="Adv" NUMDOCS="227"/>
+<Obs TERM="up against" ROLE="Prep" NUMDOCS="14"/>
+<Obs TERM="up to" ROLE="Prep" NUMDOCS="3111"/>
+<Obs TERM="upside down" ROLE="Adv" NUMDOCS="4"/>
+<Obs TERM="upwards of" ROLE="Prep" NUMDOCS="4"/>
+<Obs TERM="use up" ROLE="Verb" NUMDOCS="20"/>
+<Obs TERM="used to" ROLE="Aux" NUMDOCS="2133"/>
+<Obs TERM="vice versa" ROLE="Adv" NUMDOCS="172"/>
+<Obs TERM="ward off" ROLE="Verb" NUMDOCS="4"/>
+<Obs TERM="warm blooded" ROLE="Adj" NUMDOCS="1"/>
+<Obs TERM="waste away" ROLE="Verb" NUMDOCS="2"/>
+<Obs TERM="wear out" ROLE="Verb" NUMDOCS="3"/>
+<Obs TERM="well known" ROLE="Adj" NUMDOCS="73"/>
+<Obs TERM="wind up" ROLE="Verb" NUMDOCS="16"/>
+<Obs TERM="wipe out" ROLE="Verb" NUMDOCS="4"/>
+<Obs TERM="with reference to" ROLE="Prep" NUMDOCS="383"/>
+<Obs TERM="with regard to" ROLE="Prep" NUMDOCS="4255"/>
+<Obs TERM="with respect to" ROLE="Prep" NUMDOCS="1734"/>
+<Obs TERM="with the exception of" ROLE="Prep" NUMDOCS="1962"/>
+<Obs TERM="within reach" ROLE="Adj" NUMDOCS="21"/>
+<Obs TERM="without doubt" ROLE="Adj" NUMDOCS="13"/>
+<Obs TERM="work out" ROLE="Verb" NUMDOCS="42"/>
+<Obs TERM="wrapped up" ROLE="Adj" NUMDOCS="2"/>
+<Obs TERM="write down" ROLE="Verb" NUMDOCS="5"/>
+<Obs TERM="zero in" ROLE="Verb" NUMDOCS="19"/>
+<Obs TERM="  la" ROLE="Prep" NUMDOCS="122"/>
+</Data>
+<Metadata>
+<Variable NAME="term" LABEL="Term" LENGTH="256" FORMAT="$256." TYPE="C"/>
+<Variable NAME="role" LABEL="Role" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="numdocs" LABEL="# Documents" LENGTH="8" FORMAT="" TYPE="N"/>
+</Metadata>
+</MULTIDS>
+<SYNONYMDS Type="DATA">
+<Data>
+<Obs TERM="sas" TERMROLE="" PARENT="sas institute" PARENTROLE="COMPANY"/>
+</Data>
+<Metadata>
+<Variable NAME="term" LABEL="Child Term" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="termrole" LABEL="Term Role" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="parent" LABEL="Parent Term" LENGTH="256" FORMAT="" TYPE="C"/>
+<Variable NAME="parentrole" LABEL="Parent Role" LENGTH="256" FORMAT="" TYPE="C"/>
+</Metadata>
+</SYNONYMDS>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextProfile" ID="TextProfile" X="858" Y="66" DESCRIPTION="Text Profile (default)" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="TM" TOOLPREFIX="TextProfile">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.PROFILE.SOURCE" binning="DAY" maxNumTerms="8" ForceRun="N" RunAction="Train" Component="TextProfile">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextBoolCat" ID="TextRule" X="858" Y="264" DESCRIPTION="Rule Builder (default)" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="MODEL" TOOLPREFIX="TextRule">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.BOOLCAT.SOURCE" generror="MED" bogustermprob="MED" exhaustive="MED" ForceRun="N" RunAction="Train" Component="TextBoolCat" tgcode="" changetarg="">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<TRCHANGE Type="DATA">
+<Data>
+<Obs _TEXT="I stopped for coffee and munchies. I was disappointed to find no large coffee cups,2 pots marked out of order,no half and half no French vinilla cream, I remove the tray so that my travel mug fits(I a" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="disappoint" _TARGETVAR="Sentiment" _POST_PROB="0.9999938808"/>
+<Obs _TEXT="I just want to say this is the cleanest shower I have been in for while.It may be alittle out dated but the floors where clean and that is a plus.The other stores need to take some lessons. 90% of the" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="floor" _TARGETVAR="Sentiment" _POST_PROB="0.9931754381"/>
+<Obs _TEXT="I have standing in line for a shower for about 20 minutes now before one of the attendants finally brings it to someone's attention that they need to be cleaned." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9908468549"/>
+<Obs _TEXT="I would like to commend the Fstore Associate for her &quot;PROFESSIONALISM&quot; while serving a &quot;VERY RUDE&quot; drive. I did not like his attitude as she served him as nice as she could. He was mad that the pumps" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="rude" _TARGETVAR="Sentiment" _POST_PROB="0.9895590389"/>
+<Obs _TEXT="Water pressure low, sink in shower 2, (had to rinse toothbrush and razor in shower), pressure in shower not much better. Already low water pressure goes even lower when a toilet is flushed. Otherwise," _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9892418967"/>
+<Obs _TEXT="On May 26, 2012, I was traveling with my family and left my wallet in the ladies room.  I had driven all the way to Dallas before I realized I had left it.  I qucikly called back to the store and spok" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="minute" _TARGETVAR="Sentiment" _POST_PROB="0.985642014"/>
+<Obs _TEXT="made to order burritos this is awesome I'm eating one now very very good thank you for adding this as a option" _TARGET="POSITIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="awesome" _TARGETVAR="Sentiment" _POST_PROB="0.9838037628"/>
+<Obs _TEXT="This is a great Fstore!!  The people on the graveyard shift are wonderful!!!!   Bathrooms and shower were spotless!!  Great Job!!!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9818921688"/>
+<Obs _TEXT="Great store! But i have one complaint me and my wife stop there 4 times a month since they opened and the fountain pop taste like crap each time! fizzless and flavorless McDonalds pop is way better in" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9818113576"/>
+<Obs _TEXT="I have been to the Subway a few times, and have always had excellent service. The last time i was in was on a the 28th of July, and the employee helping me was Kyle. He was inpolite and mumbled commen" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="excellent" _TARGETVAR="Sentiment" _POST_PROB="0.9785209769"/>
+<Obs _TEXT="So, on Wed Dec 21 I stopped at Fstore Exit 90 on I81 going south.  We began using Fstore after the various facilities at MM100 on I81 started becoming very seedy and unsavory.  And until this stop wer" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9777075484"/>
+<Obs _TEXT="I left feedback before regarding this store. I happen to stop in again for quick break and coffee. The young girl who's name I did not get last time was there again tonight. She was still busy as a be" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="happen" _TARGETVAR="Sentiment" _POST_PROB="0.9776210599"/>
+<Obs _TEXT="I misplaced my Fstore card somehow &amp; discovered this when I stopped to fuel in Salt Lake City around 1400 hours.  Two ladies there were of TREMENDOUS help. One young lady (name unknown) along with the" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="happen" _TARGETVAR="Sentiment" _POST_PROB="0.9765283764"/>
+<Obs _TEXT="This is one of the nicest Fstore on the Freeway, stay here about every other week.  All the employees are great!  But, when are you going to fix the hot water???  I have had to take cold showers my la" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.9695658238"/>
+<Obs _TEXT="It's nice to go and brush my teeth in a sink with other peoples pubic hair in it and it's nice to use a toilet with others waste still in it I'm a owner op and I'm going to stop using Fstore its not w" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.9695658238"/>
+<Obs _TEXT="Thank you again for reprinting my fuel receipt~" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9662198543"/>
+<Obs _TEXT="My apology for my initial complaint to the manager-- I've owned my Mazda truck since 2000, believing that the gas tank capacity was 18 gallons. I pumped in 18.7 gallons of regular grade gas this date" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="pump" _TARGETVAR="Sentiment" _POST_PROB="0.9622006318"/>
+<Obs _TEXT="This place is fantastic. Fuel pumps are a little tight for trucks but it doesn't feel like a truck stop at all." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="pump" _TARGETVAR="Sentiment" _POST_PROB="0.9622006318"/>
+<Obs _TEXT="We love Chesters chicken.  Twice we have tried to get some of it but there is always a problem why we are not able to buy any of this good chicken. On the 10 of November the advertised family meal was" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="love" _TARGETVAR="Sentiment" _POST_PROB="0.9620950609"/>
+<Obs _TEXT="it seems like they are always out of splenda and creamer.other than that good store great staff. N/S" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.9597799445"/>
+<Obs _TEXT="Kim on night shift Fri. night 9/30 to Sat. Morning 10/1.  My parents were traveling from Florida to Va.  with my sister.  They stopped for gas and my father went in to get a cup of coffee.  While he w" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="happen" _TARGETVAR="Sentiment" _POST_PROB="0.9558248676"/>
+<Obs _TEXT="Let me first say I love Fstore. I was just in your max meadows, va store and tried to use my Subway gift card to purchase food and was told I couldn't because Fstore owns it and not Subway. It is prob" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="love" _TARGETVAR="Sentiment" _POST_PROB="0.9537523094"/>
+<Obs _TEXT="Shower was nice &amp; clean. And refreshing. Thanks for getting better towels, the old ones felt like drying off with sand paper. Lady at the fuel desk was nice too. I believe her name is Carol. Thanks!!" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="dry" _TARGETVAR="Sentiment" _POST_PROB="0.9512047201"/>
+<Obs _TEXT="The best shower, service I've had on the road in a long time. Arrived around 1:00 A.M. local time. Parked went inside to get some food. Outside was very clean, inside as well. Staff was busy but frien" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="floor" _TARGETVAR="Sentiment" _POST_PROB="0.9473839347"/>
+<Obs _TEXT="very respectable staff one of the cleanest Fstore i have ever been to ..the staff is always there to help you even if they r busy...i stop there three times a week and will continue to" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="three" _TARGETVAR="Sentiment" _POST_PROB="0.9465858281"/>
+<Obs _TEXT="shower heads terrible :( everything else good" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="I want to thank the clerk for helping me get my rewards back after giving my card away to another driver while I was in the shower, I understand we all have our days, thanks again( didn't catch your n" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="thisplace is spotless although I found little spec of dirt with my magnified glass lol estivon is doing fine job on showers" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="showers are nice but not enough parking. enjoyed tv in restaurant . roads around Fstore are falling apart!!" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="The people behind the counter, and the people who clean the showers were very helpefull, and coutrous. This is why I prefer to fuel and shower at Fstore, because of people like them.  Thank you." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="Night manager is sharp and professional.  She was all over the store.  Hooked me up with a shower and fixed me a sandwich on the way out the door." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="They actually do hourly restroom checks. Showers are nicely kept. Rich" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="Parley did an exceptional job cleaning showers" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9437170877"/>
+<Obs _TEXT="Your website's store lacater dosnt have the address's of any of your stores. This could/would be very helpful to those of us who have GPS UNITS! It makes things alot easyer for us truck drivers to fin" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="helpful" _TARGETVAR="Sentiment" _POST_PROB="0.9427820925"/>
+<Obs _TEXT="the girl at the fuel desk( tiffany I believe) had a shower ready and I was in and out in no time. which was fantastic because I love being clean and not late for my appointment! thanks again." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9278570981"/>
+<Obs _TEXT="The unsweetend tea was out.  I told the young lady working the front counter .  Before I could get my artificial sweetener in my cup the manager  had the tea ready fo use.  THAT is why I brag to the o" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="tea" _TARGETVAR="Sentiment" _POST_PROB="0.925401728"/>
+<Obs _TEXT="I stopped into this store on July 6. While I found the store clean, and the staff friendly, I take issue with the shower facilities. I found the shower to be too small for a person such as myself. Whi" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9227439936"/>
+<Obs _TEXT="Needs more freindly people there also get what u need get out here away from us" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9227439936"/>
+<Obs _TEXT="friendly people but shower heads leak bad. been that way a long time and I've told management but they shrug it off. a regular stop of mine" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9227439936"/>
+<Obs _TEXT="Nicole at the Aurora store is the reason I return to this location. I had quit stopping here because I didnt like the personnel. I could tell if a certain person was working by the atmosphere as soon" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9227439936"/>
+<Obs _TEXT="not so friendly faces not so clean place" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9227439936"/>
+<Obs _TEXT="Was in a bad mood when I came into the reasturant, but after the manager saw this she chatted with me and had me laughing by the time i left. Was very happy with my visit." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="bad" _TARGETVAR="Sentiment" _POST_PROB="0.9140374588"/>
+<Obs _TEXT="Great store. clean shower. only bad thing was shower stream too strong &amp; I couldn't move the shower head. Other than that, everything is good :)" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="bad" _TARGETVAR="Sentiment" _POST_PROB="0.9140374588"/>
+<Obs _TEXT="I bought a Trucker GPS on August 29, 2011. I was going to exchange it on about the 2nd of September. I had bought a Garmin. But, the Rand McNally went on sale in September. Anyway, before I had a chan" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="bad" _TARGETVAR="Sentiment" _POST_PROB="0.9140374588"/>
+<Obs _TEXT="While I was working there the supervisor cused me and made fun of me thats why I just up and quite there.I dont think I have to take that from a supervisor and I will not take it from a boss.I hope so" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="dont" _TARGETVAR="Sentiment" _POST_PROB="0.9140374588"/>
+<Obs _TEXT="The general manager at this Fstore is amazing!  I have been driving cross country with my elderly parents and the minute we drove in, the general manager was right at our car door to help me get my fa" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="minute" _TARGETVAR="Sentiment" _POST_PROB="0.9069498485"/>
+<Obs _TEXT="What a great idea a truckstop that does not sell deisel. You really should post somthing about it in stead of 3.84 per gallon!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9034790881"/>
+<Obs _TEXT="At the Subway register, I paid for my $5.49 tab with $21.00, so I wouldn't get a bunch of $1 bills back. The woman gave me back $0.51, and then had the audacity to ask for the serial number on the $20" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9034790881"/>
+<Obs _TEXT="I found it very disturbing to witness how disrespectful the manager named Kenny was to his staff in front of customers. I don't visit Hardees very often although I do visit Fstore and I doubt I will b" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9034790881"/>
+<Obs _TEXT="One more complain about manager in truck tire. After they are done we had disagreement , we purchased 2 used tire one of them was priced 189.99$ and other was 129 $ , but employee rip price tag from o" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.9034790881"/>
+<Obs _TEXT="First, the customer service was great. Very nice cashiers. I took a shower there during my break on Wednesday June 15, and the showers were very clean. But what was so impressive about the showers was" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="floor" _TARGETVAR="Sentiment" _POST_PROB="0.8852945572"/>
+<Obs _TEXT="Very friendly clerks. Smiling and just having fun with the customers. Shower and restroom well taken care of. Fuel desk had issues with a computer being down, but everybody was keeping their cool , wh" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="Do you charge extra for diesel fuel when I use a credit card ?" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="the ladies at the fuel counter were  extremely friendly.. don't remember there names but was around 4:30 est.." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="Now that Flying J charges $10.00 to dump, I was going to fuel up over $200.00 of fuel in the RV.  Screw them, a few more miles and I end up at Fstore." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="we were into the new Fstore on the I5 in Naponvine. i just want to give a shout out to the mgr and staff, we had issues with our fuel card and they were patient and understanding while we had to wait" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="everyone from the counter fuel desk and especially the tire guys were all fast and very professional. they all give there best and should be congradulated 4 there super service they are all top notch." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="We traveled from Louisiana to Delaware and then back taking alternate routes and used the Fstore Android app and it worked wonderfully! We found RV dumps, overnight parking, and checked fuel prices. W" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="On 4/17/2012  i fueled up at this store around 830 pm to my surprise i was involved in a collision where another truck ran over my hood i would like too thank the ppl of ur  store that assisted &amp; allo" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="Just fueled @ Leroy, IL and wanted to let you know that the young lady (her nametag said Vic) running the fuel desk was probably the most efficient friendly person I have seen behind a fuel counter in" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="Just a quick note to let yall know what an asset Lindsey is even at 3:30 am she welcomes customers with a warm smile that truly makes you feel welcome not just going through the motions please let her" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="I use this Fstore every night for fuel &amp; transflow machine. Two of the employees there do an exceptional job at taking care of my needs. Candie &amp; Cassie. They are always pleasant and smiling and are 2" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="Am very impressed that each and every fuel island has the DEF pumps. Saves a lot of times and trouble for the drivers. THANK AGAIN" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8849902545"/>
+<Obs _TEXT="Your Fstore store in Cheyenne Wyo is probably as dirty as any we have been in! We drive truck cross country, and are in there every other week.The service is wonderful, pleasant and helpful.Bathrooms," _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="helpful" _TARGETVAR="Sentiment" _POST_PROB="0.8698499938"/>
+<Obs _TEXT="This store is great on everything besides parking. Great food friendly ppl and clean restrooms everytime. The problem with parking isn't enough spaces it's all the oil field trucking companies that us" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.8494007244"/>
+<Obs _TEXT="I visited the travel stop last night to shower and grab a bite to eat. While I waited I noticed the work habits of Debbie (name on reciept) she was always busy  doing something productive. You have a" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="receipt" _TARGETVAR="Sentiment" _POST_PROB="0.8487563388"/>
+<Obs _TEXT="I had to ask the same lady (at the fuel desk) for assistance with an item in your security cabinets several times before she decided she could help me. Then she wouldn't help me herself, she sent anot" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.8393731257"/>
+<Obs _TEXT="I absolutely love Fstore Stores! I have been too many! I went to the Hamburg location tonight, i had never been to that one before! I went because i was looking for Pa gifts for christmas, and its the" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.8379130617"/>
+<Obs _TEXT="i stopped and to buy fuel tonight and very nice lady working fuel desk named  samantha sje was new and hadn't been trained well she didn't know they accepted checks or how to do a cash discount that i" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="Restrooms are terribly neglected. I stopped earlier at store in Seminole, OK.It was very  Nice &amp; Clean." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="Store was very nice. Not enough parking. Shower water shifted from hot to cold repeatedly" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="Thanks for nice clean restroom. Store looked good and friendly customer service. --  Just would like to know why is it that every Subway in the Fstore does not give adequate amount of shredded cheese?" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="Nice store but people running store needs to have a little more knowledge of their job cashier seemed to be a little lost" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="I would have to say this is now my least favorite store to stop at. I was not greeted with a hello on the truck side of the store ( was on the other side when I can back in looking for the paper. ) th" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="shower head was broken in shower 3 and was like water out of a water hose. I told fuel desk attendant about the problem and got a reply along the lines of eeee whatever, and just looked past me like I" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="Arby's would not let me order the same thing I order multiple times a week. Checked Thier website And item is on there. Guy working was not nice about it." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="about 1:30 am no coffee was available because there was a sign the machines were being (?) cleaned or refilled. (can't remember which). There was an employee who *seemed* (I can't swear to this) to no" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8360505472"/>
+<Obs _TEXT="Clean Clean CLEAN!!!!  Another &quot;sign issue&quot; though this one I may have missed. I needed to exit I 77 at Ripley and ended up missing my exit. If the Fstore could have a sign, even on the pump, &quot;welcome" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="pump" _TARGETVAR="Sentiment" _POST_PROB="0.8331741712"/>
+<Obs _TEXT="Very polite and happy employees and very clean pumps and store.  Props." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="pump" _TARGETVAR="Sentiment" _POST_PROB="0.8331741712"/>
+<Obs _TEXT="Staff is very friendly &amp; helpful. Just need to get drivers to move from fuel pumps. Always jammed up. I will pass this stop because it takes to long to fuel." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="helpful" _TARGETVAR="Sentiment" _POST_PROB="0.8327992494"/>
+<Obs _TEXT="hey guys. stopped by for a quick bite. Had a taste for your great hot dog special. alas, no dogs. had to lunch at mcdonalds which i avoid whenever i can. it was later in the afternoon around 230pm. ro" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.8177303161"/>
+<Obs _TEXT="i just left there like ten miles and hot some chicken from there and it's not cooked properly still raw on the inside Wtf yall tring to kill me,i just got off the phone with the manager and he handled" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="love" _TARGETVAR="Sentiment" _POST_PROB="0.8148629055"/>
+<Obs _TEXT="Dear Sirs:  The last two nights I have fueled at the above Fstore in Shreveport at about 3am and I am just shocked!! I could not believe how much trash was stacked up around ALL the trash cans at the" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.8067768065"/>
+<Obs _TEXT="I am so glad to see that Fstore took over at this old fly n j  hope  it can be keep up clean and neat, everything looks great but the parking lot and yard areas seem to have a lot of blown trash aroun" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great" _TARGETVAR="Sentiment" _POST_PROB="0.8053744258"/>
+<Obs _TEXT="Long lines (8 customers waiting) only 1 cashier. I put my Merch down and went to your competitor across the street and got great service. At least I know to avoid Fstore from now on" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great" _TARGETVAR="Sentiment" _POST_PROB="0.8053744258"/>
+<Obs _TEXT="Simply put - WOW! On a scale from 1-5 (5 being best), this stop gets a 5!  Clean, 6 hooks for my stuff (and one by the shower for my towel), lots of hot water, extra clean (no build-up on the fan). I" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.7974248125"/>
+<Obs _TEXT="Lots and lots of debris.  Wonderful staff!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="wonderful" _TARGETVAR="Sentiment" _POST_PROB="0.7932654266"/>
+<Obs _TEXT="cant read the screen of card reader. fuel desk attendants do not know job or system very unhelpful. purchased 5 item at the gas counter and the attendant had to ask if i need a bag.   hire some better" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="Tyler Coulson and his dog, Mabel, have been walking across the United States raising money for good causes.  Today, he was told to leave the area around your Fstore Stop.  I find this outrageous that" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="showers could be cleaned a little better. and bathroom floors need to be swept." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="Parking area unsafe harassed by people for money and rides. Payed for internet and it's such a weak signal that cuts in and out. I'll be looking for Fstore and Flying J from now on. I've had much bett" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="Seven o'clock at night with a line of trucks around the building is probably not the best time to close a fuel lane and power wash it." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="Need to change rest. At site shows Carl Jr. But really a Mcdonalds  not a good stop also DEF dispenser b switched you have to back trk. up to get DEF not good planning or engineering!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="5pm on 6 - 9. 4 deep on every fuel island and they close two fuel pumps to wash  it would b better to do it at night when not so busy  will not b stopping here anymore stupid stupid stupid" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="Right now All the fuel bays are full. Have 8 trucks stacked and waiting 2 of the bays are being steam cleaned. Not a good idea during peak hours.  Should be done at night" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="I am officially DONE with Fstore truck stops!! I will never darken your doorways again!  I spend thousands of hard earned wages every month but no more! I was blocked in by other drivers parking in a" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.7925206929"/>
+<Obs _TEXT="Clean. Shower hook for a towel great!!  Candy a bit much but I'll take it." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.7815917039"/>
+<Obs _TEXT="Shower 3 clean! Shower hook by shower for towel great! No more wet towel." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.7815917039"/>
+<Obs _TEXT="I was in the store a couple days ago around 5am. Thursday... Kristina was making sandwiches at subway and Amanda was running register. The store looked great but at subway Kristina was making my sandw" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great" _TARGETVAR="Sentiment" _POST_PROB="0.7563087508"/>
+<Obs _TEXT="my comments are in regards to the Denny's restaurant at this location (07/31/11 @ 20:00).  The food was great, but they really missed the target when it came to service.  i had to ask 4 times from 2 s" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great" _TARGETVAR="Sentiment" _POST_PROB="0.7563087508"/>
+<Obs _TEXT="The two older female clerks can sure use a little work on their attitude.  Everything else was great.  Thank you." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great" _TARGETVAR="Sentiment" _POST_PROB="0.7563087508"/>
+<Obs _TEXT="this morning I had a unpleasant experience  at the Fstore here at fancy gap VA.  I usually stop here 3-4 times a week all hours of tbe day but this morning a new person was working the diesel  desk AL" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.738873631"/>
+<Obs _TEXT="there is only enough truck parking for 3 trucks, best 4G area available anywhere tho" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="best" _TARGETVAR="Sentiment" _POST_PROB="0.7383166209"/>
+<Obs _TEXT="Shower 2 clean.  grout in shower needs work. Shower adjustment valve great!" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.7285511644"/>
+<Obs _TEXT="Great store one major concern is pull off after fueling not enough room to park and go inside after feuling to get your recipt every time I go in there to fuel you cant pull forward in fear of loosing" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.715761811"/>
+<Obs _TEXT="I am a frequent customer at this location at least 4-5 times a week. I have no complaints your staff is phenominal! One of your staff members stands out more than most, Daniel, he normally works at th" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="rude" _TARGETVAR="Sentiment" _POST_PROB="0.6696797853"/>
+<Obs _TEXT="I believe the managers name is Kellon. A few days ago the turbo on my truck blew at Milagro,NM ( about 30 mls west of Santa Rosa ). I called the store to try &amp; get the # for a taxi service &amp; was told" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="minute" _TARGETVAR="Sentiment" _POST_PROB="0.6282788189"/>
+<Obs _TEXT="The showers were very clean and the staff is great. Fuel desk and Arby's." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.6215401626"/>
+<Obs _TEXT="nasty mcdonalds ever manager was awesome young man place was hot and i seen roaches i felt so sorry for the manager he was embarrased, need air and more staff and more managers like the 2-10 manager w" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="awesome" _TARGETVAR="Sentiment" _POST_PROB="0.6094641113"/>
+<Obs _TEXT="I'm not one to fire off any negative comments but I must speak up. This is a first comment ever via an app. it concerns my shower at this location. Was given key to shower 3, entered and it had not be" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="bad" _TARGETVAR="Sentiment" _POST_PROB="0.6094015308"/>
+<Obs _TEXT="always excellent fuel prices at this location. the staff however while polite an courteous seem poorly trained." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="excellent" _TARGETVAR="Sentiment" _POST_PROB="0.6078344922"/>
+<Obs _TEXT="Just stopped in for a shower. Loyalty card showed zero showers but my app showed 3 showers for my card. The clerk gave me a shower and I just wanted to say thank you for her kindness. Her name is alli" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~clean &amp; ~friendly &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.5843501121"/>
+<Obs _TEXT="Carls is very slow. Workers are not very friendly. Order was wrong called store back and was told sorry my bad" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.5756754032"/>
+<Obs _TEXT="very nasty restroom but friendly staff" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.5756754032"/>
+<Obs _TEXT="I fuel exclusively with Fstore and I am very disappointed in Fstore charging me an additional 2% to cash my Comcheck. From what I was told by Barb and April at the Zanesville, OH location that if I us" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.5755848115"/>
+<Obs _TEXT="I love the Fstore app and use it all the time. My husband and I travel quite a bit for work. We went to this Fstore at exit 4 in MO because of the price of diesel gas listed on the app. It was listed" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="love" _TARGETVAR="Sentiment" _POST_PROB="0.5709069522"/>
+<Obs _TEXT="i think its so great how you shut down your parking lot so you can use too park motorcycles i hope you make enough money off that you dont need my fuel sales i wont be back. i know your not here for t" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~bad" _TARGETVAR="Sentiment" _POST_PROB="0.5706380634"/>
+<Obs _TEXT="the staff at the fuel desk where wonderful. i needed def fluid and its on pass side of truck so i had to go in other way the blocked it so i could get it. thanks for all the help .david" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~helpful &amp; ~great &amp; ~good &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.570506034"/>
+<Obs _TEXT="hi morning i take a fuel invoice #54700 and coffee tje half and half was out so i addressed pilately the coffee attended that cream is out. she yel on me. i know. cream in both disposals so i asked fo" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice" _TARGETVAR="Sentiment" _POST_PROB="0.553813025"/>
+<Obs _TEXT="Fuel pumps are always backed up need to get a better flow or more fuel pumps!!!!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.5358922013"/>
+<Obs _TEXT="All of the staff was friendly an helpful. However, the floor in the shower room looked like it hadn't been cleaned in a while and before I could use the toilet in the shower room I had to clean the fe" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="helpful" _TARGETVAR="Sentiment" _POST_PROB="0.5356865633"/>
+<Obs _TEXT="As of 10-12-11 your west bound green number diesel sign has a number that is half working. It would be the cents digit. Example $3.?4  the ? Is the position that I'd half working. I go by there about" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~customer &amp; ~shower" _TARGETVAR="Sentiment" _POST_PROB="0.4817943362"/>
+<Obs _TEXT="The man that waited on us was extremely rude, unfriendly and couldn't smile if his life depended on it.  He was not helpful at all and as a person who has worked in the food service industry for over" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="helpful" _TARGETVAR="Sentiment" _POST_PROB="0.4647430719"/>
+</Data>
+<Metadata>
+<Variable NAME="_Text" LABEL="Text" LENGTH="200" FORMAT="$200." TYPE="C"/>
+<Variable NAME="_Target" LABEL="Assigned Target" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_orgTarget" LABEL="Original Target" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_PredTarget" LABEL="Predicted Target" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_partition" LABEL="Data Partition" LENGTH="16" FORMAT="" TYPE="C"/>
+<Variable NAME="_why" LABEL="Why Classified" LENGTH="400" FORMAT="" TYPE="C"/>
+<Variable NAME="_targetVar" LABEL="Target Variable" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_post_prob" LABEL="Posterior Probability" LENGTH="8" FORMAT="PERCENT8.1" TYPE="N"/>
+</Metadata>
+</TRCHANGE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextBoolCat" ID="TextRule2" X="858" Y="363" DESCRIPTION="Rule Builder (custom)" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="MODEL" TOOLPREFIX="TextRule">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.BOOLCAT.SOURCE" generror="VLOW" bogustermprob="VLOW" exhaustive="VHIGH" ForceRun="N" RunAction="Train" Component="TextBoolCat" tgcode="" changetarg="">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<TRCHANGE Type="DATA">
+<Data>
+<Obs _TEXT="Water pressure low, sink in shower 2, (had to rinse toothbrush and razor in shower), pressure in shower not much better. Already low water pressure goes even lower when a toilet is flushed. Otherwise," _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel &amp; ~bad &amp; ~walk &amp; clean" _TARGETVAR="Sentiment" _POST_PROB="0.999992469"/>
+<Obs _TEXT="I stopped for coffee and munchies. I was disappointed to find no large coffee cups,2 pots marked out of order,no half and half no French vinilla cream, I remove the tray so that my travel mug fits(I a" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="nasty" _TARGETVAR="Sentiment" _POST_PROB="0.9999785847"/>
+<Obs _TEXT="We love Chesters chicken.  Twice we have tried to get some of it but there is always a problem why we are not able to buy any of this good chicken. On the 10 of November the advertised family meal was" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="love &amp; ~fstore &amp; ~customer" _TARGETVAR="Sentiment" _POST_PROB="0.9999568806"/>
+<Obs _TEXT="I misplaced my Fstore card somehow &amp; discovered this when I stopped to fuel in Salt Lake City around 1400 hours.  Two ladies there were of TREMENDOUS help. One young lady (name unknown) along with the" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="point &amp; ~staff" _TARGETVAR="Sentiment" _POST_PROB="0.9998315329"/>
+<Obs _TEXT="not so friendly faces not so clean place" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="friendly &amp; ~floor &amp; ~know &amp; ~fuel &amp; ~bad &amp; ~walk &amp; clean" _TARGETVAR="Sentiment" _POST_PROB="0.9989679482"/>
+<Obs _TEXT="I have been to the Subway a few times, and have always had excellent service. The last time i was in was on a the 28th of July, and the employee helping me was Kyle. He was inpolite and mumbled commen" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="excellent &amp; ~fuel" _TARGETVAR="Sentiment" _POST_PROB="0.9981208669"/>
+<Obs _TEXT="So, on Wed Dec 21 I stopped at Fstore Exit 90 on I81 going south.  We began using Fstore after the various facilities at MM100 on I81 started becoming very seedy and unsavory.  And until this stop wer" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.997573417"/>
+<Obs _TEXT="First, the customer service was great. Very nice cashiers. I took a shower there during my break on Wednesday June 15, and the showers were very clean. But what was so impressive about the showers was" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="towel" _TARGETVAR="Sentiment" _POST_PROB="0.9966559667"/>
+<Obs _TEXT="made to order burritos this is awesome I'm eating one now very very good thank you for adding this as a option" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="awesome" _TARGETVAR="Sentiment" _POST_PROB="0.9965585096"/>
+<Obs _TEXT="This is a great Fstore!!  The people on the graveyard shift are wonderful!!!!   Bathrooms and shower were spotless!!  Great Job!!!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.9951678087"/>
+<Obs _TEXT="Night manager is sharp and professional.  She was all over the store.  Hooked me up with a shower and fixed me a sandwich on the way out the door." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9899543438"/>
+<Obs _TEXT="I left my purse in the McDonald's on Sunday 9/18.  We called Fstore when we missed it - they went to McD and checked.  It wasn't there.  My husband left our phone number.  Late Monday or early Tues he" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="mcdonalds" _TARGETVAR="Sentiment" _POST_PROB="0.9894842788"/>
+<Obs _TEXT="The people behind the counter, and the people who clean the showers were very helpefull, and coutrous. This is why I prefer to fuel and shower at Fstore, because of people like them.  Thank you." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9880124503"/>
+<Obs _TEXT="Am very impressed that each and every fuel island has the DEF pumps. Saves a lot of times and trouble for the drivers. THANK AGAIN" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~great &amp; ~helpful &amp; ~love &amp; ~friendly &amp; ~nice &amp; ~good &amp; ~surprise &amp; island" _TARGETVAR="Sentiment" _POST_PROB="0.9855283368"/>
+<Obs _TEXT="I left feedback before regarding this store. I happen to stop in again for quick break and coffee. The young girl who's name I did not get last time was there again tonight. She was still busy as a be" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="coffee &amp; ~friendly &amp; ~fresh" _TARGETVAR="Sentiment" _POST_PROB="0.959450171"/>
+<Obs _TEXT="Kent and Heidi go out of there way to make my wife,  kids,  and I at home.   we go and shower and fuel a couple times a week.  extra towels are no problem and with a smile.   When I was able to drive," _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="kid" _TARGETVAR="Sentiment" _POST_PROB="0.9591049084"/>
+<Obs _TEXT="Was in a bad mood when I came into the reasturant, but after the manager saw this she chatted with me and had me laughing by the time i left. Was very happy with my visit." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="bad &amp; ~awesome &amp; ~good" _TARGETVAR="Sentiment" _POST_PROB="0.9555865325"/>
+<Obs _TEXT="Great store! But i have one complaint me and my wife stop there 4 times a month since they opened and the fountain pop taste like crap each time! fizzless and flavorless McDonalds pop is way better in" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.9555643728"/>
+<Obs _TEXT="Needs more freindly people there also get what u need get out here away from us" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~pump &amp; ~coffee &amp; ~floor &amp; ~attitude &amp; ~bad &amp; ~truck" _TARGETVAR="Sentiment" _POST_PROB="0.9549895677"/>
+<Obs _TEXT="shower heads terrible :( everything else good" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9503249272"/>
+<Obs _TEXT="I have standing in line for a shower for about 20 minutes now before one of the attendants finally brings it to someone's attention that they need to be cleaned." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9503249272"/>
+<Obs _TEXT="I want to thank the clerk for helping me get my rewards back after giving my card away to another driver while I was in the shower, I understand we all have our days, thanks again( didn't catch your n" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9503249272"/>
+<Obs _TEXT="Simply put - WOW! On a scale from 1-5 (5 being best), this stop gets a 5!  Clean, 6 hooks for my stuff (and one by the shower for my towel), lots of hot water, extra clean (no build-up on the fan). I" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9503249272"/>
+<Obs _TEXT="Shower 2 clean.  grout in shower needs work. Shower adjustment valve great!" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9503249272"/>
+<Obs _TEXT="They actually do hourly restroom checks. Showers are nicely kept. Rich" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.9503249272"/>
+<Obs _TEXT="Nice clean store easy in and out but people at strange in side they  dont talk anuff to drivers . Just helo thats it no family filling" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice &amp; ~nice day &amp; ~floor &amp; ~rude &amp; ~last &amp; ~counter &amp; ~customer &amp; ~cashier" _TARGETVAR="Sentiment" _POST_PROB="0.9417037592"/>
+<Obs _TEXT="Fuel pumps are always backed up need to get a better flow or more fuel pumps!!!!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~pay &amp; ~half &amp; ~line &amp; ~shower &amp; ~bad &amp; ~disappoint &amp; ~night &amp; ~money &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.941113047"/>
+<Obs _TEXT="your employees tell you one thing and do the complete opposite not very good for customer service" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~pay &amp; ~half &amp; ~line &amp; ~shower &amp; ~bad &amp; ~disappoint &amp; ~night &amp; ~money &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.941113047"/>
+<Obs _TEXT="it seems like they are always out of splenda and creamer.other than that good store great staff. N/S" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="good &amp; ~pay &amp; ~half &amp; ~line &amp; ~shower &amp; ~bad &amp; ~disappoint &amp; ~night &amp; ~money &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.941113047"/>
+<Obs _TEXT="Restrooms are terribly neglected. I stopped earlier at store in Seminole, OK.It was very  Nice &amp; Clean." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice &amp; ~nice day &amp; ~floor &amp; ~rude &amp; ~last &amp; ~counter &amp; ~customer &amp; ~cashier" _TARGETVAR="Sentiment" _POST_PROB="0.9391379409"/>
+<Obs _TEXT="Store was very nice. Not enough parking. Shower water shifted from hot to cold repeatedly" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice &amp; ~nice day &amp; ~floor &amp; ~rude &amp; ~last &amp; ~counter &amp; ~customer &amp; ~cashier" _TARGETVAR="Sentiment" _POST_PROB="0.9391379409"/>
+<Obs _TEXT="Arby's would not let me order the same thing I order multiple times a week. Checked Thier website And item is on there. Guy working was not nice about it." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="nice &amp; ~nice day &amp; ~floor &amp; ~rude &amp; ~last &amp; ~counter &amp; ~customer &amp; ~cashier" _TARGETVAR="Sentiment" _POST_PROB="0.9391379409"/>
+<Obs _TEXT="Very small ! I would think being in Joplin you would expand ! There are 6 fuel islands but the staff blocks off 2 fuel islands at a time to pressure wash the oil &amp; grease out of them. The staff starte" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="nice &amp; ~day &amp; ~toilet &amp; staff" _TARGETVAR="Sentiment" _POST_PROB="0.9280691211"/>
+<Obs _TEXT="Kim on night shift Fri. night 9/30 to Sat. Morning 10/1.  My parents were traveling from Florida to Va.  with my sister.  They stopped for gas and my father went in to get a cup of coffee.  While he w" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="coffee &amp; ~friendly &amp; ~fresh" _TARGETVAR="Sentiment" _POST_PROB="0.9260303399"/>
+<Obs _TEXT="The two older female clerks can sure use a little work on their attitude.  Everything else was great.  Thank you." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~customer &amp; ~water &amp; ~subway" _TARGETVAR="Sentiment" _POST_PROB="0.9161777497"/>
+<Obs _TEXT="The unsweetend tea was out.  I told the young lady working the front counter .  Before I could get my artificial sweetener in my cup the manager  had the tea ready fo use.  THAT is why I brag to the o" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="tea" _TARGETVAR="Sentiment" _POST_PROB="0.9158777338"/>
+<Obs _TEXT="The man that waited on us was extremely rude, unfriendly and couldn't smile if his life depended on it.  He was not helpful at all and as a person who has worked in the food service industry for over" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="helpful &amp; ~floor &amp; ~driver" _TARGETVAR="Sentiment" _POST_PROB="0.9111928714"/>
+<Obs _TEXT="my mom Fstore your business" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="business &amp; ~store" _TARGETVAR="Sentiment" _POST_PROB="0.9067246459"/>
+<Obs _TEXT="I found it very disturbing to witness how disrespectful the manager named Kenny was to his staff in front of customers. I don't visit Hardees very often although I do visit Fstore and I doubt I will b" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.9015082158"/>
+<Obs _TEXT="the staff at the fuel desk where wonderful. i needed def fluid and its on pass side of truck so i had to go in other way the blocked it so i could get it. thanks for all the help .david" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="block" _TARGETVAR="Sentiment" _POST_PROB="0.8953365325"/>
+<Obs _TEXT="there is only enough truck parking for 3 trucks, best 4G area available anywhere tho" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="best &amp; ~know &amp; ~shower &amp; ~poor" _TARGETVAR="Sentiment" _POST_PROB="0.890637791"/>
+<Obs _TEXT="I wanted To say What a Joy it is to enter into this store location Erine is an absolutely wonderful employee you have hired , she is Always cheerful and a delight to speak with about any concerns or j" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="az" _TARGETVAR="Sentiment" _POST_PROB="0.8860626931"/>
+<Obs _TEXT="What a great idea a truckstop that does not sell deisel. You really should post somthing about it in stead of 3.84 per gallon!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.8821994604"/>
+<Obs _TEXT="Now that Flying J charges $10.00 to dump, I was going to fuel up over $200.00 of fuel in the RV.  Screw them, a few more miles and I end up at Fstore." _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~friendly" _TARGETVAR="Sentiment" _POST_PROB="0.8667412268"/>
+<Obs _TEXT="one of our major complaints is the fact the management does not do an adequate job of enforcing drivers to pull forward after fueling" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~friendly" _TARGETVAR="Sentiment" _POST_PROB="0.8667412268"/>
+<Obs _TEXT="I'm not one to fire off any negative comments but I must speak up. This is a first comment ever via an app. it concerns my shower at this location. Was given key to shower 3, entered and it had not be" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~friendly" _TARGETVAR="Sentiment" _POST_PROB="0.8667412268"/>
+<Obs _TEXT="On 4/17/2012  i fueled up at this store around 830 pm to my surprise i was involved in a collision where another truck ran over my hood i would like too thank the ppl of ur  store that assisted &amp; allo" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="fuel &amp; ~friendly" _TARGETVAR="Sentiment" _POST_PROB="0.8667412268"/>
+<Obs _TEXT="this location is ALWAYS clean, well-stocked n organized! I fuel n eat at Fstore nationwide, m this one SHINES" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="fuel &amp; ~friendly" _TARGETVAR="Sentiment" _POST_PROB="0.8667412268"/>
+<Obs _TEXT="need to fix ur comdata machine" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="machine" _TARGETVAR="Sentiment" _POST_PROB="0.8615227963"/>
+<Obs _TEXT="about 1:30 am no coffee was available because there was a sign the machines were being (?) cleaned or refilled. (can't remember which). There was an employee who *seemed* (I can't swear to this) to no" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="remember" _TARGETVAR="Sentiment" _POST_PROB="0.8470522567"/>
+<Obs _TEXT="showers could be cleaned a little better. and bathroom floors need to be swept." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~pay &amp; ~half &amp; ~line &amp; ~shower &amp; ~bad &amp; ~disappoint &amp; ~night &amp; ~money &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.8379497329"/>
+<Obs _TEXT="One more complain about manager in truck tire. After they are done we had disagreement , we purchased 2 used tire one of them was priced 189.99$ and other was 129 $ , but employee rip price tag from o" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.8373623096"/>
+<Obs _TEXT="I visited the travel stop last night to shower and grab a bite to eat. While I waited I noticed the work habits of Debbie (name on reciept) she was always busy  doing something productive. You have a" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="receipt" _TARGETVAR="Sentiment" _POST_PROB="0.8312315792"/>
+<Obs _TEXT="Thank you again for reprinting my fuel receipt~" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="receipt" _TARGETVAR="Sentiment" _POST_PROB="0.8312315792"/>
+<Obs _TEXT="Need to change rest. At site shows Carl Jr. But really a Mcdonalds  not a good stop also DEF dispenser b switched you have to back trk. up to get DEF not good planning or engineering!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good &amp; ~pay &amp; ~half &amp; ~line &amp; ~shower &amp; ~bad &amp; ~disappoint &amp; ~night &amp; ~money &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.8304731553"/>
+<Obs _TEXT="showers are nice but not enough parking. enjoyed tv in restaurant . roads around Fstore are falling apart!!" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.8226143909"/>
+<Obs _TEXT="I use this Fstore every night for fuel &amp; transflow machine. Two of the employees there do an exceptional job at taking care of my needs. Candie &amp; Cassie. They are always pleasant and smiling and are 2" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="machine" _TARGETVAR="Sentiment" _POST_PROB="0.8049543517"/>
+<Obs _TEXT="Thanks for nice clean restroom. Store looked good and friendly customer service. --  Just would like to know why is it that every Subway in the Fstore does not give adequate amount of shredded cheese?" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~pump &amp; ~coffee &amp; ~floor &amp; ~attitude &amp; ~bad &amp; ~truck" _TARGETVAR="Sentiment" _POST_PROB="0.804645873"/>
+<Obs _TEXT="thisplace is spotless although I found little spec of dirt with my magnified glass lol estivon is doing fine job on showers" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.7976454228"/>
+<Obs _TEXT="Clean Clean CLEAN!!!!  Another &quot;sign issue&quot; though this one I may have missed. I needed to exit I 77 at Ripley and ended up missing my exit. If the Fstore could have a sign, even on the pump, &quot;welcome" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="sign" _TARGETVAR="Sentiment" _POST_PROB="0.7839777618"/>
+<Obs _TEXT="very nasty restroom but friendly staff" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~pump &amp; ~coffee &amp; ~floor &amp; ~attitude &amp; ~bad &amp; ~truck" _TARGETVAR="Sentiment" _POST_PROB="0.7330442621"/>
+<Obs _TEXT="The shower was not very clean and the people was nice don't want to ever take a shower there . Thanks  Bobby Warren" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice &amp; ~floor &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.7320831728"/>
+<Obs _TEXT="We just got back to IL from fl we used your app to find love locations we so pleased with how clean your stores were that was the only place we stoped at.we was in dully pulling 34ft 5th wheel price o" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="app. &amp; ~good" _TARGETVAR="Sentiment" _POST_PROB="0.7165087606"/>
+<Obs _TEXT="We traveled from Louisiana to Delaware and then back taking alternate routes and used the Fstore Android app and it worked wonderfully! We found RV dumps, overnight parking, and checked fuel prices. W" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="app. &amp; ~good" _TARGETVAR="Sentiment" _POST_PROB="0.7165087606"/>
+<Obs _TEXT="Your store is NOT on the mobile apps" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="app. &amp; ~good" _TARGETVAR="Sentiment" _POST_PROB="0.7165087606"/>
+<Obs _TEXT="woken up by hooker today at 0600. Fstore, Petro &amp; Flying J should make a combined effort to stop and if necessary,  help these girls, as they may be in trouble." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="help &amp; ~line &amp; ~fuel &amp; ~shower &amp; ~problem &amp; ~rude &amp; ~attitude &amp; ~manager" _TARGETVAR="Sentiment" _POST_PROB="0.7062152472"/>
+<Obs _TEXT="Just stopped in for a shower. Loyalty card showed zero showers but my app showed 3 showers for my card. The clerk gave me a shower and I just wanted to say thank you for her kindness. Her name is alli" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.7020985312"/>
+<Obs _TEXT="Parley did an exceptional job cleaning showers" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Validate" _WHY="shower &amp; ~great &amp; ~clean &amp; ~friendly &amp; ~good &amp; ~helpful &amp; ~awesome &amp; ~nice" _TARGETVAR="Sentiment" _POST_PROB="0.6634028247"/>
+<Obs _TEXT="Couldn't get cashier to give me the two tea bags I asked for...guess i'll just take the free hot water and use the exact same tea bags I bought at Walmart for half a cent each...and yes, I know I have" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="great &amp; ~disappoint &amp; ~bad &amp; ~pull &amp; ~dirty &amp; ~late &amp; ~park" _TARGETVAR="Sentiment" _POST_PROB="0.6200405662"/>
+<Obs _TEXT="While I was working there the supervisor cused me and made fun of me thats why I just up and quite there.I dont think I have to take that from a supervisor and I will not take it from a boss.I hope so" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="dont" _TARGETVAR="Sentiment" _POST_PROB="0.6157343062"/>
+<Obs _TEXT="On 11/25 around 11 AM we were in TX on I 20 exit 410 we stopped at one of your stores to shower. It was filthy the dirt on the tiles and shower curtain were disgusting. I think it is in need of deep c" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="nice &amp; ~day &amp; ~toilet &amp; staff" _TARGETVAR="Sentiment" _POST_PROB="0.6113236055"/>
+<Obs _TEXT="was in the new store in colorado at exit 304 on i 70 yesterday.  needed fuel and food. i bought a three piece tender from chesters and the chicken was literally hard.  ruined my appetite completely..." _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Validate" _WHY="good &amp; ~pay &amp; ~half &amp; ~line &amp; ~shower &amp; ~bad &amp; ~disappoint &amp; ~night &amp; ~money &amp; ~know" _TARGETVAR="Sentiment" _POST_PROB="0.6080394891"/>
+<Obs _TEXT="I want to thank you for telling us to go somewhere else telling us there were6 in line for showers not have good help at subway.  my wife and I went to flying j and had a good lunch and shower pilot s" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="good job" _TARGETVAR="Sentiment" _POST_PROB="0.6040422305"/>
+<Obs _TEXT="no friendly faces. felt like I was a hinderence.all look like they were mad!" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="friendly &amp; ~pump &amp; ~coffee &amp; ~floor &amp; ~attitude &amp; ~bad &amp; ~truck" _TARGETVAR="Sentiment" _POST_PROB="0.5953119202"/>
+<Obs _TEXT="This store is great, good location, but... the lagoon needs to be s.septic tank or hooked to a sewer line. The stench was enough to turn my stomach, so me &amp; my big rig patronized the truck stop on the" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="great &amp; ~customer &amp; ~water &amp; ~subway" _TARGETVAR="Sentiment" _POST_PROB="0.5858484086"/>
+<Obs _TEXT="I just wanted to comment how clean the showers were and how nice employee Dee Meyers was.  The only thing I can say to Fstore in general, is check out how Petro and TA are doing their showers with 2 t" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="ta" _TARGETVAR="Sentiment" _POST_PROB="0.5773973067"/>
+<Obs _TEXT="I bought a Trucker GPS on August 29, 2011. I was going to exchange it on about the 2nd of September. I had bought a Garmin. But, the Rand McNally went on sale in September. Anyway, before I had a chan" _TARGET="POSITIVE" _ORGTARGET="POSITIVE" _PREDTARGET="NEGATIVE" _PARTITION="Training" _WHY="bad &amp; ~awesome &amp; ~good" _TARGETVAR="Sentiment" _POST_PROB="0.5611747376"/>
+<Obs _TEXT="It's nice to go and brush my teeth in a sink with other peoples pubic hair in it and it's nice to use a toilet with others waste still in it I'm a owner op and I'm going to stop using Fstore its not w" _TARGET="NEGATIVE" _ORGTARGET="NEGATIVE" _PREDTARGET="POSITIVE" _PARTITION="Training" _WHY="nice &amp; ~nice day &amp; ~floor &amp; ~rude &amp; ~last &amp; ~counter &amp; ~customer &amp; ~cashier" _TARGETVAR="Sentiment" _POST_PROB="0.4914339585"/>
+</Data>
+<Metadata>
+<Variable NAME="_Text" LABEL="Text" LENGTH="200" FORMAT="$200." TYPE="C"/>
+<Variable NAME="_Target" LABEL="Assigned Target" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_orgTarget" LABEL="Original Target" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_PredTarget" LABEL="Predicted Target" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_partition" LABEL="Data Partition" LENGTH="16" FORMAT="" TYPE="C"/>
+<Variable NAME="_why" LABEL="Why Classified" LENGTH="400" FORMAT="" TYPE="C"/>
+<Variable NAME="_targetVar" LABEL="Target Variable" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_post_prob" LABEL="Posterior Probability" LENGTH="8" FORMAT="PERCENT8.1" TYPE="N"/>
+</Metadata>
+</TRCHANGE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="TextTopic" ID="TextTopic" X="1056" Y="462" DESCRIPTION="Text Topic" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="TM" TOOLPREFIX="TextTopic">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMTXTEXT.TOPIC.SOURCE" topTermCnt="0" autoTopicCnt="15" autoTopic="N" ForceRun="N" RunAction="Train" Component="TextTopic" initTopics="" tm_topic_node="" tm_topic_dataset="" topics="" augTopics="">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<INITTOPICS Type="DATA">
+<Data/>
+<Metadata>
+<Variable NAME="_topic_" LABEL="Topic" LENGTH="100" FORMAT="" TYPE="C"/>
+<Variable NAME="_term_" LABEL="Term" LENGTH="80" FORMAT="" TYPE="C"/>
+<Variable NAME="_role_" LABEL="Role" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="_weight_" LABEL="Weight" LENGTH="8" FORMAT="" TYPE="N"/>
+</Metadata>
+</INITTOPICS>
+<TOPIC_CUTOFFS Type="DATA">
+<Data/>
+<Metadata>
+<Variable NAME="_name" LABEL="Topic" LENGTH="100" FORMAT="" TYPE="C"/>
+<Variable NAME="_TYPE_" LABEL="" LENGTH="8" FORMAT="" TYPE="N"/>
+<Variable NAME="_FREQ_" LABEL="" LENGTH="8" FORMAT="" TYPE="N"/>
+<Variable NAME="_doccutoff" LABEL="Document Cutoff" LENGTH="8" FORMAT="" TYPE="N"/>
+<Variable NAME="_termcutoff" LABEL="Term Cutoff" LENGTH="8" FORMAT="" TYPE="N"/>
+</Metadata>
+</TOPIC_CUTOFFS>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="DecisionTree" ID="Tree" X="1452" Y="264" DESCRIPTION="Decision Tree" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="MODEL" TOOLPREFIX="Tree">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMMODL.TREE.SOURCE" ToolType="MODEL" TrainMode="BATCH" ImportModel="N" Freeze="N" UseMultipleTarget="N" Precision="4" IntervalCriterion="PROBF" NominalCriterion="PROBCHISQ" OrdinalCriterion="ENTROPY" SigLevel="0.2" Splitsize="." LeafSize="5" MinCatSize="5" Maxbranch="2" Maxdepth="6" Nrules="5" Nsurrs="0" MissingValue="USEINSEARCH" UseVarOnce="N" SplitPrecision="4" Subtree="ASSESSMENT" NSubtree="1" AssessMeasure="ASE" AssessPercentage="0.25" NodeSample="20000" Exhaustive="5000" Kass="Y" KassApply="BEFORE" Depth="Y" Inputs="N" NumInputs="1" VarSelection="Y" Leafid="Y" NodeRole="SEGMENT" Performance="DISK" CV="N" CVNIter="10" CVRepeat="1" CVSeed="12345" ObsImportance="N" NumSingleImp="5" UseDecision="N" UsePriors="N" ClassColorBy="PERCENTCORRECT" IntColorBy="AVG" ShowNodeId="Y" ShowValid="Y" Pred="N" Target="ALL" Count="Y" ProfitLoss="NONE" PercentCorrect="N" AVG="Y" RASE="N" CreateSample="DEFAULT" SampleMethod="RANDOM" SampleSize="10000" SampleSeed="12345" ForceRun="N" RunAction="Train" Component="DecisionTree" Criterion="DEFAULT" Dummy="N" Predict="Y" ImportedTreeData="">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="DecisionTree" ID="Tree2" X="1452" Y="462" DESCRIPTION="Decision Tree" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="MODEL" TOOLPREFIX="Tree">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMMODL.TREE.SOURCE" ToolType="MODEL" TrainMode="BATCH" ImportModel="N" Freeze="N" UseMultipleTarget="N" Precision="4" IntervalCriterion="PROBF" NominalCriterion="PROBCHISQ" OrdinalCriterion="ENTROPY" SigLevel="0.2" Splitsize="." LeafSize="5" MinCatSize="5" Maxbranch="2" Maxdepth="6" Nrules="5" Nsurrs="1" MissingValue="USEINSEARCH" UseVarOnce="N" SplitPrecision="4" Subtree="LARGEST" NSubtree="1" AssessMeasure="PROFIT/LOSS" AssessPercentage="0.25" NodeSample="20000" Exhaustive="5000" Kass="Y" KassApply="BEFORE" Depth="Y" Inputs="N" NumInputs="1" VarSelection="Y" Leafid="Y" NodeRole="SEGMENT" Performance="DISK" CV="N" CVNIter="10" CVRepeat="1" CVSeed="12345" ObsImportance="N" NumSingleImp="5" UseDecision="N" UsePriors="N" ClassColorBy="PERCENTCORRECT" IntColorBy="AVG" ShowNodeId="Y" ShowValid="Y" Pred="N" Target="ALL" Count="Y" ProfitLoss="NONE" PercentCorrect="N" AVG="Y" RASE="N" CreateSample="DEFAULT" SampleMethod="RANDOM" SampleSize="10000" SampleSeed="12345" ForceRun="N" RunAction="Train" Component="DecisionTree" Criterion="DEFAULT" Dummy="N" Predict="Y" ImportedTreeData="">
+<VariableProperties/>
+<EmTargetAttributes/>
+<EmVariableAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+</NODES>
+<CONNECTIONS>
+<CONNECTION FROM="Part" TO="TextParsing"/>
+<CONNECTION FROM="TextParsing" TO="TextFilter"/>
+<CONNECTION FROM="TextFilter" TO="TextRule"/>
+<CONNECTION FROM="TextFilter" TO="TextProfile"/>
+<CONNECTION FROM="TextFilter" TO="TextRule2"/>
+<CONNECTION FROM="TextFilter" TO="TextCluster"/>
+<CONNECTION FROM="TextCluster" TO="TextTopic"/>
+<CONNECTION FROM="TextRule" TO="Score"/>
+<CONNECTION FROM="TextRule" TO="MdlComp"/>
+<CONNECTION FROM="Score" TO="EMCODE"/>
+<CONNECTION FROM="TextTopic" TO="Meta"/>
+<CONNECTION FROM="Meta" TO="Tree"/>
+<CONNECTION FROM="Meta" TO="Reg"/>
+<CONNECTION FROM="Meta" TO="Tree2"/>
+<CONNECTION FROM="Tree2" TO="Neural"/>
+<CONNECTION FROM="Reg" TO="MdlComp"/>
+<CONNECTION FROM="Tree" TO="MdlComp"/>
+<CONNECTION FROM="Neural" TO="MdlComp"/>
+</CONNECTIONS>
+<NOTES>
+<DATA><![CDATA[
+
+
+]]>
+</DATA>
+</NOTES>
+</Workspace>
+</_ROOT_>
