@@ -287,6 +287,22 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Code_means%20and%20cros
 
 ### LAB
 
+[BAN 5743 – Lab Slides Week 3 Spring 2022b.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN%205743%20%E2%80%93%20Lab%20Slides%20Week%203%20Spring%202022b.pdf)
+
+[Week 2 Lab Practice - OL-Instructions](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Week%202%20Lab%20Practice%20-%20OL-instructions.pdf)
+
+[Week 2 Lab Practice - OL-Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Week%202%20Lab%20Practice%20-%20OL.pdf)
+
+[Python_TimeSeries_updated.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Python_TimeSeries_updated.pdf)
+
+[BTC-USD.csv](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BTC-USD.csv)
+
+[BAN 5743 - Lab Video - Wednesday](https://www.youtube.com/watch?v=B-zeweaYxPU)
+
+[BAN 5743 - Lab Video - Hands on Practice](https://www.youtube.com/watch?v=3MR5TS9mP2g)
+
+
+
 ### To DO
 
 
