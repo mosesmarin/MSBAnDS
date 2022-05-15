@@ -526,9 +526,6 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 
 
-
-
-
 ### LAB
 
 ### To DO
@@ -540,6 +537,54 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 ### LEARN
 
+[W8.1_Import Text Data in SAS EM (20 Min)](https://youtu.be/g-NJEXyGSik)
+
+[W8.2_Text Parsing Basics (17 min)](https://youtu.be/zmY2NnrXys8)
+
+[W8.3_Term By Document Matrix Basics (23 min)](https://youtu.be/h-Kaz5pY0Kg)
+
+[W8.4_Demo Text Parsing and Search (42 min)](https://youtu.be/FTImrM_RZQs)
+
+[W8.5_SVD, LSA and LSI (27 Min)](https://youtu.be/OkuhmD7oASw)
+
+[W8.6_Text Cluster and Text Topic (29 Min)](https://youtu.be/TRpR-0hSk4I)	
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.1_Import%20Text%20Data%20in%20SAS%20EM.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.2_Text%20Parsing%20Basics.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.3_Term%20By%20Document%20Matrix%20Basics.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.4_Demo%20Text%20Parsing%20and%20Search.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.5_SVD%2C%20LSA%20and%20LSI.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W8.6_Text%20Cluster%20and%20Text%20Topic.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Handout_Demo%20with%20Android%20App%20Reviews%20Text%20Cluster%20and%20Text%20Topic.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Handout_Demo%20with%20SAS%20GF%201976-1980%20Abstracts.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Handout_How%20to%20Get%20Textual%20Data%20in%20SAS%20EM.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/App_neg.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/App_pos.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/APP_TM.xml
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/sas1976_1980.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/syn_gc1.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/texttopic_1.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Source_Files.zip
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Code_means%20and%20cross-tabs%20for%20bases%20and%20descriptors%20by%20clusters.sas
+
+
+
 ### LAB
 
 ### To DO
@@ -550,6 +595,55 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 ### LEARN
 
+[W9.1_Predictive Model via Rule Builder (28 Min)](https://youtu.be/jjx7zsoaPLE)
+
+[W9.2_More Predictive Models in Text Analytics (12 Min)](https://youtu.be/B_gC2PieRm0)
+
+[W9.3_Predictive Model with Text and Numeric Data (13 Min)](https://youtu.be/Q4qhwoVeyV8)
+
+[W9.4_Basics of Sentiment Analysis(20 Min)](https://youtu.be/L-hftqEuRjk)
+
+[W9.5_Sentiment Analysis Studio Features (11 Min)](https://youtu.be/-d1l7xtcHI8)
+
+[W9.6_Demo SAS Sentiment Analysis (29 Min)](https://youtu.be/bOEmCNbdA_s)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W9.1_Predictive%20Model%20via%20Rule%20Builder.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W9.2_More%20Predictive%20Models%20in%20Text%20Analytics.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W9.3_Predictive%20Model%20with%20Text%20and%20Numeric%20Data.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W9.4_Basics%20of%20Sentiment%20Analysis.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W9.5_Sentiment%20Analysis%20Studio%20Features.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W9.6_Demo%20SAS%20Sentiment%20Analysis.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Handout_Demo%20with%20Call%20Center%20Data.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Handout_Demo%20with%20Driver%20Feedback.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Handout_Sentiment%20Analysis%20of%20Android%20App%20Data.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/All_model.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/All_test.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/code_crosstab%20of%20actual%20versus%20predicted%20sentiment%20from%20text%20rule%20builder.sas
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/engdict.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Gas_text_numeric_data.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/gas_text_numeric_predmodel(no%20data).xml
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/APP_SM.zip
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Rule_builder_diagram(no%20data).xml
+
+
+
+
 ### LAB
 
 ### To DO
@@ -557,19 +651,18 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 ##   Week 10 (Mar 21)
 
+Spring break
 
-### LEARN
-
-### LAB
-
-### To DO
 
 
 
 ##  Week 11 (Mar 21)
 
-
 ### LEARN
+
+No New Material
+
+
 
 ### LAB
 
@@ -581,6 +674,32 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 ### LEARN
 
+[W12_1_Deep Learning Introduction (15 Min)](https://youtu.be/3HQsnx_fpYo)
+
+[W12_2_Deep Learning Building Blocks (23 Min)](https://youtu.be/QAII9kargGc)
+
+[W12_3_Deep learning Training Issues (10 Min)](https://youtu.be/Nxpjgv_2Dkc)
+
+[W12_4_Deep Learning Training Efficiency (15 min)](https://youtu.be/nLgF6rmMarQ)
+
+[W12_5_Lecture Deep Learning Options in Viya (8 Min)](https://youtu.be/pPbHjdUXjzU)
+
+[W12_6_Demo Basics of Deep Learning Viya (22 min)](https://youtu.be/lFpzkM7Hllo)
+
+[W12_7_Self Study Autoencoders (7 Min)](https://youtu.be/XK3e9K6QmDA)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W13_1_Deep%20Learning%20Lecture%20Introduction%20Lecture%20Slides.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Deep%20Learning_VIya%20Options%20and%20Demo_Slides_Students.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Develop%20Data%20Description.docx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Week_13__Deep_Learning_Data%20and%20Code.zip
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/DLMS01D01a.sas
+
+
+
 ### LAB
 
 ### To DO
@@ -590,6 +709,27 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 
 ### LEARN
+
+[W13_1_Lecture CNN Intro(8 Min)](https://youtu.be/GrTzGotSgpA)
+
+[W13_2_Lecture CNN Filter (12 Min)](https://youtu.be/CPJmnvIDPjw)
+
+[W13_3_Lecture Padding and Pooling (14 Min)](https://youtu.be/oQZSi18PFW4)
+
+[W13_4_Lecture Skip Layer and Design Strategy(18 Min)](https://youtu.be/ph8-vFhCXb0)
+
+[W13_5_CNN Demo SAS Viya (20 Min)](https://youtu.be/m3GfbTBLNpA)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W14_Parts1-4_CNN%20Lecture%20Slides_Students.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W14_Partd5_CNN%20Demo%20SAS%20Viya%20Slides.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Explanation%20of%20CNN%20Code%20(1).docx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/DLMS02D02a_students.sas
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/DLMS02D02b_students.sas
+
 
 ### LAB
 
@@ -601,6 +741,31 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 ### LEARN
 
+[W14_1_Lecture RNN Intro (18 Min)](https://youtu.be/j7uqWjHSZ-4)
+
+[W14_2_RNN Vanishing Gradient (7 Min)](https://youtu.be/JTrH1ETo1D4)
+
+[W14_3_Lecture RNN GRU LSTM (17 Min)](https://youtu.be/inkVmS7SOHI)
+
+[W14_4_Lecture RNN Word Embedding (14 Min)](https://youtu.be/MWYXcRjjyCw)
+
+[W14_5_RNN Demo Text Classification (25 Min)](https://youtu.be/iFxiOgAIqdA)
+
+[W14_6_RNN Demo Time Series1 (13 Min)](https://youtu.be/XUOURf3ahDY)
+
+[W14_6_RNN Demo Timeseries2 (9 Min](https://youtu.be/K0rVsG-HtLk)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/RNN%20Lecture%20Slides_students.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/RNN%20Demo%20SAS%20Viya%20Slides.pptx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/DLUS03D01_students.sas
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/DLUS03D02_students.sas
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/DLUS03D03_rename.sas
+
+
 ### LAB
 
 ### To DO
@@ -611,6 +776,9 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/bank.sas7bdat
 
 
 ### LEARN
+
+No new material this week
+
 
 ### LAB
 
@@ -627,11 +795,15 @@ Final Exam SignUp
 
 ### LEARN
 
-BAN 5743 Spr22 Final Exam review sheet.docx
+[BAN 5743 Spr22 Final Exam review sheet.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/BAN%205743%20Spr22%20Final%20Exam%20review%20(1).docx)
 
-Final Exam Review Questions
+[Final Exam Review Questions](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Final%20Exam%20Review%20Questions_%20BAN%205743%20Combined%20Sp22.pdf)
 
-Exam Review Questions - Group Submission
+[Exam Review Questions - Group Submission](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Exam%20Review%20Questions%20-%20Group%20Submission.pdf)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Review%20Questions%20-%20Week%2013%20Group.docx
+
+
 
 ### LAB
 
