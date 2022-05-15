@@ -317,6 +317,39 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Exercise%201%20Spring%2
 ## Week 3 (Jan 24)
 
 ### LEARN
+[W3.1_Overview of Business Metrics for Model Assessment (24 mins)](https://www.youtube.com/watch?v=g6gljLAJrXs)
+
+[W3.2_Overview of Statistical Metrics for Model Assessment (21 mins)](https://www.youtube.com/watch?v=SVb7yhwLTWQ)
+
+[W3.3_Data Visualization in SAS EM (14 mins)](https://youtu.be/HssEDjnj5lc)
+
+[W3.4_Handling Missing Values (20 mins)](https://youtu.be/lU37BxDuePQ)
+
+[W3.5_Handling Transformation and Outliers (15 mins)](https://youtu.be/9AXrfOP36fg)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W3.1_Overview%20of%20Business%20Metrics%20for%20Model%20Assesment.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W3.2_Overview%20of%20Statistical%20Metrics%20for%20Model%20Assesment.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W3.3_Data%20Visualization%20in%20SAS%20EM.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W3.4_Handling%20Missing%20Values.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W3.5_Handling%20Transformation%20and%20Outliers.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/pva97nk.sas7bdat
+
+https://select-statistics.co.uk/blog/cumulative-gains-and-lift-curves-measuring-the-performance-of-a-marketing-campaign/
+
+https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/%20
+
+https://www.theanalysisfactor.com/missing-data-mechanism/%20
+
+http://www.biostathandbook.com/transformation.html
+
+https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623
+
+
 
 ### LAB
 
@@ -325,6 +358,20 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Exercise%201%20Spring%2
 
 
 ##  Week 4 (Jan 31)
+
+[W4.1_Recap Predictive Modeling (10 Min)](https://youtu.be/lnUkbUTauVU)
+
+[W4.2_Decsion Tree Basics (21 Min)](https://youtu.be/LVBdV73SrYI)
+
+[W4.3_SAS Demo Interactive and Maximal Tree (24 Min)](https://youtu.be/ZXgrWWkDzoM)
+
+[W4.4_Demo Autonomous Tree (25 Min)](https://youtu.be/je352Gor6aQ)
+
+[W4.5_Decsision Trees Advanced Topics (22 Min)](https://youtu.be/6rPP9IzmJf4)
+
+[W4.6_Regression Tree Lecture and Demo (11 Min)](https://youtu.be/5YzxEl5mUNY)
+
+[W4.7_Pros and Cons of Trees and Multiple Trees(16 Min)](https://youtu.be/dopM14ng-AI)
 
 ### LEARN
 
