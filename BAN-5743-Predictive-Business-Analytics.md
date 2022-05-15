@@ -437,6 +437,34 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Diagram1_BAN5743.xml
 
 ### LEARN
 
+
+[W6.1_ANN Modeling Essentials (18 min)	](https://youtu.be/BUJjLg2ODOM)
+
+[W6.2_Demo ANN Modeling Essentials (23 Min)	](https://youtu.be/D-op69WK2uI)
+
+[W6.3_Lecture and Demo RBF (14 Min)	](https://youtu.be/XYUxG7azjT8)
+
+[W6.4_Lecture and Demo Model Assessment (19 Min)	](https://youtu.be/vium9VGhRyw)
+
+[W6.5_Using Prior Probabilities and Profit (22 Min)](https://youtu.be/gUbF8I9gMOs)
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W6_1_%20Deeper%20ANN-1.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W6_2_%20Deeper%20ANN%20demo-1.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W6_3_RBF_neurelnet-1.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W6_4_Model%20Assessment-1.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/W6_5_Priors_porfit_lossN.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Data%20and%20diagrams-1.zip
+
+https://www.esri.com/about/newsroom/arcnews/australian-state-automated-large-area-land-classification-with-machine-learning/
+
+
+
+
 ### LAB
 
 ### To DO
@@ -444,8 +472,9 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Diagram1_BAN5743.xml
 
 ##   Week 7 (Feb 28)
 
-
 ### LEARN
+
+
 
 ### LAB
 
