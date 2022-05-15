@@ -261,6 +261,30 @@ https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/new_home_sales.sas7bdat
 
 ### LEARN
 
+[W2.1_Overview k-Means (16 Min)](https://www.youtube.com/watch?v=gWUVcWWEprE)
+
+[W2.2_SAS EM Interface Tour (10 Min)](https://www.youtube.com/watch?v=FFuijdCD1gk)
+
+[W2.3_SAS EM Introduction (22 Min)](https://www.youtube.com/watch?v=IUyYPToJ6VI)
+
+[W2.4_Transformation Before Clustering (31 Min)](https://www.youtube.com/watch?v=-yaIxJLSEb8)
+
+[W2.5_Demo of k-Means (24 mins)](https://www.youtube.com/watch?v=SeJzQUtLvsU)
+
+[W2.6_Profiling k-Means Clusters (34 Mins)](https://www.youtube.com/watch?v=LrWpEpjp7us)
+
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/kMeans%20All%20Slides%20for%20students.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/custsamp2.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/kmeans_demotr.sas7bdat
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5743/Code_means%20and%20cross-tabs%20for%20bases%20and%20descriptors%20by%20clusters.sas
+
+
+
+
 ### LAB
 
 ### To DO
