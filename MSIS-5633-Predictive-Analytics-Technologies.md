@@ -246,6 +246,46 @@
 [[Reference] Identifying significant predictors of injury severity - Delen et al. 2006.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Identifying%20significant%20predictors%20of%20injury%20severity%20-%20Delen%20et%20al.%202006.pdf) 
 
 
+# Presentations
+
+
+## Team 1
+
+https://www.youtube.com/watch?v=icBsIohGXEU
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Team01_PPT.pptx
+
+## Team 2
+
+https://youtu.be/8NPiQNN0mHQ
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Team02_TermProjectPresentation.pptx
+
+## Team 3
+
+https://youtu.be/wsNnTqvMybs
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/MSIS5633%20-%20Distance%20Team%203%20-%20Project%20PowerPoint%20Slides.pptx
+
+
+## Team 4
+
+https://youtu.be/1_JVu5wBsiA
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Team04_PPT.pptx
+
+## Team 5
+
+https://youtu.be/dFFs4DzMyhU
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Team05_PPT.pptx
+
+## Team 6
+
+https://youtu.be/cVCDZIU_prk
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Team%2006_Project%20PPT.pptx
+
 
 
 
