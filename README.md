@@ -62,7 +62,7 @@ Department/School: Marketing
 Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
 
 
-### [MSIS 5633 Predictive Analytics Technologies](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633-Predictive-Analytics-Technologies)
+### [MSIS 5633 Predictive Analytics Technologies](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633-Predictive-Analytics-Technologies.md)
 
 Prerequisites: Graduate standing.
 
