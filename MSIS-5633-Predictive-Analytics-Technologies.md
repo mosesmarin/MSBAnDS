@@ -287,6 +287,96 @@ https://youtu.be/cVCDZIU_prk
 https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Team%2006_Project%20PPT.pptx
 
 
+# Discussions
+
+
+[Sharing Experiences, Knowledge/Insight, and Informative Links](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Topic_%20Sharing%20Experiences%2C%20Knowledge_Insight%2C%20and%20Informative%20Links.pdf)
+
+[Comment on the Pros and Cons of ML Techniques](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Topic_%20Comment%20on%20the%20Pros%20and%20Cons%20of%20ML%20Techniques.pdf)
+
+
+# Assignments
+
+## Quiz 1
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%201_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 2
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%202_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 3
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%203_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 4
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%204_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 5
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%205_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 6
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%206_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 7
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%207_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## Quiz 8
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Quiz%20-%20Chapter%208_%20MSIS%205633%20Combined%20Sp22.pdf
+
+## HW5 - KNIME Data Mining II
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Gambling%20-%20Homework%20Description.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Gaming%20Ballot%20Data%20Description.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Gaming%20Ballot%20Data%20Set.xls
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW5%20-%20KNIME%20Data%20Mining%20II%20.docx
+
+## HW3 - Tableau Assignment
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Data_BirdStrikes.xlsx
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW3%20-%20Tableau%20Assignment.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW3%20-%20Tableau%20Exercise%20with%20Birdstrike%20Dataset.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/MoisesMarinHW3-tableau-assignment.pdf
+
+## HW4 - KNIME Data Mining I
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Customer%20Churn%20Prediction%20and%20Explanation.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/CutomerChurnData.csv
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW4%20-%20KNIME%20Data%20Mining%20I%20.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW4%20-%20KNIME%20Data%20Mining%20I.pdf
+
+## HW1 - SAS VA I
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW1%20-%20SAS%20VA%20I.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Moises%20Marin%20-%20HW%231.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/SAS%20VA%20on%20Viya%20-%20Assignment%201%20-%20NEW2.pdf
+
+## HW2 - SAS VA II
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/HW2%20-%20SAS%20VA%20II.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/Moises%20Marin%20-%20HW%232.pdf
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/SAS%20VA%20on%20Viya%20-%20Assignment%202%20-%20NEW2.pdf
+
+
+
 
 
 
