@@ -18,6 +18,10 @@
 
 ## Week 1 Videos
 
+[Week 1 Class Recording - Part 1 of 2](https://youtu.be/QH-uL670Lc4)
+
+[Week 1 Class Recording - Part 2 of 2](https://youtu.be/Y8907pCgfTs) 
+
 
 
 #  Week 2 - Ch02: DA I
@@ -34,6 +38,13 @@
 
 ## Week 2 Videos
 
+[Week 2 Class Recording - Part 1 of 2](https://youtu.be/tZ2aCAM1JCs)
+
+[Week 2 Class Recording - Part 2 of 2](https://youtu.be/r3YX0hDxGI8) 
+
+
+
+
 
 # Week 3 - Ch03: DA II
 
@@ -42,12 +53,28 @@
 
 ## Week 3 Videos
 
+[Week 3 Class Recording - Part 1 of 1](https://youtu.be/vKjy0ldPGMw) 
+
 
 # Week 4 - Ch04: PA I
 
 [ShardaDelenTurban_BI4e_PPT_Ch04](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/ShardaDelenTurban_BI4e_PPT_Ch04.pdf 
 
 ## Week 4 Videos [Previously Recorded]
+
+[Week 4 Video Part 1](https://youtu.be/J3mnMTIOU4A)
+
+[Week 4 Video Part 2](https://youtu.be/PaRyVasr_Fg)
+
+[Week 4 Video Part 3](https://youtu.be/z3BY8vn4UN0)
+
+[Week 4 Video Part 4](https://youtu.be/ltFA6PLwA3E)
+
+[Week 4 Video Part 5](https://youtu.be/W5yPMbpQZBM)
+
+[Week 4 Video Part 6](https://youtu.be/_L5SFx9oz3k)
+
+[Week 4 Video Part 7](https://youtu.be/aFi1xR3s4i8) 
 
 
 #  Week 5 - Ch04: PA II
@@ -56,11 +83,28 @@
 
 [CRISP_DM - IBM Version](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5633/CRISP_DM%20-%20IBM%20Version.pdf)
 
-[InClass Zoom Recording [2/9/2022]]() 
+[InClass Zoom Recording [2/9/2022]](https://youtu.be/l7kS_ijFgQU) 
 
 
 
 ## Week 5 Videos [Previously Recorded Videos]
+
+[Week 5 Video Part 1](https://youtu.be/UBzYAEr4PTM)
+
+[Week 5 Video Part 2](https://youtu.be/0VSVG69bK9c)
+
+[Week 5 Video Part 3](https://youtu.be/cUxeK1k_dtM)
+
+[Week 5 Video Part 4](https://youtu.be/VNrbYrYQbCc)
+
+[Week 5 Video Part 5](https://youtu.be/nOfFgfeIiSc)
+
+[Week 5 Video Part 6](https://youtu.be/fNR6twHjPcM)
+
+[Week 5 Video Part 7](https://youtu.be/KGSoS3-ms7c) 
+
+
+
 
 
 #  Week 6 - KNIME Hands-on & Term Project Starter
@@ -73,11 +117,14 @@
 
 ## Week 7 Videos
 
+[Class Recording](https://youtu.be/dL_2Ic3aELE) 
+
+
 
 
 # Week 7 - No In-CLASS Meeting - Work on the HW4 and get the Term Project started
 
-[HW4 - KNIME Tutorial]()
+[HW4 - KNIME Tutorial](https://youtu.be/GzUPP1E-zwU)
 
 
 
@@ -92,6 +139,7 @@
 
 ## Week 8 Videos
 
+[March 9, 2022 Class Recording](https://youtu.be/WjZ-8PtMDps) 
 
 
 
@@ -110,6 +158,9 @@
 
 ## Week 9 Videos
 
+[Class Recording (3/23/2022)](https://youtu.be/XKHkHUX_r6o) 
+
+
 
 #  Week 11 - Exam
 
@@ -122,9 +173,12 @@
 
 ## Week 11 Videos
 
+[Class Recording (Previously Recorded)](https://youtu.be/sgb1Q_AhIq4) 
 
 
 #  Week 13 - Term Project Insights & Q&A
+
+[Class Recprding (4/06/2022)](https://youtu.be/X0Yzk5k7LVc) 
 
 
 #  Week 14 - Ch07 - Big Data
@@ -138,6 +192,10 @@
 
 ## Week 14 Videos
 
+[Class Recording (4/13/2022)](https://youtu.be/BgH5FQaZopM) 
+
+
+
 
 #  Week 15 - Business Analytics Best Practices and Future Directions
 
@@ -145,12 +203,15 @@
 
 ## Week 15 Videos
 
+[Class Recording (4/20/2022)](https://youtu.be/9PFSUt4OjJ0) 
+
+
 
 #  Week 15 - Project Presentations
 
 ## Week 15 Videos
 
-
+[Project Presentations 4/27/2022](https://youtu.be/b2DLt09RuYE)
 
 #  Software
 
