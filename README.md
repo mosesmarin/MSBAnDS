@@ -5,6 +5,9 @@
 
 [Link to okstate course catalog](http://catalog.okstate.edu/graduate-college/masters-degrees/business-analytics-data-science-ms/)
 
+[Link to okstate course catalog by specialization area: marketing analytics, healthcare analytics, advanced data science or cybersecurity analytics.](https://business.okstate.edu/analytics/plan_of_study.html)
+
+
 
 ## Plan of Study
 
