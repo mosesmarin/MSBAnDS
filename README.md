@@ -82,3 +82,6 @@ Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
 
 
 
+---
+
+The waiver link for insurance https://okstate.forms-db.com/view.php?id=631188
