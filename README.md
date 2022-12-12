@@ -86,6 +86,25 @@ Department/School: Mgmt Sci & Info Sys
 Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
 
 
+### BAN 5753 Advanced Business Analytics
+
+Prerequisites: BAN 5743 or consent by instructor.
+
+Description: Learn how to use advanced modeling techniques such as Self Organizing Maps (SOM) and Kohonen Networks, two-stage models, survival models, credit scoring models, time series forecasting models, advanced text analytics etc. to improve business decision making. This course will primarily use SAS® Analytics platform to analyze data. Students may not take both MKTG 5883 and BAN 5753 for degree credit.
+
+Credit hours: 3
+
+Contact hours: Lecture: 2 Lab: 2 Contact: 4
+
+Levels: Graduate
+
+Schedule types: Lab, Lecture, Combined lecture and lab
+
+Department/School: Marketing
+
+Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
+
+
 
 ---
 
