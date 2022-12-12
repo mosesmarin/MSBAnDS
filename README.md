@@ -8,6 +8,8 @@
 [Link to okstate course catalog by specialization area: marketing analytics, healthcare analytics, advanced data science or cybersecurity analytics.](https://business.okstate.edu/analytics/plan_of_study.html)
 
 
+[Plan of study](https://business.okstate.edu/analytics/plan_of_study.html)
+
 
 ## Plan of Study
 
