@@ -67,7 +67,6 @@
 
 ### Module 15 (Dec 5 - Dec 11) (Time series Advanced - ARMA Model, ARMAX)
 
-| ----------- | ----------- |
 
 
 
@@ -81,12 +80,6 @@
 |[W13.4 TimeSeries_Python Demo (7 min)]()        |	                                |[BAN5753_Week13_Python_Code.pdf]() | 
 |                                            |                                 | [BAN5753_Week13_ R_Code.pdf]() |
 
-
-###
-
-###
-
-###
 
 
 
