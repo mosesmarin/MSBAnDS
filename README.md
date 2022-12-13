@@ -24,6 +24,19 @@
 | \*BAN 5400 (2 hours) Practicum in Business Analytics (Summer Internship)    |         |
 
 
+### Electives (15 hours)    
+
+| Advanced Data Science Option (12 hours)      | Checked |
+| ----------- | ----------- |
+| Required Core (6 hrs):  |
+| MSIS 5223 Programming for Data Science and Analytics II|     |
+| MSIS 5633 Predictive Analytics Technologies |     |
+| Electives (6 hrs):  |
+| MSIS 5303 Prescriptive Analytics  |     |
+| MSIS 5683 Big Data Analytics Technologies  |     |
+| MSIS 5713 Scripting Essentials  |     |
+
+
 
 
 ## Plan of Study
