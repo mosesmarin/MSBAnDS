@@ -13,15 +13,15 @@
 
 | Core Courses (22 hours)      | Checked |
 | ----------- | ----------- |
-| BAN 5733 Descriptive Business Analytics      | [x]       |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
+| BAN 5733 Descriptive Business Analytics      |  <ul><li>[x] </li></ul>      |
+| BAN 5743 Predictive Business Analytics   | <ul><li>[x] </li></ul>        |
+| BAN 5753 Advanced Business Analytics   | <ul><li>[x] </li></ul>        |
+| MSIS 5193 Programming for Data Science & Analytics I   | <ul><li>[x] </li></ul>        |
+| MSIS 5503 Statistics for Data Science   | <ul><li>[x] </li></ul>        |
+| MSIS 5663 Data Warehousing\*   |         |
+| \*BAN 5560 (1 hour) Research & Communications I   |         |
+| \*BAN 5560 (1 hour) Research & Communications II   |         |
+| \*BAN 5400 (2 hours) Practicum in Business Analytics (Summer Internship)    |         |
 
 
 
