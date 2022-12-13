@@ -37,6 +37,7 @@
 | MSIS 5713 Scripting Essentials  |     |
 
 |Cybersecurity Analytics (12 hours)| Checked |
+| ----------- | ----------- |
 |Required Core (6 hrs)|
 |MSIS 5213 Information Assurance Management|
 |MSIS 5713 Scripting Essentials|
