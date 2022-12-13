@@ -13,11 +13,11 @@
 
 | Core Courses (22 hours)      | Checked |
 | ----------- | ----------- |
-| BAN 5733 Descriptive Business Analytics      |  <ul><li>[x] </li></ul>      |
-| BAN 5743 Predictive Business Analytics   | <ul><li>[x] </li></ul>        |
-| BAN 5753 Advanced Business Analytics   | <ul><li>[x] </li></ul>        |
+| BAN 5733 Descriptive Business Analytics   (3hrs)   |  <ul><li>[x] </li></ul>      |
+| BAN 5743 Predictive Business Analytics  (3hrs)  | <ul><li>[x] </li></ul>        |
+| BAN 5753 Advanced Business Analytics  (3 hrs) | <ul><li>[x] </li></ul>        |
 | MSIS 5193 Programming for Data Science & Analytics I   |       |
-| MSIS 5503 Statistics for Data Science   | <ul><li>[x] </li></ul>        |
+| MSIS 5503 Statistics for Data Science  (3hrs) | <ul><li>[x] </li></ul>        |
 | MSIS 5663 Data Warehousing\*   |         |
 | \*BAN 5560 (1 hour) Research & Communications I   |         |
 | \*BAN 5560 (1 hour) Research & Communications II   |         |
@@ -30,9 +30,9 @@
 | ----------- | ----------- |
 | Required Core (6 hrs):  |
 | MSIS 5223 Programming for Data Science and Analytics II|     |
-| MSIS 5633 Predictive Analytics Technologies | <ul><li>[x] </li></ul>    |
+| MSIS 5633 Predictive Analytics Technologies (3 hrs) | <ul><li>[x] </li></ul>    |
 | Electives (6 hrs):  |
-| MSIS 5303 Prescriptive Analytics  |   <ul><li>[x] </li></ul>   |
+| MSIS 5303 Prescriptive Analytics (3 hrs) |   <ul><li>[x] </li></ul>   |
 | MSIS 5683 Big Data Analytics Technologies  |     |
 | MSIS 5713 Scripting Essentials  |     |
 
