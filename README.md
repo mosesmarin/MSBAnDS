@@ -86,7 +86,7 @@ Department/School: Mgmt Sci & Info Sys
 Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
 
 
-### BAN 5753 Advanced Business Analytics
+### [BAN 5753 Advanced Business Analytics](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753-Advanced-Business-Analytics.md)
 
 Prerequisites: BAN 5743 or consent by instructor.
 
@@ -103,6 +103,26 @@ Schedule types: Lab, Lecture, Combined lecture and lab
 Department/School: Marketing
 
 Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
+
+
+
+
+### MSIS 5303 Prescriptive Analytics
+
+Prerequisites: Admission to a SSB graduate program.
+
+Description: Application of prescriptive analytic techniques to business problems. Some descriptive analytics may also be covered.
+
+Credit hours: 3
+
+Contact hours: Lecture: 3 Contact: 3
+
+Levels: Graduate
+
+Schedule types: Lecture
+
+Department/School: Mgmt Sci & Info Sys
+
 
 
 
