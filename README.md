@@ -30,9 +30,9 @@
 | ----------- | ----------- |
 | Required Core (6 hrs):  |
 | MSIS 5223 Programming for Data Science and Analytics II|     |
-| MSIS 5633 Predictive Analytics Technologies |     |
+| MSIS 5633 Predictive Analytics Technologies | <ul><li>[x] </li></ul>    |
 | Electives (6 hrs):  |
-| MSIS 5303 Prescriptive Analytics  |     |
+| MSIS 5303 Prescriptive Analytics  |   <ul><li>[x] </li></ul>   |
 | MSIS 5683 Big Data Analytics Technologies  |     |
 | MSIS 5713 Scripting Essentials  |     |
 
