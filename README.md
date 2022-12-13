@@ -11,6 +11,21 @@
 [Plan of study](https://business.okstate.edu/analytics/plan_of_study.html)
 
 
+| Core Courses (22 hours)      | Checked |
+| ----------- | ----------- |
+| BAN 5733 Descriptive Business Analytics      | [x]       |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+
+
+
+
 ## Plan of Study
 
 ### [MSIS 5503 Statistics for Data Science](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5503-Statistics-for-Data-Science.md)
