@@ -107,7 +107,7 @@ Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
 
 
 
-### MSIS 5303 Prescriptive Analytics
+### [MSIS 5303 Prescriptive Analytics](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303-Prescriptive-Analytics.md)
 
 Prerequisites: Admission to a SSB graduate program.
 
