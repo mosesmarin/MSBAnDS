@@ -75,13 +75,9 @@
 
 |Video Lecture Name (Total Time:60  mins) |	Lecture Slides and Notes 	| Data, SAS, R, Python Code Files|
 | ----------- | ----------- | ----------- |
-
 |[W13.1 TimeSeries_Intro(32 Min)]()             |	[W13.1_TimeSeries_Intro_Slides.pdf]()       | [ecommerce.sas7bdat]()|
-
 |[W13 2_TimeSeries_Demo(36 Min)]()                |	[W13.2_TimeSeries_Demo_Slides.pdf]()        | [Program1_ESM_Models.sas]()|
-
 |[W13.3_TimeSeries_How to use Holdout(12 Min)]() |	[W13.3_TimeSeries_How to use holdout.pdf]() |	[Program2_ESM_Models.sas]()|
-
 |[W13.4 TimeSeries_Python Demo (7 min)]()        |	                                |[BAN5753_Week13_Python_Code.pdf]() | 
 |                                            |                                 | [BAN5753_Week13_ R_Code.pdf]() |
 
