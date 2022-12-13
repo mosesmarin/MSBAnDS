@@ -36,6 +36,27 @@
 | MSIS 5683 Big Data Analytics Technologies  |     |
 | MSIS 5713 Scripting Essentials  |     |
 
+Cybersecurity Analytics (12 hours)
+
+Required Core (6 hrs)
+
+    MSIS 5213 Information Assurance Management
+
+    MSIS 5713 Scripting Essentials
+
+Electives (6 hrs)
+
+    MSIS 5243 Information Technology Forensics
+
+    MSIS 5713 Scripting Essentials
+
+    MSIS 5663 Data Warehousing
+
+    Other graduate-level courses as approved by the program director
+
+Use course catalog to find details about courses
+
+
 
 
 
