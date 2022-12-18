@@ -67,9 +67,19 @@
 
 ### Module 15 (Dec 5 - Dec 11) (Time series Advanced - ARMA Model, ARMAX)
 
+|Video Lecture Name (Total Time:120  mins) |	Lecture Slides and Notes 	| Data, SAS Code Files|Python & R Files|
+| ----------- | ----------- | ----------- | ----------- |
+| [W14.1_ARMA Models Lecture(30 Min)](https://youtu.be/ucbRpXiDueQ) | [W14.1_ARMA Models Lecture.pdf]()| [Program1_ARIMA_Models.sas]()|  [BAN_5753_F21_Week14_ARIMA_R_Code.pdf]() |
+|[W14.2_Time Series Demo of ACF PACF WN (10 Min)](https://youtu.be/5yKhpUQ5b9k)|[W14.2_Time Series Demo of ACF PACF WN.pdf Download W14.2_Time Series Demo of ACF PACF WN.pdf]()|[Program2_ARIMA_Models.sas Download Program2_ARIMA_Models.sas]()|[BAN_5753_F21_Week14_ARIMAX_R_Code.pdf Download BAN_5753_F21_Week14_ARIMAX_R_Code.pdf]()|
+|[W14.3_Time Series Demo Identify and Estimate in ARIMA(12 Min)](https://youtu.be/JZLnSUfCjM0)|[W14.3_Time Series Demo Identify and Estimate in ARIMA.pdf Download W14.3_Time Series Demo Identify and Estimate in ARIMA.pdf]()|[roseseries.sas7bdat Download roseseries.sas7bdat]()|[BAN5753_F21_Week14_Python_Code.pdf Download BAN5753_F21_Week14_Python_Code.pdf]()|
+|[W14.4_Forecast in ARIMA(9 Min)](https://youtu.be/AlI_NhY8Jeo)|[W14.4_Forecast in ARIMA.pdf Download W14.4_Forecast in ARIMA.pdf]()|[solarpv_f.sas7bdat Download solarpv_f.sas7bdat]()|[BAN5753_F21_Week14_Prophet_Basic_Python_Code.pdf Download BAN5753_F21_Week14_Prophet_Basic_Python_Code.pdf]()|
+|[W14.5_ARMAX Lecture(16 Min)](https://youtu.be/0WbUuL_v9iU)|[W14.5_ARMAX Lecture.pdf Download W14.5_ARMAX Lecture.pdf]()|[solarpv.sas7bdat Download solarpv.sas7bdat]()||
+|[W14.6_ARMAX_Demo(13 Min)](https://youtu.be/pBgpiZN5JEs)|[W14.6_ARMAX_Demo.pdf Download W14.6_ARMAX_Demo.pdf]()|||
+|[W14.8_ARMAX_Demo_Events and Forecast(16 Min)]()|[W14.8_ARMAX_Demo_Events and Forecast.pdf Download W14.8_ARMAX_Demo_Events and Forecast.pdf]()|||
 
 
-BAN 5753 - Time series fundamental - 
+
+
 
 ### Time series Fundamental (preparatory for Adv Time Series)
 
