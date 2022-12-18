@@ -63,6 +63,15 @@
 
 
 ###  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
+|Video Lecture Name (Total Time:85  mins) |	Lecture Slides and Notes 	| Data, SAS, R, Python Code Files|
+| ----------- | ----------- | ----------- | 
+|[W14_1_Lecture SVM Forest(27 Min).mp4]()|[1_Lecture SVM Forest.pdf]()|[pmad_pva.sas7bdat ]()|
+|[W14_2_Demo SVM (18 Min).mp4]()|[2_Demo SVM .pdf]()|[SVM.xml ]()|
+|[W14_3_Lecture Forest(20 Min)]()|[3_Lecture Forest.pdf]()|[Svm_tutorial.pdf]()|
+|[W14_4_Demo Forest(11 Min)]()|[4_Demo Forest.pdf]()|[BAN5753_Week14_R_Code.pdf]()|
+|[W14_5_Demo Gradient Boosting (9 Min)]()|[5_Demo Gradient Boosting.pdf]()|[Week14_PythonCode_Demo.pdf]()|
+
+
 
 
 ### Module 15 (Dec 5 - Dec 11) (Time series Advanced - ARMA Model, ARMAX)
