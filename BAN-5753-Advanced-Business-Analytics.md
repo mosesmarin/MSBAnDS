@@ -78,7 +78,7 @@ BAN 5753 - Time series fundamental -
 |[W13.1 TimeSeries_Intro(32 Min)](https://youtu.be/0YDmGFnyqNs) |	[W13.1_TimeSeries_Intro_Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/W13.1_TimeSeries_Intro_Slides.pdf) | [ecommerce.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/ecommerce.sas7bdat)|
 |[W13 2_TimeSeries_Demo(36 Min)](https://youtu.be/BOuLPXxogu0)  |	[W13.2_TimeSeries_Demo_Slides.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/W13.2_TimeSeries_Demo_Slides.pdf)  | [Program1_ESM_Models.sas](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Program1_ESM_Models.sas)|
 |[W13.3_TimeSeries_How to use Holdout(12 Min)](https://youtu.be/TSwe-Jn-zK0) |	[W13.3_TimeSeries_How to use holdout.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/W13.3_TimeSeries_How%20to%20use%20holdout.pdf) |	[Program2_ESM_Models.sas](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Program2_ESM_Models.sas)|
-|[W13.4 TimeSeries_Python Demo (7 min)]()        |	                                |[BAN5753_Week13_Python_Code.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN5753_Week13_Python_Code.pdf) | 
+|[W13.4 TimeSeries_Python Demo (7 min)](https://youtu.be/sSroqNNbgEY)   |	                                |[BAN5753_Week13_Python_Code.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN5753_Week13_Python_Code.pdf) | 
 |                                            |                                 | [BAN5753_Week13_ R_Code.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN5753_Week13_%20R_Code.pdf) |
 
 
