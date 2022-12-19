@@ -65,11 +65,11 @@
 ###  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
 |Video Lecture Name (Total Time:85  mins) |	Lecture Slides and Notes 	| Data, SAS, R, Python Code Files|
 | ----------- | ----------- | ----------- | 
-|[W14_1_Lecture SVM Forest(27 Min).mp4]()|[1_Lecture SVM Forest.pdf]()|[pmad_pva.sas7bdat ]()|
-|[W14_2_Demo SVM (18 Min).mp4]()|[2_Demo SVM .pdf]()|[SVM.xml ]()|
-|[W14_3_Lecture Forest(20 Min)]()|[3_Lecture Forest.pdf]()|[Svm_tutorial.pdf]()|
-|[W14_4_Demo Forest(11 Min)]()|[4_Demo Forest.pdf]()|[BAN5753_Week14_R_Code.pdf]()|
-|[W14_5_Demo Gradient Boosting (9 Min)]()|[5_Demo Gradient Boosting.pdf]()|[Week14_PythonCode_Demo.pdf]()|
+|[W14_1_Lecture SVM Forest(27 Min).mp4](https://youtu.be/O1riMDSq-wk)|[1_Lecture SVM Forest.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/1_%20Lecture%20SVM%20Forest-2.pdf)|[pmad_pva.sas7bdat ](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/pmad_pva.sas7bdat)|
+|[W14_2_Demo SVM (18 Min).mp4](https://youtu.be/adCJDuOojR4)|[2_Demo SVM .pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/2_Demo%20SVM-2.pdf)|[SVM.xml ](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/SVM(2).xml)|
+|[W14_3_Lecture Forest(20 Min)](https://youtu.be/ChgFhV5f_pY)|[3_Lecture Forest.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/3_Lecture%20Forest-1.pdf)|[Svm_tutorial.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Svm_tutorial.pdf)|
+|[W14_4_Demo Forest(11 Min)](https://youtu.be/CWsl1qlss0o)|[4_Demo Forest.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/4_Demo%20Forest-1.pdf)|[BAN5753_Week14_R_Code.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN5753_Week14_R_Code-BAN5753_Week6_R_Code-1.pdf)|
+|[W14_5_Demo Gradient Boosting (9 Min)](https://youtu.be/ka3ZDdp-P6k)|[5_Demo Gradient Boosting.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/5_Demo%20Gradient%20Boosting-1.pdf)|[Week14_PythonCode_Demo.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Week14-PythonCode_Demo-Week6_PythonCode_Demo.pdf)|
 
 
 
