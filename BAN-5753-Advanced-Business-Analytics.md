@@ -71,8 +71,15 @@
 |[W14_4_Demo Forest(11 Min)](https://youtu.be/CWsl1qlss0o)|[4_Demo Forest.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/4_Demo%20Forest-1.pdf)|[BAN5753_Week14_R_Code.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN5753_Week14_R_Code-BAN5753_Week6_R_Code-1.pdf)|
 |[W14_5_Demo Gradient Boosting (9 Min)](https://youtu.be/ka3ZDdp-P6k)|[5_Demo Gradient Boosting.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/5_Demo%20Gradient%20Boosting-1.pdf)|[Week14_PythonCode_Demo.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Week14-PythonCode_Demo-Week6_PythonCode_Demo.pdf)|
 
+Readings [Paper 1](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/M13-Paper1.pdf) [Paper 2](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/M13-Paper2.pdf)
 
+Submitted with grade 8.8 [BAN 5753 - paper1 - reading summary 14.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN%205753%20-%20paper1%20-%20reading%20summary%2014-1.pdf) [BAN 5753 - paper2 - reading summary 14.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN%205753%20-%20paper2%20-%20reading%20summary%2014-1.pdf)
 
+Assignment - [Exercise13_SVM_BAN5753_F22.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Exercise13_SVM_BAN5753_F22(1).docx) [ENROLLMENT_DATA.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/ENROLLMENT_DATA.sas7bdat) [ENROLLMENT_DATA.xlsx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/ENROLLMENT_DATA(1).xlsx)
+
+Submitted with grade 10 comments Good work. [Exercise13_SVM_BAN5753_F22-Moises.docx ](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/Exercise13_SVM_BAN5753_F22-Moises(1).docx) [ex13.R ](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/ex13.R)
+
+[Lab Slides](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN%205753_LabFall22_Week14(1).pptx) [Lab video](https://youtu.be/Tl7zwdT55Oo)
 
 ### Module 15 (Dec 5 - Dec 11) (Time series Advanced - ARMA Model, ARMAX)
 
