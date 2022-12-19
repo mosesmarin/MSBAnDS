@@ -88,8 +88,9 @@
 |[W14.8_ARMAX_Demo_Events and Forecast(16 Min)]()|[W14.8_ARMAX_Demo_Events and Forecast.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/W14.8_ARMAX_Demo_Events%20and%20Forecast.pdf)|||
 
 
+Assignment - Exercise 14 [Exercise ARMA_BAN5753.docx](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/M15-Exercise%20ARMA_BAN5753(1).docx) [saledata.sas7bdat](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/saledata.sas7bdat)
 
-
+[Lab Slides](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN%205753_LabFall22_Week15_lastClass.pdf) [Lab Recording](https://youtu.be/ssyPtzrCT1c)
 
 ### Time series Fundamental (preparatory for Adv Time Series)
 
