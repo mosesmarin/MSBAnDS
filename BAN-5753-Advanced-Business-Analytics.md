@@ -33,48 +33,43 @@
 
 |Video Lecture Name (total time 193 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[1 Derivation of MR Solution Part 1 (14 min)](https://youtu.be/6q8Ebrg0rCk)|[]()|[]()|
+|[2 Derivation of MR Solution Part 2 (14 min)](https://youtu.be/-DHe8LWJMn8)|[]()|[]()|
+|[3 Advanced_MR_Assumptions_Lecture (18 Min)](https://youtu.be/IESgNTI6Kf4)|[]()|[]()|
+|[4_Advanced_MR_test_assumptions_SAS(35 min)](https://youtu.be/pF42jDp04FQ)|[]()|[]()|
+|[5_ADV MR_Influentials_Lecture (22 Min)](https://youtu.be/-DF0LB-MXDU)|[]()|[]()|
+|[6_Advanced_MR_Influentails_SAS Demo(22 min)](https://youtu.be/rNGfpy9bE_I)|[]()|[]()|
+|[7_Advanced_MR_PartialR_Lecture(16 min)](https://youtu.be/jjn7aI3-h2E)|[]()|[]()|
+|[8_Advanced_MR_PartialR_SASDemo(16 min)](https://youtu.be/PHG9E-ROFsQ)|[]()|[]()|
+|[9_Advanced_MR_Error_indices_Validation_Lecture(12 min)](https://youtu.be/AHUxDC0-YqA)|[]()|[]()|
+|[10_K-Folds_Demo(24 min)](https://youtu.be/L3y0PSY8BVE)|[]()|[]()|
 
 
 ###  Module 3 (Sep 5 - Sep 11) (Cloud Computing Overview by Dr. Khots)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+|Video Lecture Name (total time 85 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[GCP Module 1- Part 1 (20 mins)](https://youtu.be/bpmZz2igTxg)|[]()|[]()|
+|[GCP Module 1- Part 2 (30 mins)](https://youtu.be/--xamgX859k)|[]()|[]()|
+|[GCP Module 1- Part 3 (35 mins)](https://youtu.be/uCLnHRKpvx0)|[]()|[]()|
 
 
 ### Module 4 (Sep. 12 - Sep. 18) (Introduction to GCP and Data Engineering by Dr. Khots)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[GCP Module 2- Part 1 (21 mins)](https://youtu.be/chXKsQxbjDI)|[]()|[]()|
+|[GCP Module 2- Part 2 (27 mins)](https://youtu.be/nm1coG_bFaw)|[]()|[]()|
+
 
 
 ### Module 5 (Sep 19 - Sep 25) (Data Visualization in GCP by Dr. Khots)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[GCP Module 3- Part 1 (21 mins)](https://youtu.be/yBvLdMAnHhQ)|[]()|[]()|
+|[GCP Module 3- Part 2 (12 mins)](https://youtu.be/PL2ldf6sc5U)|[]()|[]()|
+
 
 
 ### Module 6 (Sep. 26 - Oct. 2) (ML on GCP by Dr. Khots)
