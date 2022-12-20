@@ -74,14 +74,11 @@
 
 ### Module 6 (Sep. 26 - Oct. 2) (ML on GCP by Dr. Khots)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+|Video Lecture Name (total time 44 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[GCP Module 4- Part 1 (18 mins)](https://youtu.be/7TmIBegyufc)|[]()|[]()|
+|[GCP Module 4- Part 2 (26 mins)](https://youtu.be/0NMo9VXm8YA)|[]()|[]()|
+
 
 
 ### Module 7 (Oct 3 - Oct 12) (Mini Project 1 in GCP)
@@ -97,36 +94,32 @@
 
 ###  Module 8 (Oct. 10 - Oct. 16) (Big Data and Spark Introduction)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+|Video Lecture Name (total time 143 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[Spark Module 1 - Part 1 (33 mins)](https://youtu.be/1Dx7YfFoTt0)|[]()|[]()|
+|[Spark Module 1 - Part 2 (35 mins)](https://youtu.be/WOnVJps24N0)|[]()|[]()|
+|[Spark Module 1 - Part 3 (37 mins)](https://youtu.be/ood0Z8CAD4c)|[]()|[]()|
+|[Spark Module 1 - Part 4 (38 mins)](https://youtu.be/Tb5HyDy0Bls)|[]()|[]()|
 
 ### Module 9 (Oct. 17 - Oct. 23) (Overview of Scala RDD)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+|Video Lecture Name (total time 73 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[Spark Module 2 - Part 1 (16 mins)](https://youtu.be/B1pEUkyPiJE)|[]()|[]()|
+|[Spark Module 2 - Part 2 (15 mins)](https://youtu.be/8SVSQU-tmh8)|[]()|[]()|
+|[Spark Module 2 - Part 3 - 1 (17 mins)](https://youtu.be/qzx9p528_ik)|[]()|[]()|
+|[Spark Module 2 - Part 3 - 2 (6 mins)](https://youtu.be/16p5EDYRRQw)|[]()|[]()|
+|[Spark Module 2 - Part 4 (19 mins)](https://youtu.be/j52C71tEO6s)|[]()|[]()|
 
 ### Module 10 (Oct. 24 - Oct. 30) (Spark DataFrames, Broadcast, Compressions, Partitions, Joins, Spark Submit)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+|Video Lecture Name (total time 79 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[Spark Module 3 - Part 1 (14 mins)](https://youtu.be/_2wOjIcoS3c)|[]()|[]()|
+|[Spark Module 3 - Part 2 -1 (20 mins)](https://youtu.be/hGW3GGs5LDE)|[]()|[]()|
+|[Spark Module 3 - Part 2 - 2 (13 mins)](https://youtu.be/opGFinFJdpE)|[]()|[]()|
+|[Spark Module 3 - Part 3 (8 mins)](https://youtu.be/PHq_Rd0B9Z4)|[]()|[]()|
+|[Spark Module 3 - Part 4 (24 mins)](https://youtu.be/YteuHRwePF0)|[]()|[]()|
 
 
 ###  Module 11 (Oct. 31 - Nov. 6) (Spark Applications, MLIB, ML pipeline, GraphDB, Industry best practices, Performance tuning)
