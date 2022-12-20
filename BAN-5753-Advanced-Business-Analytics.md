@@ -16,50 +16,159 @@
 
 ### Module 1 (Aug. 22 - Aug. 28) (Overview of Matrix Algebra, Eigen Values & Eigen Vectors)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[Basics of matrix algebra (19 mins)](https://youtu.be/njsvhRWAnCU)|[]()|[]()|
+|[Matrix Inversion and Singularity (13 min)](https://youtu.be/iAxLWNTajFc)|[]()|[]()|
+|[Creating and Summarizing SSCP Matrix (20 min)](https://youtu.be/18qvvCH_v5s)|[]()|[]()|
+|[Length and Angle of Vectors (23 min)](https://youtu.be/w6A9uGVtPow)|[]()|[]()|
+|[Eigen Values and Eigen Vector Part1 (18 min)](https://youtu.be/w6A9uGVtPow)|[]()|[]()|
+|[Eigen Vectors and Eigen Vectors Part 2 (17 min)](https://youtu.be/tvxsIh0xfzs)|[]()|[]()|
+
+
 
 
 
 ###  Module 2 (Aug. 29 - Sep. 4) (Derivation of MR, MR Assumptions, MR Diagnostics)
 
+|Video Lecture Name (total time 193 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+
 
 ###  Module 3 (Sep 5 - Sep 11) (Cloud Computing Overview by Dr. Khots)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ### Module 4 (Sep. 12 - Sep. 18) (Introduction to GCP and Data Engineering by Dr. Khots)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ### Module 5 (Sep 19 - Sep 25) (Data Visualization in GCP by Dr. Khots)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ### Module 6 (Sep. 26 - Oct. 2) (ML on GCP by Dr. Khots)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ### Module 7 (Oct 3 - Oct 12) (Mini Project 1 in GCP)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 ###  Module 8 (Oct. 10 - Oct. 16) (Big Data and Spark Introduction)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 ### Module 9 (Oct. 17 - Oct. 23) (Overview of Scala RDD)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 ### Module 10 (Oct. 24 - Oct. 30) (Spark DataFrames, Broadcast, Compressions, Partitions, Joins, Spark Submit)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ###  Module 11 (Oct. 31 - Nov. 6) (Spark Applications, MLIB, ML pipeline, GraphDB, Industry best practices, Performance tuning)
+
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 
 ###  Module 12 (Nov. 7 - Nov. 16) (Mini Project 2 in Spark)
 
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ### Module 13 (Nov 14 - Nov 20) (Variable reduction and variable selection, PCA, Variable Clustering)
+
+|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+| ----------- | ----------- | ----------- | 
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
+|[]()|[]()|[]()|
 
 
 ###  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
