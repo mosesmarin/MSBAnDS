@@ -126,12 +126,9 @@
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[Spark Module 4 - Part 1 (16 mins)](https://youtu.be/nMCq_yZJoc4)|[]()|[]()|
+|[Spark Module 4 - Part 2 (14 mins)](https://youtu.be/5JzW8q8Ioi0)|[]()|[]()|
+|[Spark Module 4 - Part 3 (68 mins)](https://youtu.be/v-G1SOAuj9o)|[]()|[]()|
 
 
 
@@ -151,12 +148,12 @@
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+|[1 Overview variable selection and reduction (11 min)](https://youtu.be/-gff8A7Z6Zk)|[]()|[]()|
+|[2 Lecture basics of PCA (23 min)](https://youtu.be/sMykMrSeE7k)|[]()|[]()|
+|[3 Lecture additional topics PCA (8 min)](https://youtu.be/cFevGgwaseU)|[]()|[]()|
+|[4 Demo PCA (19 min)](https://youtu.be/ZlM4r_Lz020)|[]()|[]()|
+|[5 Lecture variable clustering (13 min)](https://youtu.be/qz-98dUjGPw)|[]()|[]()|
+|[6 Demo variable cluster (15 min)](https://youtu.be/hfPfmcgcm40)|[]()|[]()|
 
 
 ###  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
