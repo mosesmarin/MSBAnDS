@@ -39,7 +39,7 @@
 |Cybersecurity Analytics (12 hours)| Checked |
 | ----------- | ----------- |
 |Required Core (6 hrs)|
-|MSIS 5213 Information Assurance Management|
+|MSIS 5213 Information Assurance Management|registered|
 |MSIS 5713 Scripting Essentials|
 |Electives (6 hrs)|
 |MSIS 5243 Information Technology Forensics|
