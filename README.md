@@ -34,7 +34,7 @@
 | Electives (6 hrs):  |
 | MSIS 5303 Prescriptive Analytics (3 hrs) |   <ul><li>[x] </li></ul>   |
 | MSIS 5683 Big Data Analytics Technologies  |     |
-| MSIS 5713 Scripting Essentials  |     |
+| MSIS 5713 Scripting Essentials  | registered    |
 
 |Cybersecurity Analytics (12 hours)| Checked |
 | ----------- | ----------- |
@@ -43,7 +43,7 @@
 |MSIS 5713 Scripting Essentials|
 |Electives (6 hrs)|
 |MSIS 5243 Information Technology Forensics|
-|MSIS 5713 Scripting Essentials| registered|
+|MSIS 5713 Scripting Essentials| |
 |MSIS 5663 Data Warehousing|
 
 
