@@ -43,7 +43,7 @@
 |MSIS 5713 Scripting Essentials|
 |Electives (6 hrs)|
 |MSIS 5243 Information Technology Forensics|
-|MSIS 5713 Scripting Essentials|
+|MSIS 5713 Scripting Essentials| registered|
 |MSIS 5663 Data Warehousing|
 
 
