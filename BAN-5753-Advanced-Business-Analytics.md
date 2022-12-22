@@ -18,13 +18,22 @@
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[Basics of matrix algebra (19 mins)](https://youtu.be/njsvhRWAnCU)|[]()|[]()|
-|[Matrix Inversion and Singularity (13 min)](https://youtu.be/iAxLWNTajFc)|[]()|[]()|
-|[Creating and Summarizing SSCP Matrix (20 min)](https://youtu.be/18qvvCH_v5s)|[]()|[]()|
-|[Length and Angle of Vectors (23 min)](https://youtu.be/w6A9uGVtPow)|[]()|[]()|
-|[Eigen Values and Eigen Vector Part1 (18 min)](https://youtu.be/w6A9uGVtPow)|[]()|[]()|
+|[Basics of matrix algebra (19 mins)](https://youtu.be/njsvhRWAnCU)|[Basics of matrix algebra.pdf]()|[]()|
+|[Matrix Inversion and Singularity (13 min)](https://youtu.be/iAxLWNTajFc)|[Matrix inversion and singularity.pdf]() [Handout_week1.pdf]()| |
+|[Creating and Summarizing SSCP Matrix (20 min)](https://youtu.be/18qvvCH_v5s)|[Creating SSCP matrix.pdf]()|[SSCP Calculation by hand.pdf]()|
+|[Length and Angle of Vectors (23 min)](https://youtu.be/w6A9uGVtPow)|[Length and angle of vectors.pdf]()|[]()|
+|[Eigen Values and Eigen Vector Part1 (18 min)](https://youtu.be/w6A9uGVtPow)|[Eigen Values and Eigen Vectors.pdf ]()|[Eigen Values and vectors calculation by hand.pdf ]()|
 |[Eigen Vectors and Eigen Vectors Part 2 (17 min)](https://youtu.be/tvxsIh0xfzs)|[]()|[]()|
 
+[Paper #1]() and [Paper #2]() for this week. 
+
+[Summary of readings]()
+
+[Module 1 Assignment]()
+
+[Week 1 Lab slides]()
+
+[Week 1 Lab recording]()
 
 
 
@@ -34,32 +43,70 @@
 |Video Lecture Name (total time 193 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
 |[1 Derivation of MR Solution Part 1 (14 min)](https://youtu.be/6q8Ebrg0rCk)|[]()|[]()|
-|[2 Derivation of MR Solution Part 2 (14 min)](https://youtu.be/-DHe8LWJMn8)|[]()|[]()|
-|[3 Advanced_MR_Assumptions_Lecture (18 Min)](https://youtu.be/IESgNTI6Kf4)|[]()|[]()|
-|[4_Advanced_MR_test_assumptions_SAS(35 min)](https://youtu.be/pF42jDp04FQ)|[]()|[]()|
-|[5_ADV MR_Influentials_Lecture (22 Min)](https://youtu.be/-DF0LB-MXDU)|[]()|[]()|
-|[6_Advanced_MR_Influentails_SAS Demo(22 min)](https://youtu.be/rNGfpy9bE_I)|[]()|[]()|
-|[7_Advanced_MR_PartialR_Lecture(16 min)](https://youtu.be/jjn7aI3-h2E)|[]()|[]()|
-|[8_Advanced_MR_PartialR_SASDemo(16 min)](https://youtu.be/PHG9E-ROFsQ)|[]()|[]()|
-|[9_Advanced_MR_Error_indices_Validation_Lecture(12 min)](https://youtu.be/AHUxDC0-YqA)|[]()|[]()|
-|[10_K-Folds_Demo(24 min)](https://youtu.be/L3y0PSY8BVE)|[]()|[]()|
+|[2 Derivation of MR Solution Part 2 (14 min)](https://youtu.be/-DHe8LWJMn8)|[2_handout_MR_derivation of equation.pdf ]()|[]()|
+|[3 Advanced_MR_Assumptions_Lecture (18 Min)](https://youtu.be/IESgNTI6Kf4)|[3_Advanced MR Assumptions Lecture.pdf ]()|[]()|
+|[4_Advanced_MR_test_assumptions_SAS(35 min)](https://youtu.be/pF42jDp04FQ)|[All Slides for Testing MR assumptions, influentials.pdf]()|[Cars_1993.sas7bdat]()|
+|[5_ADV MR_Influentials_Lecture (22 Min)](https://youtu.be/-DF0LB-MXDU)|[Read this to understand how we pick power series transformations to fix regression violations ]()|[Cars_1993.csv ]()|
+|[6_Advanced_MR_Influentails_SAS Demo(22 min)](https://youtu.be/rNGfpy9bE_I)|[]()|[Cross validation and Creating Error Indices.sas]()|
+|[7_Advanced_MR_PartialR_Lecture(16 min)](https://youtu.be/jjn7aI3-h2E)|[]()|[kfold cross validation.sas ]()|
+|[8_Advanced_MR_PartialR_SASDemo(16 min)](https://youtu.be/PHG9E-ROFsQ)|[]()|[merge residuals from two proc regs.sas]()|
+|[9_Advanced_MR_Error_indices_Validation_Lecture(12 min)](https://youtu.be/AHUxDC0-YqA)|[]()|[Splitting data at random.sas ]()|
+|[10_K-Folds_Demo(24 min)](https://youtu.be/L3y0PSY8BVE)|[]()|[Using SBC and Creating Error Indices.sas]()|
 
+Video.sas7bdat 
+
+Video.xlsx
+
+BAN5753_F21_Week3_Python Code.pdf
+
+BAN5753_F21_Week3_R_Code.pdf 
+
+Steps to Import Excel files in SAS on Demand for Academics-3.pdf 
+
+[Paper #1]() and [Paper #2]() for this week. 
+
+[summary of readings]()
+
+[assignment for this week]()
+
+[Week 2 Lab Slides]()
+
+[Week 2 Lab Recording]()
+
+[Solution to Assignment 2: Exercise 2 Solution]()
 
 ###  Module 3 (Sep 5 - Sep 11) (Cloud Computing Overview by Dr. Khots)
 
 |Video Lecture Name (total time 85 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[GCP Module 1- Part 1 (20 mins)](https://youtu.be/bpmZz2igTxg)|[]()|[]()|
+|[GCP Module 1- Part 1 (20 mins)](https://youtu.be/bpmZz2igTxg)|[Cloud Computing Overview ]()|[]()|
 |[GCP Module 1- Part 2 (30 mins)](https://youtu.be/--xamgX859k)|[]()|[]()|
 |[GCP Module 1- Part 3 (35 mins)](https://youtu.be/uCLnHRKpvx0)|[]()|[]()|
+
+[paper #1]() and [paper #2]() for this week. 
+
+[summary of readings]()
+
+[Your assignment for this week]()
+
 
 
 ### Module 4 (Sep. 12 - Sep. 18) (Introduction to GCP and Data Engineering by Dr. Khots)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[GCP Module 2- Part 1 (21 mins)](https://youtu.be/chXKsQxbjDI)|[]()|[]()|
+|[GCP Module 2- Part 1 (21 mins)](https://youtu.be/chXKsQxbjDI)|[GCP & Data Engineering Overview ]()|[]()|
 |[GCP Module 2- Part 2 (27 mins)](https://youtu.be/nm1coG_bFaw)|[]()|[]()|
+
+[paper] for this week. 
+
+[summary of readings]()
+
+[Your assignment for this week]()
+
+[Week 4 Lab Slides}()
+
+[Week 4 Lab Recording]()
 
 
 
@@ -67,8 +114,14 @@
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[GCP Module 3- Part 1 (21 mins)](https://youtu.be/yBvLdMAnHhQ)|[]()|[]()|
+|[GCP Module 3- Part 1 (21 mins)](https://youtu.be/yBvLdMAnHhQ)|[Data Viz. in GCP Overview]()|[]()|
 |[GCP Module 3- Part 2 (12 mins)](https://youtu.be/PL2ldf6sc5U)|[]()|[]()|
+
+[paper]() for this week. 
+
+[summary of readings]()
+
+[Your assignment for this week]()
 
 
 
