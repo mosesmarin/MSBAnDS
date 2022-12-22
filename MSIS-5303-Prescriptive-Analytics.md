@@ -1,5 +1,5 @@
 
-###  0 - Course Introduction and Course Repository 
+##  0 - Course Introduction and Course Repository 
 
 
 [0.1 - Start Here Video!!!]()
@@ -16,7 +16,7 @@ GS0
 
 GS1 
 
-### 1 - Module 3 - Introduction to Linear Programming
+## 1 - Module 3 - Introduction to Linear Programming
 
 
 1.1 - Introduction to Prescriptive Analytics/Linear Programming 
