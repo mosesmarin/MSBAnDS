@@ -38,7 +38,7 @@ GS1
 
 
 
-###  2 - Module 5 - Linear Programming Introduction - Advanced
+##  2 - Module 5 - Linear Programming Introduction - Advanced
 
 2.1 - Module 5 - LP Basics Part 2 
  
@@ -51,14 +51,14 @@ GS2
  
 
 
-###  Checkpoint 1 - Video and Questions 
+##  Checkpoint 1 - Video and Questions 
 
 CP1 
  
 CP1 Solution 
 
 
-### 3 - Module 6 - The Solver in EXCEL
+## 3 - Module 6 - The Solver in EXCEL
 
 3. 1 - Introduction to CP2 Material 
 
@@ -70,7 +70,7 @@ GS3
  
 3.4 - Solution - GS 3  
 
-###  4 - Module 8 - LP Modeling Applications - Part I
+##  4 - Module 8 - LP Modeling Applications - Part I
 
 4.1 - Module 8 - LEGO's Again!! - Basic 
 
@@ -88,7 +88,7 @@ GS4
 
 4.6 - Module 8 - Quiz Solution 
 
-###  5 - Module 9/10 - Integers and Blending Models - LP Part II
+##  5 - Module 9/10 - Integers and Blending Models - LP Part II
 
 5.1 - Module 9 - Finally! Integers. 
  
@@ -118,7 +118,7 @@ GS5
 
 
 
-### Checkpoint 2 Video and Questions
+## Checkpoint 2 Video and Questions
 
 CP2 
 
@@ -129,7 +129,7 @@ CP2 - Questions and Videos - Fall 2022
 CP2 Solutions  
 
 
-### 6 - Module 11 - Supply Chain Models Part I
+## 6 - Module 11 - Supply Chain Models Part I
 
 6.1 - Introduction to CP3 Material 
 
@@ -147,7 +147,7 @@ GS6
 
 
 
-###  7- Module 12 - Binary Variables (brief visit)
+##  7- Module 12 - Binary Variables (brief visit)
 
 7.1 - Module 12 Interlude - Binary Variables 
 
@@ -158,7 +158,7 @@ GS7
 7.3 - Module 12 - GS 7 Solution 
 
 
-### 8 - Module 11 - Supply Chain Models Part II
+## 8 - Module 11 - Supply Chain Models Part II
 
 8.1 - Module 11 - Transshipment Models 
 
@@ -171,7 +171,7 @@ GS8
 8.4 - Quiz Module 11 Solutions 
 
 
-###  Checkpoint 3 Videos and Questions
+##  Checkpoint 3 Videos and Questions
 
 CP3 
  
@@ -180,7 +180,7 @@ Checkpoint 3 Questions
 CP3 Solutions (no video) 
  
 
-###  9 - Module 12 - Binary (Zero/One) LP Applications 
+##  9 - Module 12 - Binary (Zero/One) LP Applications 
 
 9.1 - Introduction to CP4 Material 
 
@@ -193,7 +193,7 @@ Modified Practice Problem 9 here!!
 9.4 - Module 12 - Quiz Solutions 
 
 
-### 10 - Module 13 - Network LP Models - Basics
+## 10 - Module 13 - Network LP Models - Basics
 
 10.1 - Introduction to Generalized Networks (Module 13) 
 
@@ -218,7 +218,7 @@ GS10
 10.7 - Solutions to Gold Star 10 
 
 
-###  11 - Module 13 - Network Models - Part II - Advanced topics
+##  11 - Module 13 - Network Models - Part II - Advanced topics
 
 11.1 - "IF" - David Gates and Stan Lee 
 
@@ -229,7 +229,7 @@ GS10
 GS11  
 
 
-### Checkpoint 4 Video and Questions
+## Checkpoint 4 Video and Questions
 
 CP4 
  
