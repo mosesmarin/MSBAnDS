@@ -14,7 +14,7 @@
 [How to access SAS Studio.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/How%20to%20access%20SAS%20Studio-1.pdf)
 
 
-### Module 1 (Aug. 22 - Aug. 28) (Overview of Matrix Algebra, Eigen Values & Eigen Vectors)
+## Module 1 (Aug. 22 - Aug. 28) (Overview of Matrix Algebra, Eigen Values & Eigen Vectors)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -38,7 +38,7 @@
 
 
 
-###  Module 2 (Aug. 29 - Sep. 4) (Derivation of MR, MR Assumptions, MR Diagnostics)
+##  Module 2 (Aug. 29 - Sep. 4) (Derivation of MR, MR Assumptions, MR Diagnostics)
 
 |Video Lecture Name (total time 193 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -75,7 +75,7 @@ Steps to Import Excel files in SAS on Demand for Academics-3.pdf
 
 [Solution to Assignment 2: Exercise 2 Solution]()
 
-###  Module 3 (Sep 5 - Sep 11) (Cloud Computing Overview by Dr. Khots)
+##  Module 3 (Sep 5 - Sep 11) (Cloud Computing Overview by Dr. Khots)
 
 |Video Lecture Name (total time 85 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -91,7 +91,7 @@ Steps to Import Excel files in SAS on Demand for Academics-3.pdf
 
 
 
-### Module 4 (Sep. 12 - Sep. 18) (Introduction to GCP and Data Engineering by Dr. Khots)
+## Module 4 (Sep. 12 - Sep. 18) (Introduction to GCP and Data Engineering by Dr. Khots)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -110,7 +110,7 @@ Steps to Import Excel files in SAS on Demand for Academics-3.pdf
 
 
 
-### Module 5 (Sep 19 - Sep 25) (Data Visualization in GCP by Dr. Khots)
+## Module 5 (Sep 19 - Sep 25) (Data Visualization in GCP by Dr. Khots)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -128,7 +128,7 @@ Steps to Import Excel files in SAS on Demand for Academics-3.pdf
 [Week 5 Lab Recording]()
 
 
-### Module 6 (Sep. 26 - Oct. 2) (ML on GCP by Dr. Khots)
+## Module 6 (Sep. 26 - Oct. 2) (ML on GCP by Dr. Khots)
 
 |Video Lecture Name (total time 44 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -147,7 +147,7 @@ Paper:  Buy this case and prepare for class discussion. Follow this link (cost $
 
 
 
-### Module 7 (Oct 3 - Oct 12) (Mini Project 1 in GCP)
+## Module 7 (Oct 3 - Oct 12) (Mini Project 1 in GCP)
 
 [Mini Project 1]()
 
@@ -155,7 +155,7 @@ Paper:  Buy this case and prepare for class discussion. Follow this link (cost $
 
 
 
-###  Module 8 (Oct. 10 - Oct. 16) (Big Data and Spark Introduction)
+##  Module 8 (Oct. 10 - Oct. 16) (Big Data and Spark Introduction)
 
 |Video Lecture Name (total time 143 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -185,7 +185,7 @@ This weeks paper:  [Paper]()
 [Week 8 Lab Slides]()
 
 
-### Module 9 (Oct. 17 - Oct. 23) (Overview of Scala RDD)
+## Module 9 (Oct. 17 - Oct. 23) (Overview of Scala RDD)
 
 |Video Lecture Name (total time 73 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -215,7 +215,7 @@ This weeks paper:  [Paper]()
 
 
 
-### Module 10 (Oct. 24 - Oct. 30) (Spark DataFrames, Broadcast, Compressions, Partitions, Joins, Spark Submit)
+## Module 10 (Oct. 24 - Oct. 30) (Spark DataFrames, Broadcast, Compressions, Partitions, Joins, Spark Submit)
 
 |Video Lecture Name (total time 79 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -233,7 +233,7 @@ This weeks paper:  [Paper]()
 
 
 
-###  Module 11 (Oct. 31 - Nov. 6) (Spark Applications, MLIB, ML pipeline, GraphDB, Industry best practices, Performance tuning)
+##  Module 11 (Oct. 31 - Nov. 6) (Spark Applications, MLIB, ML pipeline, GraphDB, Industry best practices, Performance tuning)
 
 |Video Lecture Name (total time 98 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -254,7 +254,7 @@ This weeks paper:  [Paper]()
 
 
 
-###  Module 12 (Nov. 7 - Nov. 16) (Mini Project 2 in Spark)
+##  Module 12 (Nov. 7 - Nov. 16) (Mini Project 2 in Spark)
 
 [Mini Project 2]()
 
@@ -262,7 +262,7 @@ This weeks paper:  [Paper]()
 
 [BAN 5753_LabFall22_Week12.pptx]()
 
-### Module 13 (Nov 14 - Nov 20) (Variable reduction and variable selection, PCA, Variable Clustering)
+## Module 13 (Nov 14 - Nov 20) (Variable reduction and variable selection, PCA, Variable Clustering)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
@@ -288,7 +288,7 @@ Paper:  [paper]() for this week. 
 
 
 
-###  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
+##  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
 |Video Lecture Name (Total Time:85  mins) |	Lecture Slides and Notes 	| Data, SAS, R, Python Code Files|
 | ----------- | ----------- | ----------- | 
 |[W14_1_Lecture SVM Forest(27 Min).mp4](https://youtu.be/O1riMDSq-wk)|[1_Lecture SVM Forest.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/1_%20Lecture%20SVM%20Forest-2.pdf)|[pmad_pva.sas7bdat ](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/pmad_pva.sas7bdat)|
@@ -307,7 +307,7 @@ Submitted with grade 10 comments Good work. [Exercise13_SVM_BAN5753_F22-Moises.d
 
 [Lab Slides](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN%205753_LabFall22_Week14(1).pptx) [Lab video](https://youtu.be/Tl7zwdT55Oo)
 
-### Module 15 (Dec 5 - Dec 11) (Time series Advanced - ARMA Model, ARMAX)
+## Module 15 (Dec 5 - Dec 11) (Time series Advanced - ARMA Model, ARMAX)
 
 |Video Lecture Name (Total Time:120  mins) |	Lecture Slides and Notes 	| Data, SAS Code Files|Python & R Files|
 | ----------- | ----------- | ----------- | ----------- |
@@ -325,7 +325,7 @@ Assignment - Exercise 14 [Exercise ARMA_BAN5753.docx](https://github.com/mosesma
 
 [Lab Slides](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5753/BAN%205753_LabFall22_Week15_lastClass.pdf) [Lab Recording](https://youtu.be/ssyPtzrCT1c)
 
-### Time series Fundamental (preparatory for Adv Time Series)
+## Time series Fundamental (preparatory for Adv Time Series)
 
 |Video Lecture Name (Total Time:60  mins) |	Lecture Slides and Notes 	| Data, SAS, R, Python Code Files|
 | ----------- | ----------- | ----------- |
