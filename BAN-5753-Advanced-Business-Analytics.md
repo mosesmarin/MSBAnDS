@@ -123,90 +123,169 @@ Steps to Import Excel files in SAS on Demand for Academics-3.pdf
 
 [Your assignment for this week]()
 
+[Week 5 Lab Slides]()
+
+[Week 5 Lab Recording]()
 
 
 ### Module 6 (Sep. 26 - Oct. 2) (ML on GCP by Dr. Khots)
 
 |Video Lecture Name (total time 44 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[GCP Module 4- Part 1 (18 mins)](https://youtu.be/7TmIBegyufc)|[]()|[]()|
+|[GCP Module 4- Part 1 (18 mins)](https://youtu.be/7TmIBegyufc)|[ML on GCP Overview]()|[]()|
 |[GCP Module 4- Part 2 (26 mins)](https://youtu.be/0NMo9VXm8YA)|[]()|[]()|
+
+Paper:  Buy this case and prepare for class discussion. Follow this link (cost $4.25): https://hbsp.harvard.edu/import/974335
+
+[summary of readings]()
+
+[Your assignment for this week]()
+
+[Week 6 Lab slides()
+ 
+[Week 6 recording]()
 
 
 
 ### Module 7 (Oct 3 - Oct 12) (Mini Project 1 in GCP)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
-| ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+[Mini Project 1]()
+
+[Week 7 Lab recording]()
+
+
 
 ###  Module 8 (Oct. 10 - Oct. 16) (Big Data and Spark Introduction)
 
 |Video Lecture Name (total time 143 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[Spark Module 1 - Part 1 (33 mins)](https://youtu.be/1Dx7YfFoTt0)|[]()|[]()|
-|[Spark Module 1 - Part 2 (35 mins)](https://youtu.be/WOnVJps24N0)|[]()|[]()|
-|[Spark Module 1 - Part 3 (37 mins)](https://youtu.be/ood0Z8CAD4c)|[]()|[]()|
-|[Spark Module 1 - Part 4 (38 mins)](https://youtu.be/Tb5HyDy0Bls)|[]()|[]()|
+|[Spark Module 1 - Part 1 (33 mins)](https://youtu.be/1Dx7YfFoTt0)|[BAN5753_Spark_Week1_Intro to Big Data & Distributed Systems]()|[artist_gender.csv ]()|
+|[Spark Module 1 - Part 2 (35 mins)](https://youtu.be/WOnVJps24N0)|[BAN5753_Spark_Week1_Consensus,HDFS & Execution Engine ]()|[blogtexts]()|
+|[Spark Module 1 - Part 3 (37 mins)](https://youtu.be/ood0Z8CAD4c)|[BAN5753_Spark_Week1_Spark on Yarn, Architecture]()|[diabetes.csv ]()|
+|[Spark Module 1 - Part 4 (38 mins)](https://youtu.be/Tb5HyDy0Bls)|[BAN5753_Spark_Week1_Sessions,Memory Settings, Lab Setup ]()|[empty_lines.txt]()|
+
+[sample_libsvm_data.txt]()
+
+[sample_svm_data.txt]()
+
+[spotify.csv]()
+
+[spotify.json]()
+
+[test.csv]()
+
+[train.csv]()
+
+This weeks paper:  [Paper]()
+
+[summary of readings]()
+
+[Week 8 Lab Recording]()
+
+[Week 8 Lab Slides]()
+
 
 ### Module 9 (Oct. 17 - Oct. 23) (Overview of Scala RDD)
 
 |Video Lecture Name (total time 73 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[Spark Module 2 - Part 1 (16 mins)](https://youtu.be/B1pEUkyPiJE)|[]()|[]()|
-|[Spark Module 2 - Part 2 (15 mins)](https://youtu.be/8SVSQU-tmh8)|[]()|[]()|
-|[Spark Module 2 - Part 3 - 1 (17 mins)](https://youtu.be/qzx9p528_ik)|[]()|[]()|
-|[Spark Module 2 - Part 3 - 2 (6 mins)](https://youtu.be/16p5EDYRRQw)|[]()|[]()|
-|[Spark Module 2 - Part 4 (19 mins)](https://youtu.be/j52C71tEO6s)|[]()|[]()|
+|[Spark Module 2 - Part 1 (16 mins)](https://youtu.be/B1pEUkyPiJE)|[BAN5753_Spark_Week2_Part1_Spark WebUI & RDD Intro.pptx]()|[artist_gender.csv ]()|
+|[Spark Module 2 - Part 2 (15 mins)](https://youtu.be/8SVSQU-tmh8)|[BAN5753_Spark_Week2_Part2_SparkRDDOperations.pptx]()|[blogtexts]()|
+|[Spark Module 2 - Part 3 - 1 (17 mins)](https://youtu.be/qzx9p528_ik)|[BAN5753_Spark_Week2_Part3_Actions,Keypairs and Textual Operations.pptx ]()|[diabetes.csv]()|
+|[Spark Module 2 - Part 3 - 2 (6 mins)](https://youtu.be/16p5EDYRRQw)|[]()|[empty_lines.txt]()|
+|[Spark Module 2 - Part 4 (19 mins)](https://youtu.be/j52C71tEO6s)|[BAN5753_Spark_Week2_Part4_Lab_RDD Oper_Demo.pptx]()|[sample_libsvm_data.txt]()|
+
+[sample_svm_data.txt]()
+
+[spotify.csv]()
+
+[spotify.json]()
+
+[test.csv]()
+
+[train.csv]()
+
+[RDD Demo.ipynb]()
+
+[Your assignment for this week ]()
+
+[Lab Slides]()
+
+[Class Recording]()
+
+
 
 ### Module 10 (Oct. 24 - Oct. 30) (Spark DataFrames, Broadcast, Compressions, Partitions, Joins, Spark Submit)
 
 |Video Lecture Name (total time 79 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[Spark Module 3 - Part 1 (14 mins)](https://youtu.be/_2wOjIcoS3c)|[]()|[]()|
-|[Spark Module 3 - Part 2 -1 (20 mins)](https://youtu.be/hGW3GGs5LDE)|[]()|[]()|
-|[Spark Module 3 - Part 2 - 2 (13 mins)](https://youtu.be/opGFinFJdpE)|[]()|[]()|
+|[Spark Module 3 - Part 1 (14 mins)](https://youtu.be/_2wOjIcoS3c)|[BAN5753_Spark_Week3_Dataframes_1.pptx ]()|[Pyspark_SQL_DataFrames_Demo.ipyn]()|
+|[Spark Module 3 - Part 2 -1 (20 mins)](https://youtu.be/hGW3GGs5LDE)|[BAN5753_Spark_Week3_Dataframes_2.pptx]()|[employees.csv]()|
+|[Spark Module 3 - Part 2 - 2 (13 mins)](https://youtu.be/opGFinFJdpE)|[BAN5753_Spark_Week3_Dataframes_3.pptx]()|[]()|
 |[Spark Module 3 - Part 3 (8 mins)](https://youtu.be/PHq_Rd0B9Z4)|[]()|[]()|
 |[Spark Module 3 - Part 4 (24 mins)](https://youtu.be/YteuHRwePF0)|[]()|[]()|
+
+[Your assignment for this week]()
+
+[Lab Slides]()
+
+[Class Recording]()
+
 
 
 ###  Module 11 (Oct. 31 - Nov. 6) (Spark Applications, MLIB, ML pipeline, GraphDB, Industry best practices, Performance tuning)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
+|Video Lecture Name (total time 98 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[Spark Module 4 - Part 1 (16 mins)](https://youtu.be/nMCq_yZJoc4)|[]()|[]()|
-|[Spark Module 4 - Part 2 (14 mins)](https://youtu.be/5JzW8q8Ioi0)|[]()|[]()|
-|[Spark Module 4 - Part 3 (68 mins)](https://youtu.be/v-G1SOAuj9o)|[]()|[]()|
+|[Spark Module 4 - Part 1 (16 mins)](https://youtu.be/nMCq_yZJoc4)|[BAN5753_Spark_Week4_Dataframes_3.pptx]()|[ML_Pyspark_ML_Transformations_Classifications.ipynb]()|
+|[Spark Module 4 - Part 2 (14 mins)](https://youtu.be/5JzW8q8Ioi0)|[BAN5753_Spark_Week4_Dataframes_4.pptx]()|[Spark_Scala_MLIB_Pipeline.ipynb]()|
+|[Spark Module 4 - Part 3 (68 mins)](https://youtu.be/v-G1SOAuj9o)|[BAN5753_Spark_Week4_ML Pipeline_1.pptx]()|[diabetes.csv ]()|
+
+[BAN5753_Spark_Week4_ML Pipeline_2.pptx]()
+
+[Ntwk_Ads.csv]()
+
+[Your assignment for this week]()
+
+[Lab Slides]()
+
+[Lab Recording]()
+
 
 
 
 ###  Module 12 (Nov. 7 - Nov. 16) (Mini Project 2 in Spark)
 
-|Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
-| ----------- | ----------- | ----------- | 
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
-|[]()|[]()|[]()|
+[Mini Project 2]()
 
+[Module 12 Lab Video Fall-2022]()
+
+[BAN 5753_LabFall22_Week12.pptx]()
 
 ### Module 13 (Nov 14 - Nov 20) (Variable reduction and variable selection, PCA, Variable Clustering)
 
 |Video Lecture Name (total time 110 min) |	Lecture Slides and Notes |	Data, SAS, R, Python Code and other  Files|
 | ----------- | ----------- | ----------- | 
-|[1 Overview variable selection and reduction (11 min)](https://youtu.be/-gff8A7Z6Zk)|[]()|[]()|
-|[2 Lecture basics of PCA (23 min)](https://youtu.be/sMykMrSeE7k)|[]()|[]()|
-|[3 Lecture additional topics PCA (8 min)](https://youtu.be/cFevGgwaseU)|[]()|[]()|
-|[4 Demo PCA (19 min)](https://youtu.be/ZlM4r_Lz020)|[]()|[]()|
-|[5 Lecture variable clustering (13 min)](https://youtu.be/qz-98dUjGPw)|[]()|[]()|
-|[6 Demo variable cluster (15 min)](https://youtu.be/hfPfmcgcm40)|[]()|[]()|
+|[1 Overview variable selection and reduction (11 min)](https://youtu.be/-gff8A7Z6Zk)|[1 Overview variable selection and reduction.pdf ]()|[custsamp.sas7bdat ]()|
+|[2 Lecture basics of PCA (23 min)](https://youtu.be/sMykMrSeE7k)|[2 Lecture basics of PCA.pdf]()|[custsamp.csv]()|
+|[3 Lecture additional topics PCA (8 min)](https://youtu.be/cFevGgwaseU)|[3 Lecture additional topics PCA.pdf]()|[Data Description of CUSTSAMP.docx ]()|
+|[4 Demo PCA (19 min)](https://youtu.be/ZlM4r_Lz020)|[4 Demo PCA.pdf ]()|[Variable Selection PCA.xml ]()|
+|[5 Lecture variable clustering (13 min)](https://youtu.be/qz-98dUjGPw)|[5 Lecture Variable Clustering.pdf]()|[Revised_Python_Code_PCAandVarClus.pdf]()|
+|[6 Demo variable cluster (15 min)](https://youtu.be/hfPfmcgcm40)|[6 Demo Variable Cluster.pdf]()|[Revised_R_Code_PCAandVarClus.pdf]()|
+
+[PCA Variable Clustering All Slides.pdf]()
+
+Paper:  [paper]() for this week. 
+
+[summary of readings]()
+
+[Your assignment for this week]()
+
+[Lab Slides]()
+
+[Lab Recording]()
+
+
 
 
 ###  Module 14 (Nov 28 - Dec 4) (SVM, Random Forest, and Gradient Boosting)
