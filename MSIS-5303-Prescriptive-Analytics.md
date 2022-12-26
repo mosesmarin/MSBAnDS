@@ -40,6 +40,28 @@ Note: The specifics of the syllabus maybe somewhat different just due to length 
 
 0.4 - IMPORTANT VIEWING! - Other Course info - Schedule, Book, GS1 (Rick's Rules)
 
+BOOK  info- [link to book](https://github.com/mosesmarin/MSBAnDS/tree/main/MSIS-5303/book)
+
+From the publisher:    We have migrated our publishing platform over to a new server environment.  This new environment can be accessed at [www.grlcontent.come](www.grlcontent.come). I have attached the new registration instructions you can provide to your students. Please note that if students do end up going to [www.grtep.com](www.grtep.com) they will be re-directed to [www.grlcontent.com](www.grlcontent.com) to register.
+
+From Rick:  I'd buy access right from the publisher, then print out the pdf's. 
+
+
+
+Also, if you had to "W" the class previously, e-mail customer support and they will transfer your book 'membership' to the Summer section.  So you don't have to pay again for access. The quizzes will be reset too.
+
+Finally, a helpful file from the publisher right here Download here.   
+
+ 
+
+[Course map](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/coursemap2022fallmsis5303(1).xlsx) and [schedule](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/fall2022msis5303schedule(1).xlsx) files here.  No video - these are mentioned in the class kickoff video. 
+
+ 
+
+[Video  - "Rick's Rules"](https://youtu.be/ehuXsaZHbZs) - GS 1 info here too.  Note:  Don't worry about the actual Gibbs Rules - Rick's Rules are what we need to know! :).  
+
+
+
 GS1 
 
 ## 1 - Module 3 - Introduction to Linear Programming
