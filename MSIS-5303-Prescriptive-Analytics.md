@@ -2,15 +2,41 @@
 ##  0 - Course Introduction and Course Repository 
 
 
-[0.1 - Start Here Video!!!]()
+[0.1 - Start Here Video!!!](https://youtu.be/chb5THNfpwI)
+
+[slides](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/Fall%202022%20%20%E2%80%93%20MSIS%205303.pptx)
+
+[GS0](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/MSIS-5303-GS0%20(1).pdf)
 
 
-GS0 
+### 0.2 - Syllabus #1 - Gary Larson Introduces the class 
 
-0.2 - Syllabus #1 - Gary Larson Introduces the class 
+[Video #1]() -  Watch Gary Larson Introduce the class! (Even if Course "Syllabus" is old, still relevant)
 
-0.3 - Syllabus #2 - The Gory Details 
+[Syllabus #1](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/Syllabus-1-MSIS%205303syllabusgl2022Fall.pptx)
 
+[File: Story Problems Galore](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/story-problems-galore-day1inclassexercise2017s.docx)
+
+[Video #2](https://youtu.be/Cs7KI4I55o4) - The solution to the first problem! 
+
+Here are the  problems solved (no video for 2-5) 
+
+[File: Problem 1](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/solution-problem-1-firstsolutiontobigbook.pptx)
+
+[File: Problems 2-4](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/solutions-problems-2-4-solutionstobigbook%20(1).pptx)
+
+[File: Problem 5](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/Solution-problem-5-solutioncookies.pdf)
+
+
+### 0.3 - Syllabus #2 - The Gory Details 
+
+Video:  Syllabus #2.
+
+Note: The specifics of the syllabus maybe somewhat different just due to length of class, etc. (summer vs. normal semester)   The basic premise and set of deliverables are still the same.   Please look at the 'syllabus' page in Canvas for the gory details and schedule. 
+
+[Syllabus #2](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/syllabus-2-MSIS%205303%20Wilson%20Fall%202022.docx) - Fall 2022
+
+[Video](https://youtu.be/8w0-qps6pSY)
 
 0.4 - IMPORTANT VIEWING! - Other Course info - Schedule, Book, GS1 (Rick's Rules)
 
