@@ -61,16 +61,35 @@ Finally, a helpful file from the publisher right here Download here.
 [Video  - "Rick's Rules"](https://youtu.be/ehuXsaZHbZs) - GS 1 info here too.  Note:  Don't worry about the actual Gibbs Rules - Rick's Rules are what we need to know! :).  
 
 
-
-GS1 
-
 ## 1 - Module 3 - Introduction to Linear Programming
 
 
-1.1 - Introduction to Prescriptive Analytics/Linear Programming 
+### 1.1 - Introduction to Prescriptive Analytics/Linear Programming 
+
+Learning objectives for the entire semester (including CP1) [here](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/LearningObjectivesTotalMSIS5303.pptx) .  
+
+They will be repeated in the intro video for each CP section.  
+
+This is a [short video](https://youtu.be/ZoTdnujcEm4) "setting the stage" for Module 3 and CP1 material. 
  
-1.2 - Module 3 - Linear Programming Introduction 
-  
+ [Here are slides](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/Prescriptive%20Analytics%20%E2%80%93%20Linear%20programming%20Overview%20(1).pptx). 
+ 
+### 1.2 - Module 3 - Linear Programming Introduction 
+
+We have three parts to this page.  Problem Introduction, Problem Formulation, Problem Solution (Graphically) 
+
+We will be doing "algebra on steroids" - Linear Programming - The LEGO Furniture Problem I 
+
+[Part I - Problem Introduction ](https://youtu.be/pddJxAGfREI)
+
+Slides for video [here](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/kickoffLEGO%20Furniture%20production%20(4).pptx).  
+
+[Part II - Problem Formulation](https://youtu.be/yTFv-mCOOoU)
+
+[Part III - Problem Solution](https://youtu.be/gppZocvWeH8)
+
+
+
 1.3 - Module 3 - Practice Problems Solved (sheets) 
    
 1.4 - Module 3 - Practice Problems Solved (Video) 
