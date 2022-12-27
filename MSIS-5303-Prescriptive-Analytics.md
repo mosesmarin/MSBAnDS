@@ -90,15 +90,57 @@ Slides for video [here](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-530
 
 
 
-1.3 - Module 3 - Practice Problems Solved (sheets) 
-   
-1.4 - Module 3 - Practice Problems Solved (Video) 
+### 1.3 - Module 3 - Practice Problems Solved (sheets) 
 
-1.5 - Interlude - Module 4 - "More than a solution" - Prep for Quiz!! 
+[Problem 1 Model]()
 
-1.6 - Quiz Module 4 - Rough Draft Video 
+[Problem 1 Solution]()
+
+[Problem 2 Model]()
+
+[Problem 2 Solution]()
+
+[Problem 3 Solution]()
+
+[Problem 4 Solution]()
+
+
+### 1.4 - Module 3 - Practice Problems Solved (Video) 
+
+[Problem 1 - Model]()
+
+[Problem 1 - Solution]()
+
+[Problem 2 - Model]()
+
+[Problem 2 - Solution]()
+
+[Problem 3]()
+
+[Problem 4]()
+
+
+
+### 1.5 - Interlude - Module 4 - "More than a solution" - Prep for Quiz!! 
+
+Here is where we will spend a short amount of time with studying "More than a Solution". 
+
+Here's some music to set the stage: 
+
+https://youtu.be/oR4uKcvQbGQ
+
+(Had they not disbanded so long ago, I would have commissioned  them to alter the lyrics of their song to "More than a solution"). 
+
+And we will use Book Module 4 Quiz to help us out.    
+
+[Video helper]()
+
+Now, you can do Quiz Module 4 - you should have three tries to meet the magic number. 
+
+
+### 1.6 - Quiz Module 4 - Rough Draft Video 
  
- 
+A [quick video]() talking about Quiz 4.  This should help you if you had some struggles.  We just want to get a taste of the algebra implications and then move on to bigger and better things.   
 
 
 
@@ -107,7 +149,24 @@ Slides for video [here](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-530
 
 ##  2 - Module 5 - Linear Programming Introduction - Advanced
 
-2.1 - Module 5 - LP Basics Part 2 
+### 2.1 - Module 5 - LP Basics Part 2 
+
+[Problem Statement - Part 2]()
+
+[Video #1]() - LEGO Furniture Production - Part 2 - Ratio Constraints. 
+
+[Video Notes]()
+
+[Video #2]() - LEGO Production Part 2 - Solution 
+
+[Video Notes]()
+
+[Problem Statement - Part 3]()
+
+[Video #3]() - LEGO Furniture Production - Part 3
+
+[Video Notes Part 3. ]()
+
  
 2.2 - Module 5 - Practice Problems Solved 
 
