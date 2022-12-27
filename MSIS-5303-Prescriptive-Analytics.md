@@ -92,32 +92,32 @@ Slides for video [here](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-530
 
 ### 1.3 - Module 3 - Practice Problems Solved (sheets) 
 
-[Problem 1 Model]()
+[Problem 1 Model](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/problem-1-Muffins.jpeg)
 
-[Problem 1 Solution]()
+[Problem 1 Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/problem-1-Muffinssolved.jpeg)
 
-[Problem 2 Model]()
+[Problem 2 Model](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/problem-2-Norman.jpeg)
 
-[Problem 2 Solution]()
+[Problem 2 Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/problem-2-NormanSolved.jpeg)
 
-[Problem 3 Solution]()
+[Problem 3 Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/problem-3Mod3Prob3.jpeg)
 
-[Problem 4 Solution]()
+[Problem 4 Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/problem-4-Mod3Prob4.jpeg)
 
 
 ### 1.4 - Module 3 - Practice Problems Solved (Video) 
 
-[Problem 1 - Model]()
+[Problem 1 - Model](https://youtu.be/xmco4WknEcw)
 
-[Problem 1 - Solution]()
+[Problem 1 - Solution](https://youtu.be/NKJfmOP68ng)
 
-[Problem 2 - Model]()
+[Problem 2 - Model](https://youtu.be/1hYq_iQ3di0)
 
-[Problem 2 - Solution]()
+[Problem 2 - Solution](https://youtu.be/RS0KaiqNQcU)
 
-[Problem 3]()
+[Problem 3](https://youtu.be/IyaqTWjhoTU)
 
-[Problem 4]()
+[Problem 4](https://youtu.be/_ZTQ2yCHb1Q)
 
 
 
@@ -127,20 +127,20 @@ Here is where we will spend a short amount of time with studying "More than a So
 
 Here's some music to set the stage: 
 
-https://youtu.be/oR4uKcvQbGQ
+[https://youtu.be/oR4uKcvQbGQ](https://youtu.be/oR4uKcvQbGQ)
 
 (Had they not disbanded so long ago, I would have commissioned  them to alter the lyrics of their song to "More than a solution"). 
 
 And we will use Book Module 4 Quiz to help us out.    
 
-[Video helper]()
+[Video helper](https://youtu.be/bHWMWo7OxJg)
 
 Now, you can do Quiz Module 4 - you should have three tries to meet the magic number. 
 
 
 ### 1.6 - Quiz Module 4 - Rough Draft Video 
  
-A [quick video]() talking about Quiz 4.  This should help you if you had some struggles.  We just want to get a taste of the algebra implications and then move on to bigger and better things.   
+A [quick video](https://youtu.be/u8Vgn_izyWs) talking about Quiz 4.  This should help you if you had some struggles.  We just want to get a taste of the algebra implications and then move on to bigger and better things.   
 
 
 
@@ -151,29 +151,63 @@ A [quick video]() talking about Quiz 4.  This should help you if you had some st
 
 ### 2.1 - Module 5 - LP Basics Part 2 
 
-[Problem Statement - Part 2]()
+[Problem Statement - Part 2](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/legoproduct2016f2.pptx)
 
 [Video #1]() - LEGO Furniture Production - Part 2 - Ratio Constraints. 
 
-[Video Notes]()
+[Video Notes](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/LEGOP2Setup.pdf)
 
 [Video #2]() - LEGO Production Part 2 - Solution 
 
-[Video Notes]()
+[Video Notes](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/LEGOP2Solve-1.pdf)
 
-[Problem Statement - Part 3]()
+[Problem Statement - Part 3](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/legoproduct2016f2(2).pptx)
 
 [Video #3]() - LEGO Furniture Production - Part 3
 
 [Video Notes Part 3. ]()
 
  
-2.2 - Module 5 - Practice Problems Solved 
+### 2.2 - Module 5 - Practice Problems Solved 
 
-GS2 
+Specific video for #1, #2 and #4.  Solutions for #5, #6. 
 
- 2.3 - GS 2 Solutions 
- 
+[Problem #1 sheet](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/2.2-problem-1-MOD5PP1.pdf)
+
+[Video #1](https://youtu.be/GU8pjR0pAP0)
+
+[Problem #2 sheet](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/MOD5PP2.pdf)
+
+[Video #2](https://youtu.be/2sNOh0z93mo)
+
+[Problem #4 sheet](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/MOD5PP4.pdf) 
+
+[Video #4](https://youtu.be/IMo4d_4iT08)
+
+[Solutions 5-6](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/solutions-5-6-Lasttwographsmod5%20(1).pdf)
+
+
+
+
+### GS2 
+
+Complete the  McAlister's Deli problem shown [here](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/Gold%20Star2(2).pdf) and place answers (graph, algebra, model)  in dropbox. 
+
+[submission](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/Gold%20Star2-Moises-Marin-1.pdf)
+
+Grade: 13.5 (15 pts possible)
+
+Comments:
+2a, 2c,2e incorrect 
+
+
+### 2.3 - GS 2 Solutions 
+
+[Notes 1 2](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/GS2solution.pdf)
+
+[Video #1](https://youtu.be/QPd0W39JTLQ)
+
+[Video #2](https://youtu.be/_PCsf1KMFCw)
  
 
 
