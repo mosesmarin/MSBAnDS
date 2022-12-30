@@ -286,7 +286,7 @@ EXTRA - A taxonomy of modeling concepts - 10 minutes of your life that may be he
 
 CP2 - Questions and Videos - Fall 2022 
  
-CP2 Solutions  
+CP2 Solutions  https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/CP2-MOISES-MARIN-v2.xlsx
 
 
 ## 6 - Module 11 - Supply Chain Models Part I
@@ -338,6 +338,8 @@ CP3
 Checkpoint 3 Questions 
  
 CP3 Solutions (no video) 
+
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/CP3-MOISES-MARIN-v3.xlsx
  
 
 ##  9 - Module 12 - Binary (Zero/One) LP Applications 
@@ -397,7 +399,7 @@ CP4 Questions - Updated 12/4
  
 CP4 Solutions - Fall 2022  
 
-
+https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5303/CP4%20-%20Moises%20Marin.xlsx
 
 
 
