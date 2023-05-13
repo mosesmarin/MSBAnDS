@@ -166,7 +166,7 @@ Department/School: Mgmt Sci & Info Sys
 
 
 
-### BAN 5763 Advanced Marketing Research Analytics
+### [BAN 5763 Advanced Marketing Research Analytics](https://github.com/mosesmarin/MSBAnDS/blob/main/BAN-5763-Advanced-Marketing-Research-Analytics.md)
 
 Prerequisites: BAN 5753 or consent by instructor.
 
@@ -188,7 +188,7 @@ Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
 
 
 
-### MSIS 5713 Scripting Essentials
+### [MSIS 5713 Scripting Essentials](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713-Scripting-Essentials.md)
 
 Description: Application of scripting languages (e.g. BASH, PowerShell, Python) for general business, data and information assurance solutions. May not be used for degree credit with MSIS 4713.
 
