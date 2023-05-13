@@ -158,24 +158,241 @@ Submit the  Module 3 Assignment - by Feb 8
 Submit the  Module 3 Readings - by Feb 5
 
 
-
-
-
 ## Module 4 (Feb 7- Feb 13) (Conjoint Analysis)
+
+By the end of this module, you should be able to...
+
+            Understand the Conjoint Analysis (CA)
+            Implement Conjoint analysis in Jmp
+
+
+W4.1_Introduction to Conjoint (12 Min)
+
+W4.2_Basics of Conjoint (18 Min)
+
+W4.3_Creating Ratings Conjoint (17 Min)
+
+W4.4_Analyzing Ratings Conjoint (22 Min)
+
+W4.5_Choice Conjoint (16 Min)
+
+W4.1_Introduction to Conjoint.pdf Download W4.1_Introduction to Conjoint.pdf
+
+W4.2_Basics of Conjoint.pdf Download W4.2_Basics of Conjoint.pdf
+
+W4.3_Creating Ratings Conjoint.pdf Download W4.3_Creating Ratings Conjoint.pdf
+
+W4.4_Analyzing Ratings Conjoint.pdf Download W4.4_Analyzing Ratings Conjoint.pdf
+
+W4.5_Creating and Analyzing Choice Conjoint.pdf Download W4.5_Creating and Analyzing Choice Conjoint.pdf
+
+All_Airline_Ratings_2020.jmp Download All_Airline_Ratings_2020.jmp
+
+Design_Airline_Ratings_2020.jmp Download Design_Airline_Ratings_2020.jmp
+
+Design_Airlines_Choice.jmp Download Design_Airlines_Choice.jmp
+
+GC_Airline_Ratings_2020.jmp Download GC_Airline_Ratings_2020.jmp
+
+GC5_Airline_Choices.jmp Download GC5_Airline_Choices.jmp
+
+GC_Airline_Choice.jmp Download GC_Airline_Choice.jmp
+
+Design_Airlines_Choice.jmp Download Design_Airlines_Choice.jmp
+
+Paper:  Understanding Consumers' Preferences for Dental Service.pdf Download Understanding Consumers' Preferences for Dental Service.pdf
+
+Readings: How Consumers Choose Health Insurance.pdf Download How Consumers Choose Health Insurance.pdf
+
+Submit the Individual Exercise 4 
+
+Submitthe  Module 4 Readings
+
+Submitthe  Module 4
+
+Zoom Recording: Recording
+
 
 
 
 ## Module 5 (Feb 13-Feb 20) (Anomaly Detection Basics)
 
+By the end of this module, you should be able to...
+
+                Introduction to Anomaly Detection: Theory and Applications (guest faculty: Anvesh Reddy)
+
+
+W5.1 P1 Anomaly Detection (7 mins)
+
+W5.2 P2 Anomaly Detection: Probabilistic (15 mins)
+
+W5.3 P3 Anomaly Detection: Linear Proximity (10 mins)
+
+W5.4 P4 Anomaly Detection: Outlier Ensembles (9 mins)
+
+W5.5 P5 Anomaly Detection: Neural Networks (9 mins)
+
+Anomaly_Detection.pdf Download Anomaly_Detection.pdf
+
+Paper1: Anomaly Detection Redaing_Coupla based Outlier detection.pdf
+
+Paper2: Anomaly Detection Redaing_Support Vector Method.pdf
+
+Submit the  Week 5 Readings Summary
+
+Zoom Recording : Recording Link
+
+
+
+
 ## Module 6 (Feb 20-Feb 27) (Anomaly Detection Advanced)
 
-## Module 7 (Feb 27-Mar 6) (Causal Inference and Modelling)
+By the end of this module, you should be able to...
+
+                Advanced topics in Anomaly Detection: Theory and Applications (guest faculty: Anvesh Reddy)
+
+
+W6.1 Intro to Adv. Anomaly Detection (7 mins)
+
+W6.2 Outlier Detection Techniques (40 mins)
+
+W6.3 T-SNE and UMAP Visualization (57 mins)
+
+W6.4 PyCaret Demo (22 mins)
+
+W6.5 PyCaret Demo 2 (27 mins)
+
+W6.6 PyOD Package (34 mins)
+
+Anomaly_Detection_Advanced.pdf Download Anomaly_Detection_Advanced.pdf
+
+Introduction_PCA_t-sne_umap.ipynb Download Introduction_PCA_t-sne_umap.ipynb
+
+Anomalydetection_PyCaret_exploration.ipynb Download Anomalydetection_PyCaret_exploration.ipynb
+
+Pycaret_Anomaly_Detection_LOF.ipynb Download Pycaret_Anomaly_Detection_LOF.ipynb
+
+Custom Detector_Ensembles.ipynb Download Custom Detector_Ensembles.ipynb
+
+PyOD_Demonstration_Anomaly_Models.ipynb Download PyOD_Demonstration_Anomaly_Models.ipynb
+
+glass_composition.csv Download glass_composition.csv
+
+Outlier_Detection_Univariate&Multivariate.ipynb Download Outlier_Detection_Univariate&Multivariate.ipynb
+
+
+
+
 
 ## Module 8 (Mar 6-Mar 13) (Introduction to marketing optimization)
 
+By the end of this module, you should be able to...
+
+                Introduction to marketing optimization (guest faculty: Atul Thate)
+
+W8.1 - Intro to Business Optimization (7 mins)
+
+W8.2 - Course contents and structure (4 mins)
+
+W8.3 - Additional resources (5 mins)
+
+W8.4 - Burrito Optimization - Intro (6 mins)
+
+W8.5 - Burrito optimization - dealing with uncertainty (7 mins)
+
+W8.6 - Burrito optimization - Intro to optimization (7 mins)
+
+W8.7 - Burrito optimization - Mathematical notation (5 mins)
+
+W8.8 - Burrito optimization - types of optimization problems (6 mins)
+
+0 -Course Introduction.pptx Download 0 -Course Introduction.pptx
+
+burrito-game-slide.pptx Download burrito-game-slide.pptx
+
+Submit  Exercise 8- by Mar 12 11.59PM
+
+Zoom Recording Links to an external site.
+
+
 ## Module 9 (Mar 20-Mar 27) (Linear Programming)
 
+By the end of this module, you should be able to...
+
+                Advanced topics in Optimization: Linear Programming (guest faculty: Atul Thate)
+
+
+W9 2.1.1 Diet Problem- Intro
+
+W9 2.1.2 Diet Problem- Simple Math Formulation
+
+W9 2.1.3 Diet Problem- Simple gurobi formulation
+
+W9 2.1.4 Diet Problem- Analysis of a Simple Problem
+
+W9 2.2.1 Diet Problem- Multiple Objectives
+
+W9 2.2.2 Diet Problem-Soft Constraints
+
+W9 2.2.3 Diet Problem- Bigger Data
+
+W9 2.3.1 Factory Planning 1- Intro
+
+W9 2.3.2 Factory Planning- Parameters and Decision Variables
+
+W9 2.4.1 How LPs work under the hood
+
+W9 2.4.2 Duality
+
+The Diet Problem v2.pptx Download The Diet Problem v2.pptx
+
+The math you need to know.pptx Download The math you need to know.pptx
+
+Marketing optimization - duality and post-optimality sensitivity analysis.pptx Download Marketing optimization - duality and post-optimality sensitivity analysis.pptx
+
+diet - minimize carbs and maximize protein.ipynb Download diet - minimize carbs and maximize protein.ipynb
+
+diet - soft constraints for budget overrun.ipynb Download diet - soft constraints for budget overrun.ipynb
+
+diet-integer.ipynb Download diet-integer.ipynb
+
+diet-multidict.ipynb Download diet-multidict.ipynb
+
+diet.ipynb Download diet.ipynb
+
+diet2.ipynb Download diet2.ipynb
+
+diet3.ipynb Download diet3.ipynb
+
+diet4.ipynb Download diet4.ipynb
+
+diet5.ipynb Download diet5.ipynb
+
+factory_planning_1_gcl.ipynb Download factory_planning_1_gcl.ipynb
+
+factory_planning_1.ipynb Download factory_planning_1.ipynb
+
+factory_planning_2_gcl.ipynb Download factory_planning_2_gcl.ipynb
+
+factory_planning_2.ipynb Download factory_planning_2.ipynb
+
+factory-planning-1-output.sol Download factory-planning-1-output.sol
+
+README.md 
+
+Paper1: Reading For Optimization Module 2.docx Download Reading For Optimization Module 2.docx
+
+Submit  Exercise 9- by Mar 29 11.59PM
+
+Submit the  Week 9 Readings Summary
+
+Zoom Recording Links to an external site.
+
+
+
 ## Module 9 (Mar 27-Apr 3) (Integer Programming)
+
+
 
 ## Module 11 (Mar 3-Apr 10) (Non Linear Programming)
 
