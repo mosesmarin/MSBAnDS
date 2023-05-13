@@ -166,6 +166,47 @@ Department/School: Mgmt Sci & Info Sys
 
 
 
+### BAN 5763 Advanced Marketing Research Analytics
+
+Prerequisites: BAN 5753 or consent by instructor.
+
+Description: Learn how to properly use various multivariate data analysis techniques including multiple regression, MANOVA, Discriminant analysis, Clustering, MDS and Conjoint Analysis. Students may not take both MKTG 6413 and BAN 5763 for degree credit.
+
+Credit hours: 3
+
+Contact hours: Lecture: 2 Lab: 2 Contact: 4
+
+Levels: Graduate
+
+Schedule types: Lab, Lecture, Combined lecture and lab
+
+Department/School: Marketing
+
+Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
+
+
+
+
+
+### MSIS 5713 Scripting Essentials
+
+Description: Application of scripting languages (e.g. BASH, PowerShell, Python) for general business, data and information assurance solutions. May not be used for degree credit with MSIS 4713.
+
+Credit hours: 3
+
+Contact hours: Lecture: 3 Contact: 3
+
+Levels: Graduate
+
+Schedule types: Lecture
+
+Department/School: Mgmt Sci & Info Sys
+
+Additional Fees: Business Graduate Program fee of $6 per credit hour applies.
+
+
+
+
 ---
 
 The waiver link for insurance https://okstate.forms-db.com/view.php?id=631188
