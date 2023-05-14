@@ -1,15 +1,7 @@
 
-Information on everything about the class is in the syllabus
+Information on everything about the class is in the [syllabus](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/MSIS%205713%20Spring%202023%20Syllabus%20Online.pdf).
 
-Download syllabus.
-
-The Spring Syllabus Attachment
-
-Download Spring Syllabus Attachment provides a quick look at things like drop dates, conflicting exam times, etc.
-
-Check the "Announcements" link on the left for updated news about clubs, internships, MIS events, etc.
-
-Clicking on "Modules" to the left will give you access to the weekly material. 
+The [Spring Syllabus Attachment](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Spring%202023%20Syllabus%20Attachment-12%201%202022.pdf) provides a quick look at things like drop dates, conflicting exam times, etc.
 
 Email me at jim.burkman@okstate.edu with any questions.
 
@@ -19,11 +11,11 @@ There are several helpful tutorials on how to use Canvas available here:  https:
 
 ## Course Essentials
 
-Jim's View of Programming (WATCH THIS) 1 of 2 
+[Jim's View of Programming (WATCH THIS) 1 of 2](https://youtu.be/qBCAs8lpJls)
  
-Jim's View of Programming (WATCH THIS) 2 of 2 
+[Jim's View of Programming (WATCH THIS) 2 of 2](https://youtu.be/p3BP5MZ_zro)
   
-Automate-the-Boring-Stuff-with-Python.pdf 
+[Automate-the-Boring-Stuff-with-Python.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Automate-the-Boring-Stuff-with-Python_compressed.pdf)
    
 Other Helpful Resources 
 
@@ -31,11 +23,13 @@ Other Helpful Resources
 
  Mod 00 - Course Overview 
  
- Mod 00 Course Overview (Lecture) 2 of 3 
- 
-  Mod 00 Course Overview (Lecture) 3 of 3 
+[Mod 00 Course Overview (Lecture) 1 of 3](https://youtu.be/N5t5M0-RqfQ)
   
-   Mod 00 Course Overview (PowerPoint).pptx 
+[Mod 00 Course Overview (Lecture) 2 of 3](https://youtu.be/Sm5TprARp4U)
+ 
+[Mod 00 Course Overview (Lecture) 3 of 3](https://youtu.be/aoasEmHLqHo)
+  
+[Mod 00 Course Overview (PowerPoint).pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2000%20Course%20Overview%20(PowerPoint).pdf)
    
  
 ##  Week 1 Thursday (1/19) Course Material
