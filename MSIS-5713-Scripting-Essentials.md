@@ -111,499 +111,446 @@ Mod 02 - Assignments
 
 [Mod 02 Homework Output Video ](https://youtu.be/aKE-fLc20NM)
 
-Week 3 Tuesday (1/31) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 3 Tuesday (1/31) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 3 Thursday (2/2) Course Material
 
 Week 3 Thursday (2/2) Course Material
 
 Mod 02 - Solutions
 
-Mod 02 Homework Review (Lecture) 1 of 2
+[Mod 02 Homework Review (Lecture) 1 of 2]()
 
-Mod 02 Homework Review (Lecture) 2 of 2
+[Mod 02 Homework Review (Lecture) 2 of 2]()
 
-Mod 02 Python Lists & Advanced Flow Control Homework Solution.py
+[Mod 02 Python Lists & Advanced Flow Control Homework Solution.py]()
 
-Mod 02 Python Lists & Advanced Flow Control Tutorial Solution.py
+[Mod 02 Python Lists & Advanced Flow Control Tutorial Solution.py]()
 
 Mod 03 - Python Strings
 
-Mod 03 - Python Strings (Lecture) 1 of 5
+[Mod 03 - Python Strings (Lecture) 1 of 5]()
 
-Mod 03 - Python Strings (Lecture) 2 of 5
+[Mod 03 - Python Strings (Lecture) 2 of 5]()
 
-Mod 03 - Python Strings (Lecture) 3 of 5
+[Mod 03 - Python Strings (Lecture) 3 of 5]()
 
-Mod 03 - Python Strings (Lecture) 4 of 5
+[Mod 03 - Python Strings (Lecture) 4 of 5]()
 
-Mod 03 - Python Strings (Lecture) 5 of 5
+[Mod 03 - Python Strings (Lecture) 5 of 5]()
 
-Mod 03 Python Strings (PowerPoint).pptx
+[Mod 03 Python Strings (PowerPoint).pptx]()
 
 Mod 03 - Assignments
 
-Mod 03 Python Strings Tutorial
+[Mod 03 Python Strings Tutorial]()
 
-Mod 03 Python Strings Homework
+[Mod 03 Python Strings Homework]()
 
-Week 4 Tuesday (2/7) Optional Evening Zoom Lab (Details in Syllabus)
 
-Week 4 Tuesday (2/7) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 4 Thursday (2/9) Course Material
 
 Week 4 Thursday (2/9) Course Material
 
 Mod 03 - Solutions
 
-Mod 03 Homework Review (Lecture) 1 of 3
+[Mod 03 Homework Review (Lecture) 1 of 3]()
 
-Mod 03 Homework Review (Lecture) 2 of 3
+[Mod 03 Homework Review (Lecture) 2 of 3]()
 
-Mod 03 Homework Review (Lecture) 3 of 3
+[Mod 03 Homework Review (Lecture) 3 of 3]()
 
-Mod 03 Python Strings Tutorial Solution.py
+[Mod 03 Python Strings Tutorial Solution.py]()
 
-Mod 03 Python Strings Homework Solution.py
+[Mod 03 Python Strings Homework Solution.py]()
+
 
 Mod 04 - Python Files and Directories
 
-Mod 04 - Python Files and Directories (Lecture) 1 of 6
+[Mod 04 - Python Files and Directories (Lecture) 1 of 6]()
 
-Mod 04 - Python Files and Directories (Lecture) 2 of 6
+[Mod 04 - Python Files and Directories (Lecture) 2 of 6]()
 
-Mod 04 - Python Files and Directories (Lecture) 3 of 6
+[Mod 04 - Python Files and Directories (Lecture) 3 of 6]()
 
-Mod 04 - Python Files and Directories (Lecture) 4 of 6
+[Mod 04 - Python Files and Directories (Lecture) 4 of 6]()
 
-Mod 04 - Python Files and Directories (Lecture) 5 of 6
+[Mod 04 - Python Files and Directories (Lecture) 5 of 6]()
 
-Mod 04 - Python Files and Directories (Lecture) 6 of 6
+[Mod 04 - Python Files and Directories (Lecture) 6 of 6]()
 
-Mod 04 Python Files and Directories Lecture.pptx
+[Mod 04 Python Files and Directories Lecture.pptx]()
 
 Mod 04 - Assignments
 
-Mod 04 Python Files and Directories Tutorial
+ [Mod 04 Python Files and Directories Tutorial]()
 
-Mod 04 Python Files and Directories Homework
+[Mod 04 Python Files and Directories Homework]()
 
-Week 5 Tuesday (2/14) Optional Evening Zoom Lab (Details in Syllabus)
 
-Week 5 Tuesday (2/14) Optional Evening Zoom Lab (Details in Syllabus)
 
 Week 5 Thursday (2/16) Project 1
 
-Week 5 Thursday (2/16) Project 1
+[Project 1 S23]()
 
-Project 1 S23
+[Project 1 Demo (Video)]()
 
-Project 1 Demo (Video)
-
-Project 1 Demo in IDLE (Video)
+[Project 1 Demo in IDLE (Video)]()
 
 Mod 04 - Solutions
 
-Mod 04 Homework Review (Lecture) 1 of 2
+[Mod 04 Homework Review (Lecture) 1 of 2]()
 
-Mod 04 Homework Review (Lecture) 2 of 2
+[Mod 04 Homework Review (Lecture) 2 of 2]()
 
-Mod 04 Python Files and Directories Tutorial Solution.py
+[Mod 04 Python Files and Directories Tutorial Solution.py]()
 
-Mod 04 Python Files and Directories Homework Solution.py
+[Mod 04 Python Files and Directories Homework Solution.py]()
 
-Week 6 Tuesday (2/21) Optional Evening Zoom Lab (Details in Syllabus)
 
-Week 6 Tuesday (2/21) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 6 Thursday (2/23) Course Material
 
 Week 6 Thursday (2/23) Course Material
 
 
 OpenSUSE
 
-OpenSUSE Intro (Video) *WATCH FIRST*
+[OpenSUSE Intro (Video) *WATCH FIRST*]()
 
 Mod 05 - BASH Flow Control
 
-Mod 05 - BASH Flow Control (Lecture) 1 of 5
+[Mod 05 - BASH Flow Control (Lecture) 1 of 5]()
 
-Mod 05 - BASH Flow Control (Lecture) 2 of 5
+[Mod 05 - BASH Flow Control (Lecture) 2 of 5]()
 
-Mod 05 - BASH Flow Control (Lecture) 3 of 5
+[Mod 05 - BASH Flow Control (Lecture) 3 of 5]()
 
-Mod 05 - BASH Flow Control (Lecture) 4 of 5
+[Mod 05 - BASH Flow Control (Lecture) 4 of 5]()
 
-Mod 05 - BASH Flow Control (Lecture) 5 of 5
+[Mod 05 - BASH Flow Control (Lecture) 5 of 5]()
 
-Mod 05 BASH Flow Control Lecture.pptx
+[Mod 05 BASH Flow Control Lecture.pptx]()
 
 Mod 05 - Assignments
 
 Mod 05 Tutorial
 
-Mod 05 - BASH Flow Control Tutorial (Lecture) 1 of 6
+[Mod 05 - BASH Flow Control Tutorial (Lecture) 1 of 6]()
 
-Mod 05 - BASH Flow Control Tutorial (Lecture) 2 of 6
+[Mod 05 - BASH Flow Control Tutorial (Lecture) 2 of 6]()
 
-Mod 05 - BASH Flow Control Tutorial (Lecture) 3 of 6
+[Mod 05 - BASH Flow Control Tutorial (Lecture) 3 of 6]()
 
-Mod 05 - BASH Flow Control Tutorial (Lecture) 4 of 6
+[Mod 05 - BASH Flow Control Tutorial (Lecture) 4 of 6]()
 
-Mod 05 - BASH Flow Control Tutorial (Lecture) 5 of 6
+[Mod 05 - BASH Flow Control Tutorial (Lecture) 5 of 6]()
 
-Mod 05 - BASH Flow Control Tutorial (Lecture) 6 of 6
+[Mod 05 - BASH Flow Control Tutorial (Lecture) 6 of 6]()
 
-Mod 05 BASH Flow Control Tutorial
+[Mod 05 BASH Flow Control Tutorial]()
 
 Mod 05 Homework
 
-Mod 05 BASH Flow Control Homework
+[Mod 05 BASH Flow Control Homework]()
 
-Mod 05 - BASH Flow Control Homework Demo (Video) 1 of 1
+[Mod 05 - BASH Flow Control Homework Demo (Video) 1 of 1]()
 
-Week 6 Tuesday (2/28) Optional Evening Zoom Lab (Details in Syllabus)
 
-Week 6 Tuesday (2/28) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 7 Thursday (3/2) Course Material
 
 Week 7 Thursday (3/2) Course Material
 
 Mod 05 Assignment Solutions
 
-Mod 05 Homework Review (Lecture) 1 of 1
+[Mod 05 Homework Review (Lecture) 1 of 1]()
 
-Mod 05 BASH Flow Control Tutorial Solution.sh
+[Mod 05 BASH Flow Control Tutorial Solution.sh]()
 
-Mod_05_BASH_Flow_Control_Homework_Solution.sh
+[Mod_05_BASH_Flow_Control_Homework_Solution.sh]()
 
 Mod 06 BASH Arrays and Advanced Flow Control
 
-Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 1 of 4
+[Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 1 of 4]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 2 of 4
+[Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 2 of 4]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 3 of 4
+[Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 3 of 4]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 4 of 4
+[Mod 06 - BASH Arrays and Advanced Flow Control (Lecture) 4 of 4]()
 
-Mod 06 BASH Arrays & Advanced Flow Control Lecture.pptx
+[Mod 06 BASH Arrays & Advanced Flow Control Lecture.pptx]()
 
 Mod 06 Assignments
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 1 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 1 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 2 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 2 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 3 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 3 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 4 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 4 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 5 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 5 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 6 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 6 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 7 of 7
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial (Lecture) 7 of 7]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Tutorial
+[Mod 06 - BASH Arrays and Advanced Flow Control Tutorial]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Homework
+[Mod 06 - BASH Arrays and Advanced Flow Control Homework]()
 
-Mod 06 - BASH Arrays and Advanced Flow Control Homework (Demo) 1 of 1
+[Mod 06 - BASH Arrays and Advanced Flow Control Homework (Demo) 1 of 1]()
 
-Week 8 Tuesday (3/7) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 8 Tuesday (3/7) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 8 Thursday (3/9) Course Material
 
 Week 8 Thursday (3/9) Course Material
 
 Homework Review
 
-Mod 06 Homework Review (1 of 1)
+[Mod 06 Homework Review (1 of 1)]()
 
-Mod 06 BASH Arrays & Advanced Flow Control Homework Solution.sh
+[Mod 06 BASH Arrays & Advanced Flow Control Homework Solution.sh]()
 
-Mod 06 BASH Arrays & Advanced Flow Control Tutorial Solution.sh
+[Mod 06 BASH Arrays & Advanced Flow Control Tutorial Solution.sh]()
 
 Mod 07 BASH Strings
 
-Mod 07 - BASH Strings (Lecture) 1 of 5
+[Mod 07 - BASH Strings (Lecture) 1 of 5]()
 
-Mod 07 - BASH Strings (Lecture) 2 of 5
+[Mod 07 - BASH Strings (Lecture) 2 of 5]()
 
-Mod 07 - BASH Strings (Lecture) 3 of 5
+[Mod 07 - BASH Strings (Lecture) 3 of 5]()
 
-Mod 07 - BASH Strings (Lecture) 4 of 5
+[Mod 07 - BASH Strings (Lecture) 4 of 5]()
 
-Mod 07 - BASH Strings (Lecture) 5 of 5
+[Mod 07 - BASH Strings (Lecture) 5 of 5]()
 
-Mod 07 BASH Strings Lecture.pptx
+[Mod 07 BASH Strings Lecture.pptx]()
 
 Assignments
 
-Mod 07 - BASH Strings Tutorial (Lecture) 1 of 5
+[Mod 07 - BASH Strings Tutorial (Lecture) 1 of 5]()
 
-Mod 07 - BASH Strings Tutorial (Lecture) 2 of 5
+[Mod 07 - BASH Strings Tutorial (Lecture) 2 of 5]()
 
-Mod 07 - BASH Strings Tutorial (Lecture) 3 of 5
+[Mod 07 - BASH Strings Tutorial (Lecture) 3 of 5]()
 
-Mod 07 - BASH Strings Tutorial (Lecture) 4 of 5
+[Mod 07 - BASH Strings Tutorial (Lecture) 4 of 5]()
 
-Mod 07 - BASH Strings Tutorial (Lecture) 5 of 5
+[Mod 07 - BASH Strings Tutorial (Lecture) 5 of 5]()
 
-Mod 07 - BASH Strings Tutorial
+[Mod 07 - BASH Strings Tutorial]()
 
-Mod 07 - BASH Strings Homework
+[Mod 07 - BASH Strings Homework]()
 
-Mod 07 - BASH Strings Homework (Demo) 1 of 1
-
-Week 9 SPRING BREAK
+[Mod 07 - BASH Strings Homework (Demo) 1 of 1]()
 
 Week 9 SPRING BREAK
 
-Week 10 Tuesday (3/20) Optional Evening Zoom Lab (Details in Syllabus)
 
-Week 10 Tuesday (3/20) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 10 Thursday (3/23) Lecture Material
-
-Week 10 Thursday (3/23) Lecture Material
+[Week 10 Thursday (3/23) Lecture Material]()
 
 
 Homework Review
 
-Mod 07 Homework Review (1 of 1)
+[Mod 07 Homework Review (1 of 1)]()
 
-Mod 07 BASH Strings Homework Solution.sh
+[Mod 07 BASH Strings Homework Solution.sh]()
 
-Mod 07 BASH Strings Tutorial Solution.sh
+[Mod 07 BASH Strings Tutorial Solution.sh]()
 
 Mod 09 BASH Files and Directories
 
-Mod 08 - BASH Files and Directories (Lecture) 1 of 3
+[Mod 08 - BASH Files and Directories (Lecture) 1 of 3]()
 
-Mod 08 - BASH Files and Directories (Lecture) 2 of 3
+[Mod 08 - BASH Files and Directories (Lecture) 2 of 3]()
 
-Mod 08 - BASH Files and Directories (Lecture) 3 of 3
+[Mod 08 - BASH Files and Directories (Lecture) 3 of 3]()
 
-Mod 08 BASH Files and Directories.pptx
+[Mod 08 BASH Files and Directories.pptx]()
 
 Assignments
 
-Mod 08 - BASH Files and Directories Tutorial (Lecture) 1 of 5
+[Mod 08 - BASH Files and Directories Tutorial (Lecture) 1 of 5]()
 
-Mod 08 - BASH Files and Directories Tutorial (Lecture) 2 of 5
+[Mod 08 - BASH Files and Directories Tutorial (Lecture) 2 of 5]()
 
-Mod 08 - BASH Files and Directories Tutorial (Lecture) 3 of 5
+[Mod 08 - BASH Files and Directories Tutorial (Lecture) 3 of 5]()
 
-Mod 08 - BASH Files and Directories Tutorial (Lecture) 4 of 5
+[Mod 08 - BASH Files and Directories Tutorial (Lecture) 4 of 5]()
 
-Mod 08 - BASH Files and Directories Tutorial (Lecture) 5 of 5
+[Mod 08 - BASH Files and Directories Tutorial (Lecture) 5 of 5]()
 
-Mod 08 - BASH Files and Directories Tutorial
+[Mod 08 - BASH Files and Directories Tutorial]()
 
-Mod 08 - BASH Files and Directories Homework
+[Mod 08 - BASH Files and Directories Homework]()
 
-Week 11 Monday (3/27) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 11 Monday (3/27) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 11 Thursday (3/30) Project 2
 
 Week 11 Thursday (3/30) Project 2
 
 
-Revisiting CUT
+[Revisiting CUT]()
 
-Scripting Project 2 S23.docx
+[Scripting Project 2 S23.docx]()
 
-Project 2 Demo Video
+[Project 2 Demo Video]()
 
-Project 1 Solution
+[Project 1 Solution]()
 
 Homework Review
 
-Mod 08 Homework Review (Lecture) 1 of 1
+[Mod 08 Homework Review (Lecture) 1 of 1]()
 
-Mod 08 BASH Files and Directories Homework Solution.sh
+[Mod 08 BASH Files and Directories Homework Solution.sh]()
 
-Mod 08 BASH Files and Directories Tutorial Solution.sh
+[Mod 08 BASH Files and Directories Tutorial Solution.sh]()
 
-Week 12 Monday (4/3) Optional Evening Zoom Lab (Details in Syllabus)
-Week 12 Monday (4/3) Optional Evening Zoom Lab (Details in Syllabus)
-
-Week 12 Thursday (4/6) Course Material
 Week 12 Thursday (4/6) Course Material
 
 
 Mod 09 PowerShell Flow Control
 
-Mod 09 - PowerShell Flow Control (Lecture) 1 of 4
+[Mod 09 - PowerShell Flow Control (Lecture) 1 of 4]()
 
-Mod 09 - PowerShell Flow Control (Lecture) 2 of 4
+[Mod 09 - PowerShell Flow Control (Lecture) 2 of 4]()
 
-Mod 09 - PowerShell Flow Control (Lecture) 3 of 4
+[Mod 09 - PowerShell Flow Control (Lecture) 3 of 4]()
 
-Mod 09 - PowerShell Flow Control (Lecture) 4 of 4
+[Mod 09 - PowerShell Flow Control (Lecture) 4 of 4]()
 
-Mod 09 PowerShell Flow Control (Powerpoint).pptx
+[Mod 09 PowerShell Flow Control (Powerpoint).pptx]()
 
 Assignments
 
-Mod 09 - PowerShell Flow Control Tutorial (Lecture) 1 of 3
+[Mod 09 - PowerShell Flow Control Tutorial (Lecture) 1 of 3]()
 
-Mod 09 - PowerShell Flow Control Tutorial (Lecture) 2 of 3
+[Mod 09 - PowerShell Flow Control Tutorial (Lecture) 2 of 3]()
 
-Mod 09 - PowerShell Flow Control Tutorial (Lecture) 3 of 3
+[Mod 09 - PowerShell Flow Control Tutorial (Lecture) 3 of 3]()
 
-Mod 09 PowerShell Flow Control Tutorial
+[Mod 09 PowerShell Flow Control Tutorial]()
 
-Mod 09 PowerShell Flow Control Homework
+[Mod 09 PowerShell Flow Control Homework]()
 
-Mod 09 PowerShell Flow Control Homework (Demo) 1 of 1
+[Mod 09 PowerShell Flow Control Homework (Demo) 1 of 1]()
 
-Week 13 Monday (4/10) Optional Evening Zoom Lab (Details in Syllabus)
-Week 13 Monday (4/10) Optional Evening Zoom Lab (Details in Syllabus)
 
-Week 13 Thursday (4/13) Course Material
 Week 13 Thursday (4/13) Course Material
 
 
 Homework Review
 
-Mod 09 Homework Review (Lecture) 1 of 1
+[Mod 09 Homework Review (Lecture) 1 of 1]()
 
-Mod 09 PowerShell Homework Solution.ps1
+[Mod 09 PowerShell Homework Solution.ps1]()
 
-Mod 09 PowerShell Tutorial Solution.ps1
+[Mod 09 PowerShell Tutorial Solution.ps1]()
 
-Mod 10 PowerShell Arrays and Advanced Flow Control
+[Mod 10 PowerShell Arrays and Advanced Flow Control]()
 
-Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 1 of 4
+[Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 1 of 4]()
 
-Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 2 of 4
+[Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 2 of 4]()
 
-Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 3 of 4
+[Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 3 of 4]()
 
-Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 4 of 4
+[Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 4 of 4]()
 
-Mod 10 PowerShell Lists & Advanced Flow Control Lecture.pptx
+[Mod 10 PowerShell Lists & Advanced Flow Control Lecture.pptx]()
 
 Assignments
 
-Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 1 of 6
+[Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 1 of 6](https://youtu.be/vngI3ckPGTI)
 
-Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 2 of 6
+[Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 2 of 6](https://youtu.be/oviS1c3WKjE)
 
-Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 3 of 6
+[Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 3 of 6](https://youtu.be/4YtH3Jc6GU4)
 
-Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 4 of 6
+[Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 4 of 6](https://youtu.be/LWam4ZQBuuA)
 
-Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 5 of 6
+[Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 5 of 6](https://youtu.be/MckTquhPkus)
 
-Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 6 of 6
+[Mod 10 - PowerShell Array & Advanced Flow Control Tutorial (Lecture) 6 of 6](https://youtu.be/m5JNMD_zUCE)
 
-Mod 10 PowerShell Arrays & Advanced Flow Control Tutorial
+[Mod 10 PowerShell Arrays & Advanced Flow Control Tutorial](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2010%20PowerShell%20Arrays%20%26%20Advanced%20Flow%20Control%20Tutorial(1).pdf)
 
-Mod 10 PowerShell Arrays & Advanced Flow Control Homework
+[Mod 10 PowerShell Arrays & Advanced Flow Control Homework](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2010%20PowerShell%20Lists%20%26%20Advanced%20Flow%20Control%20Homework(3).pdf)
 
-
-Mod 10 PowerShell Arrays & Advance Flow Control Homework (Demo) 1 of 1
+[Mod 10 PowerShell Arrays & Advance Flow Control Homework (Demo) 1 of 1](https://youtu.be/rdF_63uuNZY)
 
 Week 14 Thursday (4/20) Course Content
-Week 14 Thursday (4/20) Course Content
-
 
 Homework Review
 
-Mod 10 PowerShell Homework Review (Lecture) 1 of 1
+[Mod 10 PowerShell Homework Review (Lecture) 1 of 1](https://youtu.be/yCOnpFaoGs8)
 
-Mod 10 PowerShell Tutorial Solution.ps1
+[Mod 10 PowerShell Tutorial Solution.ps1](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2010%20PowerShell%20Tutorial%20Solution.pdf)
 
-Mod 10 PowerShell Homework Solution.ps1
+[Mod 10 PowerShell Homework Solution.ps1](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2010%20PowerShell%20Homework%20Solution.pdf)
 
 Scoping Revisited
 
-Scoping.pptx
+[Scoping.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Scoping(1).pdf)
 
-Scoping (Lecture) 1 of 2
+[Scoping (Lecture) 1 of 2](https://youtu.be/WBMI7xQ4Q14)
 
 Mod 11 PowerShell Strings
 
-Mod 11 PowerShell Strings (Lecture) 1 of 2
+[Mod 11 PowerShell Strings (Lecture) 1 of 2](https://youtu.be/hJnl0-_9JPM)
 
-Mod 11 PowerShell Strings (Lecture) 2 of 2
+[Mod 11 PowerShell Strings (Lecture) 2 of 2](https://youtu.be/k-KdmnvbPlk)
 
-Mod 11 PowerShell Strings.pptx
+[Mod 11 PowerShell Strings.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2011%20PowerShell%20Strings(1).pdf)
 
 Assignments
 
-Mod 11 PowerShell Strings Tutorial
+[Mod 11 PowerShell Strings Tutorial](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2011%20PowerShell%20Strings%20Tutorial(1).pdf)
 
-Mod 11 PowerShell Strings Tutorial (Lecture) 1 of 3
+[Mod 11 PowerShell Strings Tutorial (Lecture) 1 of 3](https://youtu.be/VxpDB5tGftI)
 
-Mod 11 PowerShell Strings Tutorial (Lecture) 2 of 3
+[Mod 11 PowerShell Strings Tutorial (Lecture) 2 of 3](https://youtu.be/-75rfCssGqc)
 
-Mod 11 PowerShell Strings Tutorial (Lecture) 3 of 3
+[Mod 11 PowerShell Strings Tutorial (Lecture) 3 of 3](https://youtu.be/aFv3zG06Z90)
 
-Mod 11 PowerShell Strings Homework
+[Mod 11 PowerShell Strings Homework](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2011%20PowerShell%20Strings%20Homework(1).pdf)
 
-Mod 11 PowerShell Strings Homework (Demo) 1 of 1
+[Mod 11 PowerShell Strings Homework (Demo) 1 of 1](https://youtu.be/UwktRxBx7dg)
 
 Week 15 Thursday (4/27) Course Content
-Week 15 Thursday (4/27) Course Content
-
 
 Homework Review
 
-Mod 11 PowerShell String Homework Solution.ps1
+[Mod 11 PowerShell String Homework Solution.ps1](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2011%20PowerShell%20String%20Homework%20Solution.pdf)
 
-Mod 11 PowerShell Strings Tutorial Solution.ps1
+[Mod 11 PowerShell Strings Tutorial Solution.ps1](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2011%20PowerShell%20Strings%20Tutorial%20Solution.pdf)
 
-Mod 11 PowerShell String Homework Review (Lecture) 1 of 1
+[Mod 11 PowerShell String Homework Review (Lecture) 1 of 1](https://youtu.be/MHje3elOTI0)
 
 Mod 12 Files and Directories
 
-Mod 12 PowerShell Files and Directories (Lecture) 1 of 3
+[Mod 12 PowerShell Files and Directories (Lecture) 1 of 3](https://youtu.be/QhlMbPUoqEc)
 
-Mod 12 PowerShell Files and Directories (Lecture) 2 of 3
+[Mod 12 PowerShell Files and Directories (Lecture) 2 of 3](https://youtu.be/h9jNcNPPg-s)
 
-Mod 12 PowerShell Files and Directories (Lecture) 3 of 3
+[Mod 12 PowerShell Files and Directories (Lecture) 3 of 3](https://youtu.be/9MTf8r9MK_0)
 
-Mod 12 PowerShell Files and Directories (Lecture).pptx
+[Mod 12 PowerShell Files and Directories (Lecture).pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2012%20PowerShell%20Files%20and%20Directories%20(Lecture)(1).pdf)
 
 Assignments
 
-Mod 12 PowerShell Files and Directories Tutorial (Lecture) 1 of 4
+[Mod 12 PowerShell Files and Directories Tutorial (Lecture) 1 of 4](https://youtu.be/n3n9yQxJDuA)
 
-Mod 12 PowerShell Files and Directories Tutorial (Lecture) 2 of 4
+[Mod 12 PowerShell Files and Directories Tutorial (Lecture) 2 of 4](https://youtu.be/uU320iedP4M)
 
-Mod 12 PowerShell Files and Directories Tutorial (Lecture) 3 of 4
+[Mod 12 PowerShell Files and Directories Tutorial (Lecture) 3 of 4](https://youtu.be/_wjHaBZnnG8)
 
-Mod 12 PowerShell Files and Directories Tutorial (Lecture) 4 of 4
+[Mod 12 PowerShell Files and Directories Tutorial (Lecture) 4 of 4](https://youtu.be/AU7FL8Fsix4)
 
-Mod 12 PowerShell Files and Directories Tutorial638449
+[Mod 12 PowerShell Files and Directories Tutorial](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2012%20PowerShell%20Files%20and%20Directories%20Tutorial.pdf)
 
-Mod 12 PowerShell Files and Directories Homework
+[Mod 12 PowerShell Files and Directories Homework](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2012%20PowerShell%20Files%20and%20Directories%20Homework(1).pdf)
 
-IMPORTANT! Class bonus opportunity - SIS Completion ENDS 5/5/2023
-IMPORTANT! Class bonus opportunity - SIS Completion ENDS 5/5/2023
-Week 16 Thursday (5/4) Project 3
 Week 16 Thursday (5/4) Project 3
 
-Project 3
+[Project 3](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Scripting%20Project%203%20S23(1).pdf)
 
+[Project 3 Demo (Video)](https://youtu.be/S8B2RHVz_n4)
 
-Project 3 Demo (Video)
-
-Project 2 Solution
+[Project 2 Solution](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/p2.pdf)
 
 
 
