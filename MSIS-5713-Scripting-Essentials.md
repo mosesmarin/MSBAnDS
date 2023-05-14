@@ -85,21 +85,21 @@ Mod 01 Solutions
 
 Mod 02 - Lists and Advanced Flow Control
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 1 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 1 of 7](https://youtu.be/fEVRYvRi-3I)
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 2 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 2 of 7](https://youtu.be/p6eTLGHxSWM)
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 3 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 3 of 7](https://youtu.be/GI2BdAKHrIQ)
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 4 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 4 of 7](https://youtu.be/LTkr5LmaLgk)
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 5 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 5 of 7](https://youtu.be/GnJ-SD2OFCc)
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 6 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 6 of 7](https://youtu.be/JvSmsza4-Z4)
 
-Mod 02 - Lists and Advanced Flow Control (Lecture) 7 of 7
+[Mod 02 - Lists and Advanced Flow Control (Lecture) 7 of 7](https://youtu.be/5OXQYKvZOFA)
 
-Mod 02 Python Lists & Advanced Flow Control Lecture.pptx
+[Mod 02 Python Lists & Advanced Flow Control Lecture.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2002%20Python%20Lists%20%26%20Advanced%20Flow%20Control%20Lecture(1).pdf)
 
 Mod 02 - Assignments
 
