@@ -103,9 +103,13 @@ Mod 02 - Lists and Advanced Flow Control
 
 Mod 02 - Assignments
 
-Mod 02 Python Lists and Advanced Flow Control Tutorial
+[Mod 02 Python Lists and Advanced Flow Control Tutorial](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2002%20Python%20Lists%20%26%20Advanced%20Flow%20Control%20Tutorial(2).pdf)
 
-Mod 02 Python Lists and Advanced Flow Control Homework
+[Mod 02 Tutorial Output Video ](https://youtu.be/VExMRoCmPvg)
+
+[Mod 02 Python Lists and Advanced Flow Control Homework](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2002%20Python%20Lists%20%26%20Advanced%20Flow%20Control%20Homework(1).pdf)
+
+[Mod 02 Homework Output Video ](https://youtu.be/aKE-fLc20NM)
 
 Week 3 Tuesday (1/31) Optional Evening Zoom Lab (Details in Syllabus)
 
