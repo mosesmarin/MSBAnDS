@@ -45,21 +45,21 @@ Other Helpful Resources
  
  Mod 01 - Python Flow Control 
  
-  Mod 01 Python Flow Control (Lecture) 1 of 7 
+  [Mod 01 Python Flow Control (Lecture) 1 of 7](https://youtu.be/kMXDBIcgpkY)
   
-   Mod 01 Python Flow Control (Lecture) 2 of 7 
+   [Mod 01 Python Flow Control (Lecture) 2 of 7](https://youtu.be/Z80wCQ0W7uc) 
    
- Mod 01 Python Flow Control (Lecture) 3 of 7 
+ [Mod 01 Python Flow Control (Lecture) 3 of 7 ](https://youtu.be/Ad1IjvDJIQg)
  
-  Mod 01 Python Flow Control (Lecture) 4 of 7 
+  [Mod 01 Python Flow Control (Lecture) 4 of 7 ](https://youtu.be/s6Nms_UOvbo)
   
-   Mod 01 Python Flow Control (Lecture) 5 of 7 
+   [Mod 01 Python Flow Control (Lecture) 5 of 7 ](https://youtu.be/fKWij9u6C14)
    
-  Mod 01 Python Flow Control (Lecture) 6 of 7 
+  [Mod 01 Python Flow Control (Lecture) 6 of 7 ](https://youtu.be/x1F3Yj8ASis)
  
-  Mod 01 Python Flow Control (Lecture) 7 of 7 
+  [Mod 01 Python Flow Control (Lecture) 7 of 7 ](https://youtu.be/9OyLXeagPbI)
   
-   Mod 01 Python Flow Control (PowerPoint).pptx 
+   [Mod 01 Python Flow Control (PowerPoint).pptx ](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2001%20Python%20Flow%20Control%20(PowerPoint).pdf)
    
 Mod 01 Python Flow Control Tutorial 
     
