@@ -392,16 +392,238 @@ Zoom Recording Links to an external site.
 
 ## Module 9 (Mar 27-Apr 3) (Integer Programming)
 
+By the end of this module, you should be able to...
+
+                Advanced topics in Optimization: Integer Programming (guest faculty: Atul Thate)
+
+
+W10 3.1 - Introduction to integer programming - Diet problem
+
+W10 3.2 - types of IPs
+
+W10 3.3 - branch and bound
+
+W10 3.4 - Case study_ Equipment Manufacturing - Problem statement
+
+W10 3.5 - Case study_ Equipment Manufacturing - modeling fixed costs using binary variables
+
+W10 3.6 - Case study_ Equipment Manufacturing - Gurobi code
+
+W10 3.7 - modeling logical constraints using integer variables
+
+W10 3.8 - Case study_ music recommendation
+
+W10 3.9 - Case study_ customer assignment
+
+W10 3.10 - Network flow_ Intro
+
+W10 3.11 - Case study_ network flow models
+
+7 - Marketing optimization - Integer and mixed-integer programming.pptx Download 7 - Marketing optimization - Integer and mixed-integer programming.pptx
+
+customer_assignment.ipynb Download customer_assignment.ipynb
+
+artist_data.csv Download artist_data.csv
+
+user_playlist_data.csv Download user_playlist_data.csv
+
+music_recommendation.ipynb Download music_recommendation.ipynb
+
+EquipmentManufacturing.ipynb Download EquipmentManufacturing.ipynb
+
+Untitled.ipynb Download Untitled.ipynb
+
+supply_network_design_1.ipynb Download supply_network_design_1.ipynb
+
+supply_network_design_2.ipynb Download supply_network_design_2.ipynb
+
+summary of readings (i.e. your understanding).
+
+Paper1: Reading_Module3.pdf
+
+Submit  Exercise 10- by Apr 5 11.59PM
+
+Submitthe  Week 10 Readings Summary
+
+Lab recording Zoom Link Links to an external site.
+
 
 
 ## Module 11 (Mar 3-Apr 10) (Non Linear Programming)
 
+By the end of this module, you should be able to...
+
+                Advanced topics in Optimization: Duality and Non Linear Programming (guest faculty: Atul Thate)
+
+
+W 11 4.1 - How optimization models work
+
+W 11 4.2 - Intro to NLP
+
+W 11 4.3 - Math of NLP
+
+W11 4.4 - Trivial NLP case study
+
+W11 4.5 - Case study_ Agricultural pricing - Problem statement
+
+W 11 4.6 - Case study_ Agricultural pricing - Model formulation (part 1)
+
+W11 4.7 - Case study_ Agricultural pricing - Model formulation (part 2)
+
+3 - The math you need to know.pptx Download 3 - The math you need to know.pptx
+
+6 - Marketing optimization - duality and post-optimality sensitivity analysis.pptx Download 6 - Marketing optimization - duality and post-optimality sensitivity analysis.pptx
+
+8 - Marketing optimization - NonLinear programming.pptx Download 8 - Marketing optimization - NonLinear programming.pptx
+
+agricultural_pricing_gcl.ipynb Download agricultural_pricing_gcl.ipynb
+
+AgriculturalPricing.lp Download AgriculturalPricing.lp
+
+HABdata_2019_2022.csv Download HABdata_2019_2022.csv
+
+kaggledata_till2018.csv Download kaggledata_till2018.csv
+
+price_optimization_gcl.ipynb Download price_optimization_gcl.ipynb
+
+TrivialPriceOptimization.ipynb Download TrivialPriceOptimization.ipynb
+
+summary of readings (i.e. your understanding).
+
+ Paper1: Reading_Module4.pdf
+
+Submitthe  Week 11 Readings Summary
+
+Submitthe  Exercise 11
+
+Lab Slides: BAN5763_Week12.pptx
+
+Lab Recording: Zoom Recording
+
+
+
 ## Module 12 (optimization group exercise) April 10-April 17
+
+
+Please follow instructions provided in the word document:
+
+Week 5 Final Group Assignment.docx
+
+Impact of Discount on customer lifetime.xlsx
+
+
 
 ## Module 13 (Apr 17-Apr 24) (Customer Lifetime Value Basics Lecture)
 
+By the end of this module, you should be able to...
+
+                Understand basic concepts in Customer Lifetime Value topic
+
+W12-CLV-1.1 (17 mins)
+
+W12-CLV-1.2 (19 mins)
+
+W12-CLV-1.3 (14 mins)
+
+W12-CLV-1.4 (11 mins)
+
+W12-CLV-1.5 (15 mins)
+
+W12-CLV-1.6 (10 mins)
+
+CLV_lecture1.1pptx.pdf Download CLV_lecture1.1pptx.pdf
+
+CLV_lecture1.2pptx.pdf Download CLV_lecture1.2pptx.pdf
+
+CLV_lecture1.3pptx.pdf Download CLV_lecture1.3pptx.pdf
+
+CLV_lecture1.4pptx.pdf Download CLV_lecture1.4pptx.pdf
+
+CLV_lecture1.5pptx.pdf Download CLV_lecture1.5pptx.pdf
+
+CLV_lecture1.6pptx.pdf Download CLV_lecture1.6pptx.pdf
+
+LTV calculation for a cohort of customers.xlsx Download LTV calculation for a cohort of customers.xlsx
+
+summary of readings (i.e. your understanding).
+
+Paper 1:  CLV reading1.pdf
+
+Paper 2: CLV reading2.pdf
+
+Submit Reading Summary
+
+
+
 ## Module 14 (Apr 23-May 1) (Customer Lifetime Value with demos)
+
+By the end of this module, you should be able to...
+
+                Understand basic concepts in Customer Lifetime Value topic
+
+
+W 13 CLV 2.1 Business Case and Data Prep (6 Mins)
+
+W 13 CLV 2.2 Data Prep Python (14 Mins)
+
+W13 CLV 2.3 Demo Churn Model Python (18 mins)
+
+W13 CLV2.4 Demo Margin Model Python (15 mins)
+
+W13 CLV 2.5 Putting it all together (21 Mins)
+
+W13 CLV 2.6 CLV Calculations Demo (9 mins)
+
+CLV_Putting it all together.pdf Download CLV_Putting it all together.pdf
+
+CLV_Business Case and Data Prep.pdf Download CLV_Business Case and Data Prep.pdf
+
+CLV_Calculations.ipynb 
+
+CLV_Churn_Modeling.ipynb 
+
+CLV_Data_Prep.ipynb 
+
+CLV_Margin_Modeling.ipynb 
+
+churn_data.csv 
+
+margin_data.csv 
+
+Lab Slides: BAN5763_LastWeek.pdf Download BAN5763_LastWeek.pdf
+
+Zoom Link:Zoom Recording Links to an external site.
+
 
 ## CLV Group Exercise (Due May 1)
 
+Please perform CLV analysis on the following dataset and present your findings in a report:
+
+BAN 5763 CLV Group Exercise.docx Download BAN 5763 CLV Group Exercise.docx
+
+data_dictionary.xlsx Download data_dictionary.xlsx
+
+demog_pmm_data.csv Download demog_pmm_data.csv
+
+TP_churn_data.csv Download TP_churn_data.csv
+
+TP_demog_data.csv Download TP_demog_data.csv
+
+TP_margin_data.csv Download TP_margin_data.csv
+
+
 ## Term Project Report (Due May 8)
+
+
+Please submit the term project report based on the following rubric on one of the team member's account:
+
+group-project-evaluation-rubric-v1.1.pdf
+
+
+
+
+
+
+
+
+
