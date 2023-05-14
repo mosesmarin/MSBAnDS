@@ -36,17 +36,20 @@
 | MSIS 5683 Big Data Analytics Technologies  |     |
 | MSIS 5713 Scripting Essentials  |  <ul><li>[x] </li></ul>    |
 
-|Cybersecurity Analytics (12 hours)| Checked |
+|Marketing Analytics Option (12 hours)| Checked |
 | ----------- | ----------- |
-|Required Core (6 hrs)|
-|MSIS 5213 Information Assurance Management||
-|MSIS 5713 Scripting Essentials|
-|Electives (6 hrs)|
-|MSIS 5243 Information Technology Forensics|
-|MSIS 5713 Scripting Essentials| |
-|MSIS 5663 Data Warehousing|
-
-
+|Required Core (6 hrs)||
+|BAN 5763 Advanced Marketing Research Analytics|<ul><li>[x] </li></ul>|
+|MMKTG 5253 Advanced SAS Programming||
+|Electives (6 hrs)||
+|BAN 5511 Web Analytics and Digital Marketing||
+|BAN 5521 Geographical Information System (GIS) Applications in Marketing| |
+|BAN 5551 Optimization Applications in Marketing||
+|BAN 5561 Customer Lifetime Value Applications in Marketing||
+|BAN 5563 Strategic Marketing and Business Analytics||
+|MKTG 5133 Marketing Management||
+|ACCT 5183 MBA Financial Reporting||
+|Other graduate-level courses as approved by the program director||
 
 
 
