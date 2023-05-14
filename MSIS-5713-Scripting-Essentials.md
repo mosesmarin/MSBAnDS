@@ -18,6 +18,16 @@ There are several helpful tutorials on how to use Canvas available here:  https:
 [Automate-the-Boring-Stuff-with-Python.pdf](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Automate-the-Boring-Stuff-with-Python_compressed.pdf)
    
 Other Helpful Resources 
+* Here's a mix of resources that I find helpful with programming.  Check out the two edx courses as well.  If you have a resource that you think should be on here please let me know.
+
+https://learntocodewith.me/posts/algorithmic-thinking/
+Links to an external site.
+https://www.reddit.com/r/learnprogramming/ Links to an external site.
+https://www.reddit.com/r/learnpython Links to an external site.
+https://www.reddit.com/r/bash/ Links to an external site.
+https://www.reddit.com/r/PowerShell/ Links to an external site.
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x Links to an external site.
+https://www.edx.org/course/introduction-to-linux 
 
 ##  Week 1 Tuesday (1/17) Lecture Material 
 
