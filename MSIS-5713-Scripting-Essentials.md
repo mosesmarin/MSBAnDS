@@ -61,9 +61,9 @@ Other Helpful Resources
   
    [Mod 01 Python Flow Control (PowerPoint).pptx ](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2001%20Python%20Flow%20Control%20(PowerPoint).pdf)
    
-Mod 01 Python Flow Control Tutorial 
+[Mod 01 Python Flow Control Tutorial] (https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2001%20Python%20Flow%20Control%20Tutorial(2).pdf)
     
- Mod 01 Python Flow Control Homework 
+ [Mod 01 Python Flow Control Homework ](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2001%20Python%20Flow%20Control%20Homework(1).pdf)
  
 
 Week 2 Thursday (1/20) Course Material
@@ -71,17 +71,17 @@ Week 2 Thursday (1/20) Course Material
 
 Mod 01 Solutions
 
-Mod 01 Homework Review (Lecture) 1 of 4
+[Mod 01 Homework Review (Lecture) 1 of 4](https://youtu.be/A7yeSVo_syc)
 
-Mod 01 Homework Review (Lecture) 2 of 4
+[Mod 01 Homework Review (Lecture) 2 of 4](https://youtu.be/0M-br3f_31c)
 
-Mod 01 Homework Review (Lecture) 3 of 4
+[Mod 01 Homework Review (Lecture) 3 of 4](https://youtu.be/Sn2qNvKU9Y0)
 
-Mod 01 Homework Review (Lecture) 4 of 4
+[Mod 01 Homework Review (Lecture) 4 of 4](https://youtu.be/B8-I2IXmxYc)
 
-Mod 01 Python Flow Control Tutorial Solution.py
+[Mod 01 Python Flow Control Tutorial Solution.py](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2001%20Python%20Flow%20Control%20Tutorial%20Solution.pdf)
 
-Mod 01 Python Flow Control Homework Solution.py
+[Mod 01 Python Flow Control Homework Solution.py](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2001%20Python%20Flow%20Control%20Homework%20Solution.pdf)
 
 Mod 02 - Lists and Advanced Flow Control
 
