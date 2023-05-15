@@ -440,7 +440,7 @@ Homework Review
 
 [Mod 09 PowerShell Tutorial Solution.ps1]()
 
-[Mod 10 PowerShell Arrays and Advanced Flow Control]()
+Mod 10 PowerShell Arrays and Advanced Flow Control
 
 [Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 1 of 4]()
 
@@ -450,7 +450,7 @@ Homework Review
 
 [Mod 10 - PowerShell Array & Advanced Flow Control (Lecture) 4 of 4]()
 
-[Mod 10 PowerShell Lists & Advanced Flow Control Lecture.pptx]()
+[Mod 10 PowerShell Lists & Advanced Flow Control Lecture.pptx](https://github.com/mosesmarin/MSBAnDS/blob/main/MSIS-5713/Mod%2010%20PowerShell%20Lists%20%26%20Advanced%20Flow%20Control%20Lecture(2).pdf)
 
 Assignments
 
